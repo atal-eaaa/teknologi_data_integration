@@ -25,7 +25,7 @@ if __name__ == "__main__":
         weather_data = get_latest_weather()
         latest_days = weather_data.get('sol_keys', [])
 
-        print(latest_days)
+        print(weather_data)
     
     except Exception as e:
         print(f"Error fetching weather data: {e}")
