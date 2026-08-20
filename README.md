@@ -1,1 +1,1 @@
-# Øvelser og opgaver til faget teknologi- og dataintegration på EAAA. Efteråret 2026.
+# Øvelser og opgaver til faget teknologi- og dataintegration. EAAA Efteråret 2026.
