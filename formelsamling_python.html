@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+<meta charset="UTF-8">
+<title>Python – Formelsamling</title>
+<style>
+  :root {
+    --accent: #2E5B88;
+    --accent-light: #EAF1F8;
+    --code-bg: #F4F4F4;
+    --border: #cccccc;
+    --text: #1a1a1a;
+  }
+
+  * { box-sizing: border-box; }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: #ffffff;
+    color: var(--text);
+    font-family: "Calibri", "Segoe UI", Arial, sans-serif;
+    font-size: 12.5px;
+    line-height: 1.35;
+  }
+
+  .page {
+    max-width: 210mm;
+    margin: 0 auto;
+    padding: 18px 20px 40px;
+  }
+
+  h1.title {
+    text-align: center;
+    color: var(--accent);
+    font-size: 24px;
+    margin: 0 0 2px;
+  }
+
+  p.subtitle {
+    text-align: center;
+    color: #555555;
+    font-style: italic;
+    margin: 0 0 14px;
+    font-size: 12px;
+  }
+
+  .content {
+    column-count: 2;
+    column-gap: 22px;
+  }
+
+  section.sec {
+    margin-bottom: 10px;
+  }
+
+  h2 {
+    color: var(--accent);
+    font-size: 13.5px;
+    border-bottom: 1.5px solid var(--accent);
+    padding-bottom: 2px;
+    margin: 0 0 6px;
+    break-after: avoid;
+  }
+
+  h3 {
+    font-size: 12px;
+    margin: 8px 0 3px;
+    break-after: avoid;
+  }
+
+  p { margin: 4px 0; }
+
+  ul { margin: 4px 0; padding-left: 16px; }
+  li { margin: 2px 0; }
+
+  strong { font-weight: 700; }
+
+  code {
+    font-family: "Consolas", "SFMono-Regular", Menlo, monospace;
+    font-size: 11px;
+    background: var(--code-bg);
+    border: 1px solid var(--border);
+    border-radius: 2px;
+    padding: 0 2px;
+  }
+
+  pre {
+    font-family: "Consolas", "SFMono-Regular", Menlo, monospace;
+    font-size: 10.3px;
+    background: var(--code-bg);
+    border: 1px solid var(--border);
+    border-radius: 3px;
+    padding: 6px 8px;
+    margin: 5px 0;
+    white-space: pre-wrap;
+    word-break: break-word;
+    break-inside: avoid;
+  }
+  pre code {
+    background: none;
+    border: none;
+    padding: 0;
+    font-size: 10.3px;
+  }
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 5px 0 8px;
+    break-inside: avoid;
+    font-size: 11px;
+  }
+  th, td {
+    border: 1px solid var(--border);
+    padding: 3px 6px;
+    text-align: left;
+    vertical-align: top;
+  }
+  th {
+    background: var(--accent);
+    color: #ffffff;
+    font-weight: 700;
+  }
+  tr:nth-child(even) td {
+    background: var(--accent-light);
+  }
+  td code, th code {
+    background: none;
+    border: none;
+    padding: 0;
+  }
+
+  .output-block {
+    font-family: "Consolas", "SFMono-Regular", Menlo, monospace;
+    font-size: 10.8px;
+    background: #ffffff;
+    border: 1px dashed var(--border);
+    border-radius: 3px;
+    padding: 5px 8px;
+    margin: 5px 0;
+    break-inside: avoid;
+  }
+
+  .note {
+    background: var(--accent-light);
+    border-left: 3px solid var(--accent);
+    padding: 4px 8px;
+    margin: 5px 0;
+    break-inside: avoid;
+  }
+
+  @media print {
+    body { font-size: 11px; }
+    .page { padding: 0; max-width: none; }
+    .content { column-count: 2; column-gap: 20px; }
+    h2 { font-size: 12.5px; }
+    a { color: inherit; text-decoration: none; }
+  }
+
+  @page {
+    size: A4;
+    margin: 13mm 11mm;
+  }
+
+  @media screen {
+    body { background: #f0f0f0; }
+    .page {
+      background: #ffffff;
+      margin: 20px auto;
+      box-shadow: 0 0 10px rgba(0,0,0,0.15);
+      max-width: 210mm;
+      min-height: 297mm;
+    }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <h1 class="title">Python – Formelsamling</h1>
+  <p class="subtitle">Teknologi- og dataintegration · E25AB</p>
+
+  <div class="content">
+
+    <section class="sec">
+      <h2>1. Datatyper</h2>
+      <table>
+        <tr><th>Type</th><th>Betyder</th><th>Eksempel</th></tr>
+        <tr><td><code>str</code></td><td>Tekst (streng)</td><td><code>"Sara"</code>, <code>"12"</code></td></tr>
+        <tr><td><code>int</code></td><td>Heltal</td><td><code>21</code>, <code>-5</code>, <code>0</code></td></tr>
+        <tr><td><code>float</code></td><td>Decimaltal</td><td><code>3.14</code>, <code>2.0</code></td></tr>
+        <tr><td><code>bool</code></td><td>Sandhedsværdi</td><td><code>True</code>, <code>False</code></td></tr>
+      </table>
+      <p><code>type(x)</code> fortæller dig, hvilken datatype <code>x</code> har.</p>
+    </section>
+
+    <section class="sec">
+      <h2>2. Konvertering mellem datatyper</h2>
+      <table>
+        <tr><th>Funktion</th><th>Gør</th></tr>
+        <tr><td><code>int(x)</code></td><td>Laver <code>x</code> om til et heltal – <strong>kapper</strong> decimaler, runder ikke</td></tr>
+        <tr><td><code>float(x)</code></td><td>Laver <code>x</code> om til et decimaltal</td></tr>
+        <tr><td><code>str(x)</code></td><td>Laver <code>x</code> om til tekst</td></tr>
+      </table>
+      <p><strong>Pas på!</strong></p>
+      <ul>
+        <li><code>"12" + "8"</code> giver <code>"128"</code> (tekst sættes sammen), ikke <code>20</code>.</li>
+        <li><code>int(9.9)</code> giver <code>9</code> – ikke <code>10</code>. <code>int()</code> runder ikke, den fjerner bare alt efter kommaet.</li>
+        <li><code>"20" >= 18</code> giver <strong>fejl</strong> – man kan ikke sammenligne tekst (<code>str</code>) og tal (<code>int</code>) direkte.</li>
+        <li>Tjek altid datatypen, hvis noget virker mærkeligt: <code>type(x)</code>.</li>
+      </ul>
+    </section>
+
+    <section class="sec">
+      <h2>3. Lister</h2>
+      <p>En liste skrives med <code>[ ]</code> og indeholder elementer adskilt af komma. Det <strong>første</strong> element har indeks <code>0</code>.</p>
+      <pre><code>1  frugter = ["æble", "banan", "pære"]
+2  print(frugter[0])   # "æble" (det første)
+3  print(frugter[-1])  # "pære" (det sidste)</code></pre>
+      <p><strong>Typiske liste-funktioner</strong></p>
+      <table>
+        <tr><th>Funktion</th><th>Gør</th></tr>
+        <tr><td><code>len(liste)</code></td><td>Antal elementer i listen</td></tr>
+        <tr><td><code>liste[i]</code></td><td>Elementet på plads <code>i</code> (indeks) – første plads er <code>0</code></td></tr>
+        <tr><td><code>liste[-1]</code></td><td>Det sidste element i listen</td></tr>
+        <tr><td><code>liste.append(x)</code></td><td>Tilføjer <code>x</code> sidst i listen</td></tr>
+        <tr><td><code>for x in liste:</code></td><td>Looper igennem hvert element i listen, ét ad gangen</td></tr>
+        <tr><td><code>while i &lt; len(liste):</code></td><td>Looper med et tælleindeks <code>i</code> – bruges ofte sammen med <code>liste[i]</code></td></tr>
+      </table>
+    </section>
+
+    <section class="sec">
+      <h2>4. Regneoperatorer</h2>
+      <table>
+        <tr><th>Tegn</th><th>Navn</th><th>Eksempel</th><th>Resultat</th></tr>
+        <tr><td><code>+</code></td><td>Plus</td><td><code>5 + 3</code></td><td><code>8</code></td></tr>
+        <tr><td><code>-</code></td><td>Minus</td><td><code>5 - 3</code></td><td><code>2</code></td></tr>
+        <tr><td><code>*</code></td><td>Gange</td><td><code>5 * 3</code></td><td><code>15</code></td></tr>
+        <tr><td><code>/</code></td><td>Division</td><td><code>9 / 4</code></td><td><code>2.25</code></td></tr>
+        <tr><td><code>//</code></td><td>Heltalsdivision (runder <strong>ned</strong>)</td><td><code>9 // 4</code></td><td><code>2</code></td></tr>
+        <tr><td><code>%</code></td><td>Modulo (resten ved division)</td><td><code>9 % 4</code></td><td><code>1</code></td></tr>
+      </table>
+      <p>Modulo bruges tit til at tjekke lige/ulige tal: <code>tal % 2 == 0</code> er sandt, hvis <code>tal</code> er lige.</p>
+    </section>
+
+    <section class="sec">
+      <h2>5. Sammenligningsoperatorer</h2>
+      <table>
+        <tr><th>Tegn</th><th>Betyder</th></tr>
+        <tr><td><code>==</code></td><td>Er lig med</td></tr>
+        <tr><td><code>!=</code></td><td>Er <strong>ikke</strong> lig med</td></tr>
+        <tr><td><code>&gt;</code></td><td>Større end</td></tr>
+        <tr><td><code>&lt;</code></td><td>Mindre end</td></tr>
+        <tr><td><code>&gt;=</code></td><td>Større end eller lig med</td></tr>
+        <tr><td><code>&lt;=</code></td><td>Mindre end eller lig med</td></tr>
+      </table>
+      <p>Resultatet af en sammenligning er altid <code>True</code> eller <code>False</code> (<code>bool</code>).</p>
+    </section>
+
+    <section class="sec">
+      <h2>6. Boolske operatorer (and / or / not)</h2>
+      <table>
+        <tr><th>Operator</th><th>Betyder</th><th>Sand hvis...</th></tr>
+        <tr><td><code>and</code></td><td>Og</td><td><strong>begge</strong> betingelser er sande</td></tr>
+        <tr><td><code>or</code></td><td>Eller</td><td><strong>mindst én</strong> betingelse er sand</td></tr>
+        <tr><td><code>not</code></td><td>Ikke</td><td>vender resultatet om (<code>True</code> bliver <code>False</code>)</td></tr>
+      </table>
+      <p><code>True</code> tæller som <code>1</code> og <code>False</code> tæller som <code>0</code>, når de bruges sammen med <code>+</code> eller <code>-</code>:</p>
+      <pre><code>1  pris = 100 + True   # pris bliver 101
+2  pris = 100 - False  # pris bliver 100</code></pre>
+      <ul>
+        <li>En flag-variabel (fx <code>fundet = False</code>) starter typisk som <code>False</code> og skiftes til <code>True</code>, når noget bestemt sker i koden.</li>
+      </ul>
+    </section>
+
+    <section class="sec">
+      <h2>7. If / elif / else</h2>
+
+      <h3>if / elif / else</h3>
+      <p>Computeren tjekker betingelserne <strong>oppefra og ned, én ad gangen</strong>. Så snart én betingelse er sand:</p>
+      <ul>
+        <li>Den tilhørende gren køres.</li>
+        <li>Resten af <code>elif</code>/<code>else</code> bliver <strong>ikke</strong> tjekket – heller ikke selvom de også ville have været sande.</li>
+      </ul>
+      <pre><code> 1  karakter = 7
+ 2
+ 3  if karakter >= 10:      # False → videre
+ 4      print("Fremragende")
+ 5  elif karakter >= 7:     # True → STOP her
+ 6      print("Godt")
+ 7  elif karakter >= 4:     # springes over
+ 8      print("Jævnt")
+ 9  else:                   # springes over
+10      print("Dumpet")</code></pre>
+      <p>Output: <code>Godt</code></p>
+
+      <h3>Flere separate if-sætninger (uden elif)</h3>
+      <p>Denne gang hører linje 3-6 sammen som et <code>if</code>/<code>else</code>-par – kun én af dem kan blive kørt. Linje 7-10 er derimod to <strong>selvstændige</strong> <code>if</code>-sætninger, som bliver tjekket helt uafhængigt af if/else-parret ovenfor (og af hinanden):</p>
+      <pre><code> 1  karakter = 7
+ 2
+ 3  if karakter >= 10:      # False → else
+ 4      print("Fremragende")
+ 5  else:                   # køres (if var falsk)
+ 6      print("Ikke fremragende")
+ 7  if karakter >= 4:       # selvstændig if
+ 8      print("Jævnt")
+ 9  if karakter < 4:        # False, springes over
+10      print("Dumpet")</code></pre>
+      <p>Output:</p>
+      <div class="output-block">Ikke fremragende<br>Jævnt</div>
+      <p>Der bliver stadig printet <strong>to</strong> linjer: én fra if/else-parret (linje 3-6) og én fra den selvstændige if på linje 7. If/else-parret opfører sig som i afsnittet ovenfor – kun én gren køres – men de efterfølgende if-sætninger er ikke en del af det par, så de bliver tjekket, uanset hvad if/else endte med at gøre.</p>
+
+      <h3>Sammenligning</h3>
+      <table>
+        <tr><th></th><th><code>if / elif / else</code></th><th><code>if/else</code> + selvstændige <code>if</code></th></tr>
+        <tr><td>Hvor mange betingelser bliver tjekket?</td><td>Stopper ved den <strong>første</strong> sande</td><td>Hvert <code>if</code>/<code>elif</code>/<code>else</code>-<strong>par</strong> stopper for sig – men de næste, selvstændige <code>if</code>-sætninger bliver altid tjekket</td></tr>
+        <tr><td>Hvor mange grene kan blive kørt?</td><td>Højst <strong>én</strong> i alt</td><td>Højst én <strong>pr. if/elif/else-par</strong>, men flere samlet set</td></tr>
+      </table>
+    </section>
+
+    <section class="sec">
+      <h2>8. Løkker (loops)</h2>
+
+      <h3>for-loop med <code>range(start, stop, step)</code></h3>
+      <p>Tæller fra <code>start</code> op til (men <strong>ikke med</strong>) <code>stop</code>, i spring på <code>step</code> ad gangen. <code>step</code> er <code>1</code>, hvis den ikke skrives.</p>
+      <table>
+        <tr><th>Kode</th><th>Værdi af t</th></tr>
+        <tr><td><code>for t in range(5):</code></td><td><code>0</code> <code>1</code> <code>2</code> <code>3</code> <code>4</code></td></tr>
+        <tr><td><code>for t in range(1, 5):</code></td><td><code>1</code> <code>2</code> <code>3</code> <code>4</code></td></tr>
+        <tr><td><code>for t in range(2, 11, 2):</code></td><td><code>2</code> <code>4</code> <code>6</code> <code>8</code> <code>10</code></td></tr>
+      </table>
+
+      <h3>while-loop</h3>
+      <p>Kører, <strong>så længe</strong> betingelsen er sand. Husk at ændre variablen inde i loopet, ellers kører det for evigt.</p>
+      <pre><code>1  tal = 5
+2  while tal > 0:
+3      print(tal)
+4      tal = tal - 1
+5  # tal: 5, 4, 3, 2, 1</code></pre>
+
+      <h3>break</h3>
+      <p>Stopper loopet med det samme, uanset betingelsen. I et nested loop (loop i loop) stopper <code>break</code> kun det <strong>inderste</strong> loop – det ydre loop fortsætter.</p>
+
+      <h3>Loop i loop (nested loop)</h3>
+      <p>For hver værdi i det ydre loop kører <strong>hele</strong> det indre loop igennem, før det ydre skifter til næste værdi.</p>
+      <pre><code>1  for i in range(1, 3):
+2      for j in range(1, 3):
+3          print(i, j)
+4  # (1,1) (1,2) (2,1) (2,2)</code></pre>
+    </section>
+
+    <section class="sec">
+      <h2>9. Strings (tekst) som en liste af bogstaver</h2>
+      <p>Et for-loop kan gå igennem bogstaverne i en tekst, ét ad gangen. <code>len(tekst)</code> tæller antal bogstaver.</p>
+      <pre><code>1  for bogstav in "kode":
+2      print(bogstav)
+3  # k
+4  # o
+5  # d
+6  # e</code></pre>
+    </section>
+
+    <section class="sec">
+      <h2>10. Sådan arbejder du med kode på papir</h2>
+      <ul>
+        <li>Koden køres <strong>altid</strong> oppefra og ned, linje for linje.</li>
+        <li>En variabel husker sin værdi, indtil en ny linje ændrer den.</li>
+        <li>Lav en lille tabel med én kolonne pr. variabel, og opdater den for hver omgang i et loop.</li>
+        <li>Ved nested loops: brug to kolonner (fx <code>i</code> og <code>j</code>), og husk at det indre loop kører helt færdigt, før det ydre tæller videre.</li>
+      </ul>
+    </section>
+
+  </div>
+</div>
+</body>
+</html>
