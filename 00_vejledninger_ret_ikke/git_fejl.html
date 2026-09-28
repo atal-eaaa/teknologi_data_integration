@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Typiske git-fejl</title>
+<style>
+  @page { size: A4 portrait; margin: 8mm; }
+  * { box-sizing: border-box; }
+  body {
+    font-family: "Segoe UI", Calibri, Arial, sans-serif;
+    font-size: 8.2pt;
+    line-height: 1.25;
+    color: #111;
+    background: #fff;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 16px;
+  }
+  h1 { font-size: 15pt; margin: 0 0 3px; }
+  .sub { color: #444; margin: 0 0 7px; }
+  .first {
+    border: 1.5px solid #111;
+    padding: 4px 8px;
+    margin: 0 0 7px;
+  }
+  table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+  col.n { width: 4%; }
+  col.see { width: 30%; }
+  col.why { width: 25%; }
+  col.fix { width: 41%; }
+  th, td {
+    border: 1px solid #888;
+    padding: 3px 5px;
+    vertical-align: top;
+    text-align: left;
+    overflow-wrap: anywhere;
+  }
+  th { background: #e6e6e6; font-weight: 600; }
+  tbody tr:nth-child(even) td { background: #f5f5f5; }
+  td.n { text-align: center; font-weight: 600; }
+  tr { break-inside: avoid; page-break-inside: avoid; }
+  thead { display: table-header-group; }
+  code {
+    font-family: Consolas, "Courier New", monospace;
+    font-size: 7.6pt;
+    background: #ececec;
+    padding: 0 3px;
+    border-radius: 2px;
+  }
+  td:nth-child(3) code, td:nth-child(4) code { white-space: nowrap; }
+  ol { margin: 0; padding-left: 18px; }
+  .last td { border-top: 2px solid #111; }
+  h2 { font-size: 10.5pt; margin: 8px 0 3px; }
+  ul.tips { margin: 0; padding-left: 18px; }
+  @media print {
+    body { padding: 0; max-width: none; }
+    th, tbody tr:nth-child(even) td, code {
+      -webkit-print-color-adjust: exact; print-color-adjust: exact;
+    }
+  }
+  @media (max-width: 700px) {
+    table { table-layout: auto; font-size: 9.5pt; }
+  }
+</style>
+</head>
+<body>
+<h1>Typiske git-fejl</h1>
+<p class="sub">Til undervisere, der hjælper studerende med kun én remote (<code>origin</code> = undervisernes repo), som kun bruger <code>git clone</code> og <code>git pull</code>. Fejlbeskederne står på engelsk, fordi det er dem, de studerende ser.</p>
+<p class="first"><strong>Første skridt ved ethvert problem:</strong> bed den studerende køre <code>git status</code>. Den viser, hvilken mappe og branch de står i, og hvilke filer de har ændret, og den foreslår ofte selv løsningen.</p>
+
+<table>
+<colgroup><col class="n"><col class="see"><col class="why"><col class="fix"></colgroup>
+<thead>
+<tr><th>#</th><th>Det ser den studerende</th><th>Hvad er der sket?</th><th>Sådan løser du det</th></tr>
+</thead>
+<tbody>
+<tr><td class="n">1</td><td><code>fatal: not a git repository (or any of the parent directories)</code></td><td>Terminalen står i den forkerte mappe.</td><td>Åbn repo-mappen i VS Code (File → Open Folder), eller <code>cd</code> ind i den. Mappenavne med mellemrum skal i anførselstegn: <code>cd "Lektion 6"</code>.</td></tr>
+<tr><td class="n">2</td><td><code>error: Your local changes to the following files would be overwritten by merge:</code> efterfulgt af en liste med filer</td><td>Den studerende har rettet i en fil, som underviserne også har ændret. Det sker også, når en notebook er kørt og gemt, fordi outputtet gemmes i <code>.ipynb</code>-filen.</td><td><code>git stash</code>, derefter <code>git pull</code>, derefter <code>git stash pop</code>. Hvis <code>stash pop</code> melder en konflikt, se række 6.</td></tr>
+<tr><td class="n">3</td><td><code>error: The following untracked working tree files would be overwritten by merge:</code></td><td>Den studerende har lavet en fil med samme navn som en, underviserne lige har tilføjet, fx sin egen <code>Lektion 6/opgave.py</code>.</td><td>Omdøb eller flyt den studerendes fil, og kør <code>git pull</code> igen.</td></tr>
+<tr><td class="n">4</td><td><code>fatal: destination path '...' already exists and is not an empty directory</code></td><td>De har kørt <code>git clone</code> en gang til.</td><td>De skal ikke klone igen. <code>cd</code> ind i den eksisterende mappe og kør <code>git pull</code>.</td></tr>
+<tr><td class="n">5</td><td><code>Already up to date.</code>, men de nye øvelser mangler</td><td>Som regel har de to kopier af repoet og puller i den forkerte. Ellers er undervisernes PR ikke merget endnu.</td><td>Tjek med <code>git remote -v</code>, og se mappestien i VS Code. Tjek på GitHub, at PR'en er merget.</td></tr>
+<tr><td class="n">6</td><td><code>CONFLICT (content): Merge conflict in &lt;fil&gt;</code></td><td>De samme linjer er ændret både lokalt og i undervisernes repo.</td><td>Åbn filen i VS Code og vælg <strong>Accept Current / Incoming / Both</strong>. Gem, og kør så <code>git add .</code> og <code>git commit -m "Løst konflikt"</code>. For at opgive og gå tilbage: <code>git merge --abort</code>.</td></tr>
+<tr><td class="n">7</td><td><code>fatal: Need to specify how to reconcile divergent branches</code></td><td>Den studerende har kørt <code>git commit</code> lokalt (tit efter at have googlet), og der er også nye commits i undervisernes repo.</td><td>Kør <code>git config --global pull.rebase false</code> én gang, og derefter <code>git pull</code> igen.</td></tr>
+<tr><td class="n">8</td><td>En mærkelig editor åbner i terminalen med teksten <code>Merge branch 'main' of ...</code></td><td>Det er Vim. Git vil have en besked til merge-committet (kommer efter række 7).</td><td>Skriv <code>:wq</code> og tryk Enter.</td></tr>
+<tr><td class="n">9</td><td><code>Author identity unknown *** Please tell me who you are</code></td><td>Git skal kende navn og e-mail for at lave et commit eller en merge.</td><td><code>git config --global user.name "Navn"</code> og <code>git config --global user.email "mail@eaaa.dk"</code>, og gentag så kommandoen.</td></tr>
+<tr><td class="n">10</td><td><code>git : The term 'git' is not recognized...</code> eller <code>'git' is not recognized as an internal or external command</code></td><td>Git er ikke installeret, eller VS Code var åben, da Git blev installeret.</td><td>Installer Git, og <strong>genstart VS Code</strong> helt. <code>check_git.py</code> i repoet kan bekræfte, at det virker.</td></tr>
+<tr><td class="n">11</td><td><code>remote: Permission to atal-eaaa/... denied</code> eller <code>403</code> efter <code>git push</code></td><td>Studerende kan ikke pushe til undervisernes repo. Det er meningen.</td><td>Intet at løse. En studerende, der vil gemme sin kode online, skal følge <code>git_guide.md</code>.</td></tr>
+<tr><td class="n">12</td><td>En slettet fil kommer ikke tilbage efter <code>git pull</code></td><td>Git ser sletningen som den studerendes egen ændring og beholder den.</td><td><code>git restore "Lektion 6/filnavn.py"</code>, eller <code>git restore .</code> for at gendanne alle slettede og ændrede filer. <strong>Advarsel:</strong> det sletter også deres egne rettelser.</td></tr>
+<tr><td class="n">13</td><td><code>fatal: unable to access 'https://github.com/...': Could not resolve host</code></td><td>Ingen internetforbindelse, eller netværket blokerer GitHub.</td><td>Tjek wifi og prøv igen.</td></tr>
+<tr class="last"><td class="n">14</td><td><strong>Når intet andet virker</strong></td><td>Repoet er kommet i en tilstand, der er svær at rede ud.</td><td><ol><li>Omdøb den studerendes mappe, fx til <code>teknologi_data_integration_gammel</code>.</li><li>Kør <code>git clone</code> igen for at få en frisk kopi.</li><li>Kopier den studerendes egne filer tilbage fra den gamle mappe.</li></ol>Det virker altid, og intet går tabt.</td></tr>
+</tbody>
+</table>
+
+<h2>Tips</h2>
+<ul class="tips">
+<li>De fleste af disse fejl kommer fra <strong>række 2 og 3</strong>, og begge starter, når underviserne ændrer en eksisterende fil eller tilføjer en, hvis navn en studerende allerede har brugt. Reglen om "aldrig at rette i tidligere mapper" forebygger de fleste af dem.</li>
+<li>Gits beskeder foreslår som regel selv, hvad man skal gøre. Det er en god idé at læse linjerne, der starter med <code>hint:</code>, sammen med den studerende.</li>
+</ul>
+</body>
+</html>
