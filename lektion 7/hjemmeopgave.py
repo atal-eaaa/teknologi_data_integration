@@ -7,7 +7,15 @@ Skriv et while-loop, der - så længe belob er større end 0 - trækker den stø
 til sidst, hvor mange mønter der blev brugt i alt.
 """
 
-beloeb = int(input("Indtast beløb : "))
+while True:
+    try:
+        beloeb = int(input("Indtast beløb : "))
+        break
+    except:
+        print("Indtast et beløb i hele kroner")
+
+        
+
 moent_20 = 0
 moent_10 = 0
 moent_5  = 0
