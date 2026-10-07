@@ -1,0 +1,481 @@
+tier;club;season;squad;avg_age;foreigners;total_market_value;club_std_name;country
+LL;Real Madrid;2026/27;27;26.0;20;1460.0;Real Madrid;ESP
+LL;FC Barcelona;2026/27;27;25.3;13;1260.0;FC Barcelona;ESP
+LL;Atlético de Madrid;2026/27;25;26.6;13;679.7;Atlético Madrid;ESP
+LL;Villarreal CF;2026/27;24;26.2;15;331.6;Villarreal CF;ESP
+LL;Real Sociedad;2026/27;24;25.7;9;278.3;Real Sociedad;ESP
+LL;Real Betis Balompié;2026/27;25;28.3;11;254.6;Real Betis;ESP
+LL;Athletic Bilbao;2026/27;26;26.9;5;232.8;Athletic Bilbao;ESP
+LL;Celta de Vigo;2026/27;25;27.1;9;173.0;Celta de Vigo;ESP
+LL;Sevilla FC;2026/27;26;25.9;13;169.1;Sevilla FC;ESP
+LL;Valencia CF;2026/27;29;26.9;13;149.15;Valencia;ESP
+LL;RCD Espanyol Barcelona;2026/27;25;26.9;8;127.8;Espanyol;ESP
+LL;Deportivo A Coruña;2026/27;27;26.6;9;115.15;;
+LL;Racing Santander;2026/27;24;25.3;9;107.5;Santander;ESP
+LL;Getafe CF;2026/27;23;27.5;13;92.3;Getafe;ESP
+LL;Levante UD;2026/27;24;24.6;10;86.9;Levante;ESP
+LL;Rayo Vallecano;2026/27;27;28.6;12;86.85;Rayo Vallecano;ESP
+LL;CA Osasuna;2026/27;24;28.1;5;78.1;CA Osasuna;ESP
+LL;Elche CF;2026/27;28;26.2;14;74.0;Elche;ESP
+LL;Deportivo Alavés;2026/27;24;27.3;11;66.7;Deportivo Alavés;ESP
+LL;Málaga CF;2026/27;28;25.5;4;55.35;Málaga CF;ESP
+LL;Real Madrid;2025/26;44;24.0;18;1300.0;Real Madrid;ESP
+LL;FC Barcelona;2025/26;36;24.3;12;1190.0;FC Barcelona;ESP
+LL;Atlético de Madrid;2025/26;44;25.2;21;646.9;Atlético Madrid;ESP
+LL;Villarreal CF;2025/26;41;25.4;19;375.55;Villarreal CF;ESP
+LL;Real Sociedad;2025/26;44;24.9;15;299.0;Real Sociedad;ESP
+LL;Real Betis Balompié;2025/26;39;26.8;15;253.05;Real Betis;ESP
+LL;Athletic Bilbao;2025/26;40;25.8;3;237.65;Athletic Bilbao;ESP
+LL;Celta de Vigo;2025/26;38;25.9;9;207.6;Celta de Vigo;ESP
+LL;Girona FC;2025/26;42;26.9;24;199.2;Girona;ESP
+LL;Sevilla FC;2025/26;40;26.7;20;176.5;Sevilla FC;ESP
+LL;Valencia CF;2025/26;42;25.7;14;147.03;Valencia;ESP
+LL;RCD Espanyol Barcelona;2025/26;36;25.4;9;135.15;Espanyol;ESP
+LL;Elche CF;2025/26;43;25.2;15;128.05;Elche;ESP
+LL;Levante UD;2025/26;37;25.1;11;113.95;Levante;ESP
+LL;Rayo Vallecano;2025/26;33;27.6;14;106.2;Rayo Vallecano;ESP
+LL;CA Osasuna;2025/26;34;26.5;5;102.7;CA Osasuna;ESP
+LL;Getafe CF;2025/26;44;26.0;19;95.6;Getafe;ESP
+LL;RCD Mallorca;2025/26;38;26.1;15;83.2;Mallorca;ESP
+LL;Deportivo Alavés;2025/26;37;26.3;13;82.68;Deportivo Alavés;ESP
+LL;Real Oviedo;2025/26;39;27.0;19;60.95;Oviedo;ESP
+LL;Real Madrid;2024/25;42;24.4;19;1350.0;Real Madrid;ESP
+LL;FC Barcelona;2024/25;39;23.3;11;1080.0;FC Barcelona;ESP
+LL;Atlético de Madrid;2024/25;41;26.5;22;542.5;Atlético Madrid;ESP
+LL;Athletic Bilbao;2024/25;37;26.1;4;375.35;Athletic Bilbao;ESP
+LL;Real Sociedad;2024/25;39;24.6;9;345.05;Real Sociedad;ESP
+LL;Real Betis Balompié;2024/25;46;26.0;19;291.7;Real Betis;ESP
+LL;Villarreal CF;2024/25;36;26.2;16;264.25;Villarreal CF;ESP
+LL;Valencia CF;2024/25;44;24.5;13;215.55;Valencia;ESP
+LL;Sevilla FC;2024/25;44;25.2;19;183.9;Sevilla FC;ESP
+LL;Girona FC;2024/25;46;25.1;22;153.1;Girona;ESP
+LL;Celta de Vigo;2024/25;36;26.3;12;130.9;Celta de Vigo;ESP
+LL;UD Las Palmas;2024/25;42;25.4;15;117.3;Las Palmas;ESP
+LL;RCD Espanyol Barcelona;2024/25;37;25.6;10;116.98;Espanyol;ESP
+LL;CA Osasuna;2024/25;34;26.7;4;113.28;CA Osasuna;ESP
+LL;Deportivo Alavés;2024/25;37;25.8;15;92.35;Deportivo Alavés;ESP
+LL;Getafe CF;2024/25;37;25.4;15;87.7;Getafe;ESP
+LL;RCD Mallorca;2024/25;31;27.6;13;84.88;Mallorca;ESP
+LL;Real Valladolid CF;2024/25;43;25.4;23;81.45;Valladolid;ESP
+LL;Rayo Vallecano;2024/25;34;28.3;11;68.0;Rayo Vallecano;ESP
+LL;CD Leganés;2024/25;40;26.1;16;47.98;CD Leganés;ESP
+LL;Real Madrid;2023/24;37;25.6;21;1140.0;Real Madrid;ESP
+LL;FC Barcelona;2023/24;38;24.0;15;916.2;FC Barcelona;ESP
+LL;Real Sociedad;2023/24;40;25.2;10;498.5;Real Sociedad;ESP
+LL;Atlético de Madrid;2023/24;42;26.9;23;458.45;Atlético Madrid;ESP
+LL;Girona FC;2023/24;37;25.6;15;297.9;Girona;ESP
+LL;Athletic Bilbao;2023/24;31;27.0;2;295.65;Athletic Bilbao;ESP
+LL;Villarreal CF;2023/24;39;27.2;15;252.5;Villarreal CF;ESP
+LL;Valencia CF;2023/24;36;23.8;11;244.73;Valencia;ESP
+LL;Sevilla FC;2023/24;49;26.7;27;228.75;Sevilla FC;ESP
+LL;Real Betis Balompié;2023/24;42;27.0;22;224.88;Real Betis;ESP
+LL;Celta de Vigo;2023/24;39;25.9;14;149.3;Celta de Vigo;ESP
+LL;Granada CF;2023/24;46;26.4;18;141.1;Granada CF;ESP
+LL;Getafe CF;2023/24;40;25.7;18;133.0;Getafe;ESP
+LL;Deportivo Alavés;2023/24;41;24.5;16;123.7;Deportivo Alavés;ESP
+LL;UD Las Palmas;2023/24;35;26.2;11;112.4;Las Palmas;ESP
+LL;CA Osasuna;2023/24;32;27.2;5;105.35;CA Osasuna;ESP
+LL;UD Almería;2023/24;41;25.3;22;99.4;Almeria;ESP
+LL;RCD Mallorca;2023/24;35;26.9;14;87.7;Mallorca;ESP
+LL;Rayo Vallecano;2023/24;30;28.9;12;63.95;Rayo Vallecano;ESP
+LL;Cádiz CF;2023/24;44;27.0;15;60.7;Cádiz CF;ESP
+LL;Real Madrid;2022/23;36;25.9;20;923.45;Real Madrid;ESP
+LL;FC Barcelona;2022/23;41;24.4;14;836.8;FC Barcelona;ESP
+LL;Atlético de Madrid;2022/23;40;25.8;22;534.3;Atlético Madrid;ESP
+LL;Real Sociedad;2022/23;37;25.0;6;441.7;Real Sociedad;ESP
+LL;Villarreal CF;2022/23;43;26.4;15;363.5;Villarreal CF;ESP
+LL;Valencia CF;2022/23;40;24.5;18;249.78;Valencia;ESP
+LL;Real Betis Balompié;2022/23;38;27.6;13;246.4;Real Betis;ESP
+LL;Sevilla FC;2022/23;42;26.8;23;232.58;Sevilla FC;ESP
+LL;Athletic Bilbao;2022/23;31;27.1;1;222.45;Athletic Bilbao;ESP
+LL;CA Osasuna;2022/23;31;27.2;4;150.05;CA Osasuna;ESP
+LL;Girona FC;2022/23;37;25.6;13;139.9;Girona;ESP
+LL;Celta de Vigo;2022/23;36;25.7;12;138.8;Celta de Vigo;ESP
+LL;Getafe CF;2022/23;34;26.5;14;118.9;Getafe;ESP
+LL;RCD Espanyol Barcelona;2022/23;37;25.9;11;116.5;Espanyol;ESP
+LL;UD Almería;2022/23;36;25.9;18;114.2;Almeria;ESP
+LL;RCD Mallorca;2022/23;38;26.9;19;107.0;Mallorca;ESP
+LL;Rayo Vallecano;2022/23;29;28.7;10;103.4;Rayo Vallecano;ESP
+LL;Real Valladolid CF;2022/23;41;26.8;18;90.75;Valladolid;ESP
+LL;Elche CF;2022/23;40;27.0;17;67.5;Elche;ESP
+LL;Cádiz CF;2022/23;47;27.3;17;65.6;Cádiz CF;ESP
+LL;Real Madrid;2021/22;36;26.3;19;770.75;Real Madrid;ESP
+LL;FC Barcelona;2021/22;47;25.5;24;735.6;FC Barcelona;ESP
+LL;Atlético de Madrid;2021/22;43;25.7;24;661.8;Atlético Madrid;ESP
+LL;Villarreal CF;2021/22;39;26.5;15;408.9;Villarreal CF;ESP
+LL;Sevilla FC;2021/22;43;26.2;21;385.0;Sevilla FC;ESP
+LL;Real Sociedad;2021/22;40;25.2;7;376.95;Real Sociedad;ESP
+LL;Valencia CF;2021/22;44;24.1;20;310.6;Valencia;ESP
+LL;Real Betis Balompié;2021/22;38;27.9;13;259.0;Real Betis;ESP
+LL;Athletic Bilbao;2021/22;31;26.2;1;226.05;Athletic Bilbao;ESP
+LL;Getafe CF;2021/22;43;25.7;18;208.68;Getafe;ESP
+LL;RCD Espanyol Barcelona;2021/22;38;25.9;7;131.6;Espanyol;ESP
+LL;Celta de Vigo;2021/22;34;26.0;11;120.0;Celta de Vigo;ESP
+LL;CA Osasuna;2021/22;32;27.4;3;108.45;CA Osasuna;ESP
+LL;Granada CF;2021/22;39;26.9;16;103.75;Granada CF;ESP
+LL;Levante UD;2021/22;42;26.8;12;77.9;Levante;ESP
+LL;RCD Mallorca;2021/22;41;26.2;16;74.15;Mallorca;ESP
+LL;Elche CF;2021/22;37;27.9;14;72.98;Elche;ESP
+LL;Cádiz CF;2021/22;37;27.7;14;67.8;Cádiz CF;ESP
+LL;Rayo Vallecano;2021/22;36;26.7;14;67.2;Rayo Vallecano;ESP
+LL;Deportivo Alavés;2021/22;43;25.6;15;65.35;Deportivo Alavés;ESP
+LL;FC Barcelona;2020/21;32;25.5;20;813.5;FC Barcelona;ESP
+LL;Real Madrid;2020/21;37;25.3;17;787.3;Real Madrid;ESP
+LL;Atlético de Madrid;2020/21;39;25.4;21;773.1;Atlético Madrid;ESP
+LL;Sevilla FC;2020/21;38;26.2;17;418.25;Sevilla FC;ESP
+LL;Real Sociedad;2020/21;38;25.1;5;406.6;Real Sociedad;ESP
+LL;Villarreal CF;2020/21;36;26.4;13;292.6;Villarreal CF;ESP
+LL;Valencia CF;2020/21;35;25.2;20;278.85;Valencia;ESP
+LL;Real Betis Balompié;2020/21;33;27.2;12;207.7;Real Betis;ESP
+LL;Athletic Bilbao;2020/21;32;26.4;2;204.15;Athletic Bilbao;ESP
+LL;Getafe CF;2020/21;33;25.9;19;170.1;Getafe;ESP
+LL;Celta de Vigo;2020/21;41;24.8;12;155.85;Celta de Vigo;ESP
+LL;Granada CF;2020/21;44;25.3;17;122.65;Granada CF;ESP
+LL;Levante UD;2020/21;34;27.0;10;113.0;Levante;ESP
+LL;CA Osasuna;2020/21;36;27.5;6;96.75;CA Osasuna;ESP
+LL;SD Eibar;2020/21;34;27.5;9;83.4;Eibar;ESP
+LL;Deportivo Alavés;2020/21;35;26.1;10;79.8;Deportivo Alavés;ESP
+LL;SD Huesca;2020/21;34;26.9;9;64.1;SD Huesca;ESP
+LL;Real Valladolid CF;2020/21;41;27.1;9;63.35;Valladolid;ESP
+LL;Cádiz CF;2020/21;41;27.6;16;47.65;Cádiz CF;ESP
+LL;Elche CF;2020/21;41;27.2;15;45.65;Elche;ESP
+LL;FC Barcelona;2019/20;42;24.7;23;930.28;FC Barcelona;ESP
+LL;Real Madrid;2019/20;33;26.2;21;913.75;Real Madrid;ESP
+LL;Atlético de Madrid;2019/20;33;25.3;16;720.15;Atlético Madrid;ESP
+LL;Valencia CF;2019/20;33;25.9;17;427.8;Valencia;ESP
+LL;Real Sociedad;2019/20;36;25.0;7;347.55;Real Sociedad;ESP
+LL;Sevilla FC;2019/20;35;26.2;16;294.75;Sevilla FC;ESP
+LL;Real Betis Balompié;2019/20;38;25.5;10;244.35;Real Betis;ESP
+LL;Athletic Bilbao;2019/20;32;26.8;2;211.75;Athletic Bilbao;ESP
+LL;Villarreal CF;2019/20;33;26.9;11;208.68;Villarreal CF;ESP
+LL;Getafe CF;2019/20;33;28.5;17;175.45;Getafe;ESP
+LL;Celta de Vigo;2019/20;35;25.5;13;167.0;Celta de Vigo;ESP
+LL;RCD Espanyol Barcelona;2019/20;40;26.3;12;156.05;Espanyol;ESP
+LL;CD Leganés;2019/20;39;25.8;16;109.7;CD Leganés;ESP
+LL;Deportivo Alavés;2019/20;37;26.6;11;106.75;Deportivo Alavés;ESP
+LL;Levante UD;2019/20;33;27.0;8;90.5;Levante;ESP
+LL;Real Valladolid CF;2019/20;37;26.0;9;87.78;Valladolid;ESP
+LL;RCD Mallorca;2019/20;35;26.9;15;64.68;Mallorca;ESP
+LL;CA Osasuna;2019/20;37;26.9;4;62.78;CA Osasuna;ESP
+LL;Granada CF;2019/20;34;26.4;13;56.58;Granada CF;ESP
+LL;SD Eibar;2019/20;29;28.8;11;53.75;Eibar;ESP
+LL;FC Barcelona;2018/19;39;25.2;20;1160.0;FC Barcelona;ESP
+LL;Atlético de Madrid;2018/19;37;24.7;17;969.7;Atlético Madrid;ESP
+LL;Real Madrid;2018/19;36;25.2;16;896.1;Real Madrid;ESP
+LL;Valencia CF;2018/19;33;25.2;17;499.65;Valencia;ESP
+LL;Sevilla FC;2018/19;38;26.6;21;306.3;Sevilla FC;ESP
+LL;Real Sociedad;2018/19;33;24.6;8;300.95;Real Sociedad;ESP
+LL;Real Betis Balompié;2018/19;34;25.9;15;290.75;Real Betis;ESP
+LL;Athletic Bilbao;2018/19;32;27.3;3;234.25;Athletic Bilbao;ESP
+LL;Celta de Vigo;2018/19;30;25.9;19;234.1;Celta de Vigo;ESP
+LL;Villarreal CF;2018/19;32;27.9;12;230.65;Villarreal CF;ESP
+LL;RCD Espanyol Barcelona;2018/19;30;27.3;9;174.7;Espanyol;ESP
+LL;Getafe CF;2018/19;28;27.7;13;132.2;Getafe;ESP
+LL;CD Leganés;2018/19;38;26.4;19;112.45;CD Leganés;ESP
+LL;Deportivo Alavés;2018/19;29;26.4;10;110.8;Deportivo Alavés;ESP
+LL;Levante UD;2018/19;31;26.4;10;107.85;Levante;ESP
+LL;Girona FC;2018/19;33;26.3;11;97.25;Girona;ESP
+LL;SD Eibar;2018/19;29;28.1;8;93.9;Eibar;ESP
+LL;Rayo Vallecano;2018/19;36;26.7;13;86.7;Rayo Vallecano;ESP
+LL;Real Valladolid CF;2018/19;41;25.6;8;83.0;Valladolid;ESP
+LL;SD Huesca;2018/19;39;27.2;15;61.4;SD Huesca;ESP
+LL;FC Barcelona;2017/18;32;26.8;17;1090.0;FC Barcelona;ESP
+LL;Real Madrid;2017/18;32;25.0;15;955.35;Real Madrid;ESP
+LL;Atlético de Madrid;2017/18;36;25.8;20;711.15;Atlético Madrid;ESP
+LL;Valencia CF;2017/18;30;24.7;14;398.05;Valencia;ESP
+LL;Sevilla FC;2017/18;33;27.0;20;253.2;Sevilla FC;ESP
+LL;Athletic Bilbao;2017/18;33;26.4;1;249.4;Athletic Bilbao;ESP
+LL;Real Sociedad;2017/18;29;26.8;6;232.95;Real Sociedad;ESP
+LL;Villarreal CF;2017/18;40;25.8;15;220.0;Villarreal CF;ESP
+LL;Celta de Vigo;2017/18;32;25.0;16;173.05;Celta de Vigo;ESP
+LL;Real Betis Balompié;2017/18;31;26.4;11;132.25;Real Betis;ESP
+LL;RCD Espanyol Barcelona;2017/18;29;27.8;7;97.8;Espanyol;ESP
+LL;UD Las Palmas;2017/18;38;27.4;15;91.25;Las Palmas;ESP
+LL;Girona FC;2017/18;30;25.8;14;81.75;Girona;ESP
+LL;Deportivo Alavés;2017/18;33;25.6;12;74.8;Deportivo Alavés;ESP
+LL;Deportivo de La Coruña;2017/18;36;27.3;18;66.45;Deportivo de La Coruña;ESP
+LL;Getafe CF;2017/18;36;27.1;18;65.6;Getafe;ESP
+LL;Levante UD;2017/18;37;25.8;15;61.85;Levante;ESP
+LL;SD Eibar;2017/18;33;27.4;9;60.05;Eibar;ESP
+LL;CD Leganés;2017/18;34;27.3;15;58.55;CD Leganés;ESP
+LL;Málaga CF;2017/18;40;26.2;17;55.2;Málaga CF;ESP
+LL;Real Madrid;2016/17;29;26.2;18;802.9;Real Madrid;ESP
+LL;FC Barcelona;2016/17;33;26.3;18;765.3;FC Barcelona;ESP
+LL;Atlético de Madrid;2016/17;38;25.1;22;515.8;Atlético Madrid;ESP
+LL;Sevilla FC;2016/17;38;26.1;23;270.1;Sevilla FC;ESP
+LL;Valencia CF;2016/17;38;25.3;18;257.5;Valencia;ESP
+LL;Villarreal CF;2016/17;34;26.3;13;190.7;Villarreal CF;ESP
+LL;Athletic Bilbao;2016/17;30;27.3;1;172.6;Athletic Bilbao;ESP
+LL;Real Sociedad;2016/17;30;26.2;4;156.45;Real Sociedad;ESP
+LL;Celta de Vigo;2016/17;29;26.0;15;122.4;Celta de Vigo;ESP
+LL;Deportivo de La Coruña;2016/17;37;27.2;16;94.0;Deportivo de La Coruña;ESP
+LL;Deportivo Alavés;2016/17;30;25.8;11;85.4;Deportivo Alavés;ESP
+LL;Málaga CF;2016/17;32;26.5;16;84.3;Málaga CF;ESP
+LL;UD Las Palmas;2016/17;33;27.2;9;84.3;Las Palmas;ESP
+LL;Real Betis Balompié;2016/17;28;26.8;13;84.2;Real Betis;ESP
+LL;RCD Espanyol Barcelona;2016/17;29;27.8;9;80.8;Espanyol;ESP
+LL;SD Eibar;2016/17;28;26.4;5;67.95;Eibar;ESP
+LL;Granada CF;2016/17;40;25.6;26;66.45;Granada CF;ESP
+LL;CD Leganés;2016/17;37;26.6;11;53.15;CD Leganés;ESP
+LL;Sporting Gijón;2016/17;31;26.3;9;46.75;Sporting Gijón;ESP
+LL;CA Osasuna;2016/17;37;26.0;9;42.9;CA Osasuna;ESP
+LL;FC Barcelona;2015/16;32;26.4;16;726.0;FC Barcelona;ESP
+LL;Real Madrid;2015/16;30;25.3;17;714.3;Real Madrid;ESP
+LL;Atlético de Madrid;2015/16;30;25.9;17;418.5;Atlético Madrid;ESP
+LL;Valencia CF;2015/16;38;24.1;20;254.0;Valencia;ESP
+LL;Sevilla FC;2015/16;38;26.2;19;230.3;Sevilla FC;ESP
+LL;Athletic Bilbao;2015/16;28;27.4;1;148.0;Athletic Bilbao;ESP
+LL;Villarreal CF;2015/16;28;25.8;10;140.6;Villarreal CF;ESP
+LL;Real Sociedad;2015/16;32;26.0;6;119.4;Real Sociedad;ESP
+LL;Celta de Vigo;2015/16;28;25.2;13;91.1;Celta de Vigo;ESP
+LL;Málaga CF;2015/16;33;27.5;23;77.95;Málaga CF;ESP
+LL;Granada CF;2015/16;33;26.3;19;71.5;Granada CF;ESP
+LL;RCD Espanyol Barcelona;2015/16;33;25.6;9;62.2;Espanyol;ESP
+LL;Deportivo de La Coruña;2015/16;30;28.7;11;61.75;Deportivo de La Coruña;ESP
+LL;SD Eibar;2015/16;35;26.2;9;56.6;Eibar;ESP
+LL;Real Betis Balompié;2015/16;33;27.4;14;56.4;Real Betis;ESP
+LL;Sporting Gijón;2015/16;29;25.2;8;53.2;Sporting Gijón;ESP
+LL;Levante UD;2015/16;31;27.8;10;53.1;Levante;ESP
+LL;Rayo Vallecano;2015/16;35;28.4;13;49.6;Rayo Vallecano;ESP
+LL;Getafe CF;2015/16;30;26.2;12;49.1;Getafe;ESP
+LL;UD Las Palmas;2015/16;33;27.7;7;32.2;Las Palmas;ESP
+LL;Real Madrid;2014/15;41;24.7;19;787.8;Real Madrid;ESP
+LL;FC Barcelona;2014/15;31;25.9;17;603.8;FC Barcelona;ESP
+LL;Atlético de Madrid;2014/15;32;26.2;16;356.0;Atlético Madrid;ESP
+LL;Valencia CF;2014/15;26;24.5;13;230.0;Valencia;ESP
+LL;Sevilla FC;2014/15;34;25.5;14;166.75;Sevilla FC;ESP
+LL;Villarreal CF;2014/15;37;24.5;12;132.7;Villarreal CF;ESP
+LL;Athletic Bilbao;2014/15;27;26.6;1;112.1;Athletic Bilbao;ESP
+LL;Real Sociedad;2014/15;30;26.0;5;96.8;Real Sociedad;ESP
+LL;Málaga CF;2014/15;30;27.1;18;82.8;Málaga CF;ESP
+LL;RCD Espanyol Barcelona;2014/15;32;26.0;6;75.7;Espanyol;ESP
+LL;Granada CF;2014/15;39;25.8;22;67.55;Granada CF;ESP
+LL;Celta de Vigo;2014/15;28;24.8;11;60.4;Celta de Vigo;ESP
+LL;Deportivo de La Coruña;2014/15;33;26.9;12;53.4;Deportivo de La Coruña;ESP
+LL;Rayo Vallecano;2014/15;29;27.1;12;51.7;Rayo Vallecano;ESP
+LL;Córdoba CF;2014/15;36;26.3;15;50.9;Cordoba;ESP
+LL;Getafe CF;2014/15;33;26.7;9;50.2;Getafe;ESP
+LL;Levante UD;2014/15;31;28.3;10;43.45;Levante;ESP
+LL;Elche CF;2014/15;29;26.2;9;38.6;Elche;ESP
+LL;UD Almería;2014/15;31;25.5;11;38.3;Almeria;ESP
+LL;SD Eibar;2014/15;25;28.7;3;29.4;Eibar;ESP
+LL;Real Madrid;2013/14;32;25.5;15;636.8;Real Madrid;ESP
+LL;FC Barcelona;2013/14;29;26.6;10;592.2;FC Barcelona;ESP
+LL;Atlético de Madrid;2013/14;35;25.5;19;308.8;Atlético Madrid;ESP
+LL;Valencia CF;2013/14;42;25.1;21;178.8;Valencia;ESP
+LL;Sevilla FC;2013/14;37;25.0;19;141.15;Sevilla FC;ESP
+LL;Real Sociedad;2013/14;31;25.9;8;136.7;Real Sociedad;ESP
+LL;Athletic Bilbao;2013/14;27;26.2;0;130.7;Athletic Bilbao;ESP
+LL;Villarreal CF;2013/14;29;24.8;9;77.3;Villarreal CF;ESP
+LL;Málaga CF;2013/14;31;26.5;21;62.5;Málaga CF;ESP
+LL;Real Betis Balompié;2013/14;41;24.9;12;58.6;Real Betis;ESP
+LL;Granada CF;2013/14;34;25.5;23;57.48;Granada CF;ESP
+LL;Getafe CF;2013/14;32;27.4;6;55.9;Getafe;ESP
+LL;RCD Espanyol Barcelona;2013/14;26;26.2;10;51.3;Espanyol;ESP
+LL;Celta de Vigo;2013/14;29;26.1;8;49.9;Celta de Vigo;ESP
+LL;Rayo Vallecano;2013/14;33;25.7;10;46.1;Rayo Vallecano;ESP
+LL;Elche CF;2013/14;32;27.3;7;44.6;Elche;ESP
+LL;Levante UD;2013/14;33;28.2;14;42.4;Levante;ESP
+LL;CA Osasuna;2013/14;29;27.5;6;42.3;CA Osasuna;ESP
+LL;Real Valladolid CF;2013/14;31;27.1;13;41.2;Valladolid;ESP
+LL;UD Almería;2013/14;34;26.7;12;36.45;Almeria;ESP
+LL;FC Barcelona;2012/13;30;26.3;9;586.6;FC Barcelona;ESP
+LL;Real Madrid;2012/13;34;25.9;19;582.4;Real Madrid;ESP
+LL;Atlético de Madrid;2012/13;33;24.9;15;267.0;Atlético Madrid;ESP
+LL;Valencia CF;2012/13;30;25.6;14;172.9;Valencia;ESP
+LL;Sevilla FC;2012/13;34;25.3;14;144.8;Sevilla FC;ESP
+LL;Málaga CF;2012/13;33;27.2;21;122.9;Málaga CF;ESP
+LL;Athletic Bilbao;2012/13;35;24.2;1;119.85;Athletic Bilbao;ESP
+LL;Real Sociedad;2012/13;26;25.5;8;112.8;Real Sociedad;ESP
+LL;Granada CF;2012/13;31;27.2;14;72.8;Granada CF;ESP
+LL;Getafe CF;2012/13;31;27.2;5;68.3;Getafe;ESP
+LL;Real Betis Balompié;2012/13;37;25.8;8;66.2;Real Betis;ESP
+LL;RCD Espanyol Barcelona;2012/13;31;25.9;13;64.1;Espanyol;ESP
+LL;Rayo Vallecano;2012/13;34;26.1;9;49.75;Rayo Vallecano;ESP
+LL;Celta de Vigo;2012/13;30;26.8;10;49.1;Celta de Vigo;ESP
+LL;RCD Mallorca;2012/13;36;25.3;13;47.1;Mallorca;ESP
+LL;Real Zaragoza;2012/13;37;26.5;12;46.8;Real Zaragoza;ESP
+LL;CA Osasuna;2012/13;31;28.2;6;46.4;CA Osasuna;ESP
+LL;Deportivo de La Coruña;2012/13;31;28.8;15;45.6;Deportivo de La Coruña;ESP
+LL;Levante UD;2012/13;32;28.4;14;41.1;Levante;ESP
+LL;Real Valladolid CF;2012/13;25;27.0;8;38.8;Valladolid;ESP
+LL;FC Barcelona;2011/12;35;25.3;11;618.2;FC Barcelona;ESP
+LL;Real Madrid;2011/12;33;25.2;16;539.2;Real Madrid;ESP
+LL;Atlético de Madrid;2011/12;37;24.9;17;210.0;Atlético Madrid;ESP
+LL;Valencia CF;2011/12;28;26.0;13;181.0;Valencia;ESP
+LL;Athletic Bilbao;2011/12;30;25.7;1;144.2;Athletic Bilbao;ESP
+LL;Villarreal CF;2011/12;35;26.0;12;137.0;Villarreal CF;ESP
+LL;Sevilla FC;2011/12;34;25.6;14;133.0;Sevilla FC;ESP
+LL;Málaga CF;2011/12;32;27.4;18;121.3;Málaga CF;ESP
+LL;RCD Espanyol Barcelona;2011/12;37;24.5;19;81.2;Espanyol;ESP
+LL;Real Sociedad;2011/12;26;25.8;8;74.7;Real Sociedad;ESP
+LL;Getafe CF;2011/12;34;26.9;7;70.95;Getafe;ESP
+LL;RCD Mallorca;2011/12;32;25.2;13;62.2;Mallorca;ESP
+LL;Real Zaragoza;2011/12;33;26.6;16;61.0;Real Zaragoza;ESP
+LL;Granada CF;2011/12;32;26.8;14;60.6;Granada CF;ESP
+LL;Sporting Gijón;2011/12;33;26.4;8;53.4;Sporting Gijón;ESP
+LL;Real Betis Balompié;2011/12;36;26.2;6;52.7;Real Betis;ESP
+LL;Rayo Vallecano;2011/12;37;26.3;6;47.3;Rayo Vallecano;ESP
+LL;CA Osasuna;2011/12;32;27.5;8;44.4;CA Osasuna;ESP
+LL;Racing Santander;2011/12;38;24.6;9;42.6;Santander;ESP
+LL;Levante UD;2011/12;34;27.9;9;40.25;Levante;ESP
+LL;FC Barcelona;2010/11;35;25.1;12;604.7;FC Barcelona;ESP
+LL;Real Madrid;2010/11;38;24.7;16;519.0;Real Madrid;ESP
+LL;Atlético de Madrid;2010/11;31;25.4;10;187.0;Atlético Madrid;ESP
+LL;Valencia CF;2010/11;32;26.9;13;176.6;Valencia;ESP
+LL;Sevilla FC;2010/11;36;26.1;20;175.6;Sevilla FC;ESP
+LL;Villarreal CF;2010/11;34;25.8;13;170.6;Villarreal CF;ESP
+LL;Athletic Bilbao;2010/11;30;25.6;1;112.0;Athletic Bilbao;ESP
+LL;RCD Espanyol Barcelona;2010/11;35;24.6;12;78.4;Espanyol;ESP
+LL;UD Almería;2010/11;30;26.2;16;73.6;Almeria;ESP
+LL;Málaga CF;2010/11;37;26.9;18;71.05;Málaga CF;ESP
+LL;Real Sociedad;2010/11;26;26.3;6;66.7;Real Sociedad;ESP
+LL;Getafe CF;2010/11;29;25.8;7;66.4;Getafe;ESP
+LL;Deportivo de La Coruña;2010/11;33;27.0;10;63.7;Deportivo de La Coruña;ESP
+LL;Racing Santander;2010/11;30;26.4;12;59.3;Santander;ESP
+LL;CA Osasuna;2010/11;29;28.5;6;57.9;CA Osasuna;ESP
+LL;Real Zaragoza;2010/11;30;26.6;16;57.0;Real Zaragoza;ESP
+LL;RCD Mallorca;2010/11;28;26.0;12;53.7;Mallorca;ESP
+LL;Sporting Gijón;2010/11;33;26.3;5;53.4;Sporting Gijón;ESP
+LL;Hércules CF;2010/11;32;27.3;12;51.7;Hercules;ESP
+LL;Levante UD;2010/11;33;27.2;7;37.4;Levante;ESP
+LL;FC Barcelona;2009/10;31;25.6;15;515.4;FC Barcelona;ESP
+LL;Real Madrid;2009/10;32;25.7;16;451.7;Real Madrid;ESP
+LL;Valencia CF;2009/10;34;26.2;10;240.0;Valencia;ESP
+LL;Sevilla FC;2009/10;36;26.0;18;218.3;Sevilla FC;ESP
+LL;Atlético de Madrid;2009/10;37;24.6;16;210.8;Atlético Madrid;ESP
+LL;Villarreal CF;2009/10;31;27.0;13;163.7;Villarreal CF;ESP
+LL;Athletic Bilbao;2009/10;36;25.7;1;100.8;Athletic Bilbao;ESP
+LL;Real Zaragoza;2009/10;38;26.8;18;87.25;Real Zaragoza;ESP
+LL;Getafe CF;2009/10;29;26.9;9;77.3;Getafe;ESP
+LL;Deportivo de La Coruña;2009/10;31;26.4;8;75.9;Deportivo de La Coruña;ESP
+LL;RCD Espanyol Barcelona;2009/10;34;25.2;13;71.0;Espanyol;ESP
+LL;Racing Santander;2009/10;33;25.9;8;65.5;Santander;ESP
+LL;RCD Mallorca;2009/10;28;26.9;11;65.1;Mallorca;ESP
+LL;UD Almería;2009/10;25;26.9;13;63.7;Almeria;ESP
+LL;CA Osasuna;2009/10;27;27.8;7;60.0;CA Osasuna;ESP
+LL;Málaga CF;2009/10;37;25.8;13;58.6;Málaga CF;ESP
+LL;Sporting Gijón;2009/10;35;25.9;3;55.2;Sporting Gijón;ESP
+LL;Real Valladolid CF;2009/10;34;25.9;8;50.5;Valladolid;ESP
+LL;CD Tenerife;2009/10;24;27.4;4;34.0;Tenerife;ESP
+LL;Xerez CD;2009/10;28;27.4;8;32.5;Xerez;ESP
+LL;Real Madrid;2008/09;36;26.0;20;428.6;Real Madrid;ESP
+LL;FC Barcelona;2008/09;34;25.3;14;425.4;FC Barcelona;ESP
+LL;Valencia CF;2008/09;35;26.7;10;227.5;Valencia;ESP
+LL;Atlético de Madrid;2008/09;29;26.1;15;221.4;Atlético Madrid;ESP
+LL;Sevilla FC;2008/09;35;25.9;20;202.7;Sevilla FC;ESP
+LL;Villarreal CF;2008/09;31;26.9;14;170.0;Villarreal CF;ESP
+LL;Real Betis Balompié;2008/09;33;27.1;13;118.7;Real Betis;ESP
+LL;RCD Espanyol Barcelona;2008/09;31;26.2;10;95.3;Espanyol;ESP
+LL;Racing Santander;2008/09;35;25.9;10;85.5;Santander;ESP
+LL;UD Almería;2008/09;25;26.4;10;80.0;Almeria;ESP
+LL;Athletic Bilbao;2008/09;32;26.3;1;77.6;Athletic Bilbao;ESP
+LL;Deportivo de La Coruña;2008/09;34;26.4;10;77.3;Deportivo de La Coruña;ESP
+LL;Getafe CF;2008/09;28;27.2;13;74.5;Getafe;ESP
+LL;RCD Mallorca;2008/09;27;26.3;10;68.9;Mallorca;ESP
+LL;CA Osasuna;2008/09;31;26.9;10;67.1;CA Osasuna;ESP
+LL;Málaga CF;2008/09;27;28.0;8;54.0;Málaga CF;ESP
+LL;Recreativo Huelva;2008/09;31;26.5;9;49.9;Recreativo Huelva;ESP
+LL;Real Valladolid CF;2008/09;27;28.1;8;48.8;Valladolid;ESP
+LL;CD Numancia;2008/09;32;27.3;2;38.1;Numancia;ESP
+LL;Sporting Gijón;2008/09;31;26.6;2;36.3;Sporting Gijón;ESP
+LL;FC Barcelona;2007/08;34;26.2;15;413.7;FC Barcelona;ESP
+LL;Real Madrid;2007/08;26;26.4;17;355.8;Real Madrid;ESP
+LL;Valencia CF;2007/08;30;26.7;10;236.5;Valencia;ESP
+LL;Atlético de Madrid;2007/08;37;25.8;16;211.7;Atlético Madrid;ESP
+LL;Sevilla FC;2007/08;35;26.3;20;199.4;Sevilla FC;ESP
+LL;Villarreal CF;2007/08;30;26.8;15;149.3;Villarreal CF;ESP
+LL;RCD Espanyol Barcelona;2007/08;30;26.1;10;120.5;Espanyol;ESP
+LL;Real Zaragoza;2007/08;32;26.6;8;119.9;Real Zaragoza;ESP
+LL;CA Osasuna;2007/08;31;25.8;9;81.9;CA Osasuna;ESP
+LL;Real Betis Balompié;2007/08;32;26.3;11;81.1;Real Betis;ESP
+LL;RCD Mallorca;2007/08;29;26.2;12;79.6;Mallorca;ESP
+LL;Athletic Bilbao;2007/08;32;26.7;1;75.0;Athletic Bilbao;ESP
+LL;Racing Santander;2007/08;33;25.5;10;73.7;Santander;ESP
+LL;Deportivo de La Coruña;2007/08;33;25.8;9;72.1;Deportivo de La Coruña;ESP
+LL;Getafe CF;2007/08;32;26.0;9;68.9;Getafe;ESP
+LL;UD Almería;2007/08;26;26.4;9;56.7;Almeria;ESP
+LL;Recreativo Huelva;2007/08;29;27.4;12;55.6;Recreativo Huelva;ESP
+LL;Real Murcia CF;2007/08;29;27.8;9;50.1;Murcia;ESP
+LL;Real Valladolid CF;2007/08;30;27.8;6;47.65;Valladolid;ESP
+LL;Levante UD;2007/08;37;27.7;15;41.5;Levante;ESP
+LL;Real Madrid;2006/07;39;25.3;15;372.2;Real Madrid;ESP
+LL;FC Barcelona;2006/07;32;26.4;18;366.5;FC Barcelona;ESP
+LL;Valencia CF;2006/07;33;26.5;9;232.7;Valencia;ESP
+LL;Atlético de Madrid;2006/07;34;24.9;13;174.0;Atlético Madrid;ESP
+LL;Sevilla FC;2006/07;30;26.5;14;139.8;Sevilla FC;ESP
+LL;Real Zaragoza;2006/07;26;27.1;8;121.25;Real Zaragoza;ESP
+LL;Villarreal CF;2006/07;33;27.0;16;109.05;Villarreal CF;ESP
+LL;Deportivo de La Coruña;2006/07;33;25.3;10;98.85;Deportivo de La Coruña;ESP
+LL;Real Betis Balompié;2006/07;34;27.1;12;78.93;Real Betis;ESP
+LL;CA Osasuna;2006/07;34;25.2;7;71.35;CA Osasuna;ESP
+LL;RCD Espanyol Barcelona;2006/07;34;25.2;9;62.15;Espanyol;ESP
+LL;RCD Mallorca;2006/07;24;27.0;11;55.3;Mallorca;ESP
+LL;Athletic Bilbao;2006/07;30;26.3;1;54.9;Athletic Bilbao;ESP
+LL;Celta de Vigo;2006/07;32;26.5;16;54.88;Celta de Vigo;ESP
+LL;Levante UD;2006/07;30;29.9;17;53.75;Levante;ESP
+LL;Racing Santander;2006/07;34;25.9;7;49.3;Santander;ESP
+LL;Real Sociedad;2006/07;32;26.6;10;45.2;Real Sociedad;ESP
+LL;Recreativo Huelva;2006/07;28;27.1;6;41.9;Recreativo Huelva;ESP
+LL;Getafe CF;2006/07;25;28.0;7;40.05;Getafe;ESP
+LL;Gimnàstic de Tarragona;2006/07;34;29.3;10;28.25;Gimnastic;ESP
+LL;FC Barcelona;2005/06;34;25.4;16;327.5;FC Barcelona;ESP
+LL;Real Madrid;2005/06;36;25.4;13;281.6;Real Madrid;ESP
+LL;Valencia CF;2005/06;34;27.3;14;213.55;Valencia;ESP
+LL;Atlético de Madrid;2005/06;31;24.2;8;134.15;Atlético Madrid;ESP
+LL;Deportivo de La Coruña;2005/06;34;27.5;8;133.8;Deportivo de La Coruña;ESP
+LL;Sevilla FC;2005/06;34;26.0;10;96.85;Sevilla FC;ESP
+LL;Real Betis Balompié;2005/06;33;26.2;8;85.95;Real Betis;ESP
+LL;Villarreal CF;2005/06;32;25.9;13;82.0;Villarreal CF;ESP
+LL;Real Zaragoza;2005/06;25;27.7;7;66.55;Real Zaragoza;ESP
+LL;RCD Espanyol Barcelona;2005/06;31;25.5;9;58.98;Espanyol;ESP
+LL;Real Sociedad;2005/06;31;25.9;7;53.83;Real Sociedad;ESP
+LL;Celta de Vigo;2005/06;27;26.7;13;48.3;Celta de Vigo;ESP
+LL;Athletic Bilbao;2005/06;41;25.2;1;47.23;Athletic Bilbao;ESP
+LL;RCD Mallorca;2005/06;31;26.1;15;42.15;Mallorca;ESP
+LL;CA Osasuna;2005/06;25;26.6;7;40.7;CA Osasuna;ESP
+LL;Getafe CF;2005/06;26;27.4;6;36.38;Getafe;ESP
+LL;Deportivo Alavés;2005/06;31;28.2;17;34.83;Deportivo Alavés;ESP
+LL;Racing Santander;2005/06;34;25.4;8;30.35;Santander;ESP
+LL;Málaga CF;2005/06;33;26.0;9;28.03;Málaga CF;ESP
+LL;Cádiz CF;2005/06;28;28.8;13;22.15;Cádiz CF;ESP
+LL;Real Madrid;2004/05;34;25.9;10;303.7;Real Madrid;ESP
+LL;FC Barcelona;2004/05;35;24.9;15;273.03;FC Barcelona;ESP
+LL;Valencia CF;2004/05;32;26.8;15;195.9;Valencia;ESP
+LL;Deportivo de La Coruña;2004/05;29;28.0;8;144.45;Deportivo de La Coruña;ESP
+LL;Atlético de Madrid;2004/05;38;26.1;11;125.65;Atlético Madrid;ESP
+LL;Real Betis Balompié;2004/05;32;26.6;8;85.15;Real Betis;ESP
+LL;Sevilla FC;2004/05;31;26.0;6;70.55;Sevilla FC;ESP
+LL;Villarreal CF;2004/05;38;24.9;10;66.25;Villarreal CF;ESP
+LL;Real Sociedad;2004/05;32;25.6;7;53.55;Real Sociedad;ESP
+LL;Athletic Bilbao;2004/05;32;25.8;0;53.05;Athletic Bilbao;ESP
+LL;Real Zaragoza;2004/05;28;26.3;7;51.13;Real Zaragoza;ESP
+LL;RCD Espanyol Barcelona;2004/05;29;26.1;8;45.15;Espanyol;ESP
+LL;RCD Mallorca;2004/05;32;26.8;11;42.65;Mallorca;ESP
+LL;Racing Santander;2004/05;34;25.0;13;32.9;Santander;ESP
+LL;Málaga CF;2004/05;31;26.2;9;32.85;Málaga CF;ESP
+LL;CA Osasuna;2004/05;27;26.1;8;26.7;CA Osasuna;ESP
+LL;Levante UD;2004/05;27;29.5;8;24.25;Levante;ESP
+LL;Albacete Balompié;2004/05;38;25.9;8;17.75;Albacete;ESP
+LL;Getafe CF;2004/05;29;27.8;3;13.85;Getafe;ESP
+LL;CD Numancia;2004/05;30;27.5;7;13.4;Numancia;ESP
+LL;Athletic Bilbao;2003/04;29;25.8;0;;Athletic Bilbao;ESP
+LL;Albacete Balompié;2003/04;35;26.1;11;;Albacete;ESP
+LL;Málaga CF;2003/04;27;26.3;7;;Málaga CF;ESP
+LL;Villarreal CF;2003/04;33;24.3;6;;Villarreal CF;ESP
+LL;Valencia CF;2003/04;31;25.9;9;;Valencia;ESP
+LL;Celta de Vigo;2003/04;32;27.5;15;;Celta de Vigo;ESP
+LL;Deportivo de La Coruña;2003/04;28;29.8;9;;Deportivo de La Coruña;ESP
+LL;RCD Espanyol Barcelona;2003/04;35;26.1;14;;Espanyol;ESP
+LL;Real Sociedad;2003/04;33;25.9;8;;Real Sociedad;ESP
+LL;Racing Santander;2003/04;38;25.2;15;;Santander;ESP
+LL;Atlético de Madrid;2003/04;35;26.4;13;;Atlético Madrid;ESP
+LL;Real Madrid;2003/04;32;25.7;8;;Real Madrid;ESP
+LL;Sevilla FC;2003/04;35;25.8;8;;Sevilla FC;ESP
+LL;Real Valladolid CF;2003/04;30;26.5;12;;Valladolid;ESP
+LL;CA Osasuna;2003/04;27;26.7;9;;CA Osasuna;ESP
+LL;RCD Mallorca;2003/04;32;26.8;12;;Mallorca;ESP
+LL;Real Murcia CF;2003/04;36;27.2;12;;Murcia;ESP
+LL;Real Betis Balompié;2003/04;29;27.0;6;;Real Betis;ESP
+LL;Real Zaragoza;2003/04;30;27.1;8;;Real Zaragoza;ESP
+LL;FC Barcelona;2003/04;33;25.4;13;;FC Barcelona;ESP
