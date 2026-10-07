@@ -1,0 +1,553 @@
+tier,club,season,squad,avg_age,foreigners,total_market_value,club_std_name,country
+EFL,West Ham United,2026/27,28,25.3,18,278.7,West Ham,ENG
+EFL,Wolverhampton Wanderers,2026/27,28,26.8,23,247.65,Wolverhampton,ENG
+EFL,Middlesbrough FC,2026/27,28,26.0,17,155.3,Middlesbrough,ENG
+EFL,Southampton FC,2026/27,26,26.6,13,154.3,Southampton,ENG
+EFL,Burnley FC,2026/27,33,27.1,25,138.1,Burnley FC,ENG
+EFL,Swansea City,2026/27,27,25.9,21,117.2,Swansea,ENG
+EFL,Sheffield United,2026/27,26,27.3,12,115.75,Sheffield United,ENG
+EFL,Norwich City,2026/27,31,24.4,21,113.38,Norwich,ENG
+EFL,Stoke City,2026/27,27,26.5,18,108.15,Stoke City,ENG
+EFL,Wrexham AFC,2026/27,28,27.7,9,102.7,Wrexham,ENG
+EFL,Birmingham City,2026/27,26,26.9,15,99.75,Birmingham,ENG
+EFL,Watford FC,2026/27,30,25.2,24,97.5,Watford FC,ENG
+EFL,Millwall FC,2026/27,32,25.8,15,88.05,Millwall,ENG
+EFL,West Bromwich Albion,2026/27,22,25.5,16,78.4,West Bromwich Albion,ENG
+EFL,Bristol City,2026/27,27,26.0,11,75.75,Bristol City,ENG
+EFL,Derby County,2026/27,29,28.1,15,73.6,Derby County,ENG
+EFL,Queens Park Rangers,2026/27,26,25.2,20,72.73,Queens Park Rangers,ENG
+EFL,Preston North End,2026/27,25,26.7,13,58.8,Preston,ENG
+EFL,Charlton Athletic,2026/27,30,25.9,16,45.5,Charlton,ENG
+EFL,Portsmouth FC,2026/27,34,25.2,17,41.35,Portsmouth,ENG
+EFL,Blackburn Rovers,2026/27,25,27.1,16,41.0,Blackburn Rovers,ENG
+EFL,Bolton Wanderers,2026/27,26,26.4,16,38.43,Bolton,ENG
+EFL,Cardiff City,2026/27,24,25.1,17,33.15,Cardiff,ENG
+EFL,Lincoln City,2026/27,28,26.0,14,28.25,,
+EFL,Southampton FC,2025/26,48,25.3,26,276.0,Southampton,ENG
+EFL,Coventry City,2025/26,34,25.8,16,235.38,Coventry,ENG
+EFL,Ipswich Town,2025/26,38,27.2,19,229.23,Ipswich,ENG
+EFL,Leicester City,2025/26,41,25.4,23,203.15,Leicester,ENG
+EFL,Middlesbrough FC,2025/26,44,25.7,23,192.15,Middlesbrough,ENG
+EFL,Sheffield United,2025/26,45,25.3,23,140.95,Sheffield United,ENG
+EFL,Norwich City,2025/26,41,24.7,26,135.2,Norwich,ENG
+EFL,Birmingham City,2025/26,43,25.7,26,118.55,Birmingham,ENG
+EFL,Millwall FC,2025/26,43,25.4,19,116.2,Millwall,ENG
+EFL,Watford FC,2025/26,41,24.1,27,110.7,Watford FC,ENG
+EFL,Hull City,2025/26,44,25.2,22,105.9,Hull City,ENG
+EFL,Swansea City,2025/26,36,25.3,28,105.23,Swansea,ENG
+EFL,Stoke City,2025/26,43,24.8,22,104.08,Stoke City,ENG
+EFL,West Bromwich Albion,2025/26,42,24.7,24,101.98,West Bromwich Albion,ENG
+EFL,Bristol City,2025/26,46,24.9,21,99.25,Bristol City,ENG
+EFL,Wrexham AFC,2025/26,44,27.6,18,79.73,Wrexham,ENG
+EFL,Preston North End,2025/26,40,25.8,22,79.33,Preston,ENG
+EFL,Queens Park Rangers,2025/26,51,23.9,34,71.4,Queens Park Rangers,ENG
+EFL,Derby County,2025/26,43,26.6,17,65.43,Derby County,ENG
+EFL,Blackburn Rovers,2025/26,45,25.4,24,53.15,Blackburn Rovers,ENG
+EFL,Oxford United,2025/26,47,26.2,29,44.23,Oxford,ENG
+EFL,Portsmouth FC,2025/26,46,25.4,21,42.85,Portsmouth,ENG
+EFL,Charlton Athletic,2025/26,49,25.4,20,36.5,Charlton,ENG
+EFL,Sheffield Wednesday,2025/26,48,24.4,22,33.55,Sheffield Wednesday,ENG
+EFL,Burnley FC,2024/25,55,25.6,33,293.18,Burnley FC,ENG
+EFL,Leeds United,2024/25,30,25.7,21,247.05,Leeds,ENG
+EFL,Sunderland AFC,2024/25,46,23.4,25,208.88,Sunderland,ENG
+EFL,Sheffield United,2024/25,43,24.4,18,176.7,Sheffield United,ENG
+EFL,Norwich City,2024/25,47,24.3,27,151.0,Norwich,ENG
+EFL,Middlesbrough FC,2024/25,48,24.2,21,146.73,Middlesbrough,ENG
+EFL,Coventry City,2024/25,37,24.9,18,98.98,Coventry,ENG
+EFL,West Bromwich Albion,2024/25,46,24.5,21,88.68,West Bromwich Albion,ENG
+EFL,Luton Town,2024/25,45,26.6,24,86.85,Luton,ENG
+EFL,Hull City,2024/25,49,25.1,26,86.13,Hull City,ENG
+EFL,Stoke City,2024/25,45,24.4,24,69.63,Stoke City,ENG
+EFL,Watford FC,2024/25,39,24.3,25,68.33,Watford FC,ENG
+EFL,Blackburn Rovers,2024/25,49,25.5,19,67.88,Blackburn Rovers,ENG
+EFL,Bristol City,2024/25,34,25.0,15,60.75,Bristol City,ENG
+EFL,Cardiff City,2024/25,50,24.7,36,56.9,Cardiff,ENG
+EFL,Queens Park Rangers,2024/25,41,24.7,25,56.1,Queens Park Rangers,ENG
+EFL,Millwall FC,2024/25,45,24.9,15,55.53,Millwall,ENG
+EFL,Swansea City,2024/25,36,25.7,25,55.35,Swansea,ENG
+EFL,Plymouth Argyle,2024/25,42,25.1,23,53.43,Plymouth,ENG
+EFL,Preston North End,2024/25,41,25.1,19,49.48,Preston,ENG
+EFL,Sheffield Wednesday,2024/25,39,26.4,22,39.53,Sheffield Wednesday,ENG
+EFL,Derby County,2024/25,44,26.6,22,36.0,Derby County,ENG
+EFL,Portsmouth FC,2024/25,47,25.8,22,29.43,Portsmouth,ENG
+EFL,Oxford United,2024/25,42,26.5,19,28.43,Oxford,ENG
+EFL,Southampton FC,2023/24,41,25.0,24,332.48,Southampton,ENG
+EFL,Leeds United,2023/24,39,24.6,23,244.5,Leeds,ENG
+EFL,Leicester City,2023/24,37,25.6,23,242.85,Leicester,ENG
+EFL,Hull City,2023/24,49,24.5,26,126.73,Hull City,ENG
+EFL,Middlesbrough FC,2023/24,48,24.5,18,107.58,Middlesbrough,ENG
+EFL,Sunderland AFC,2023/24,47,23.1,17,96.45,Sunderland,ENG
+EFL,Norwich City,2023/24,41,25.8,26,94.13,Norwich,ENG
+EFL,Blackburn Rovers,2023/24,47,23.3,19,91.7,Blackburn Rovers,ENG
+EFL,Coventry City,2023/24,37,25.1,18,87.33,Coventry,ENG
+EFL,Swansea City,2023/24,51,23.7,28,78.83,Swansea,ENG
+EFL,Stoke City,2023/24,43,25.5,28,74.1,Stoke City,ENG
+EFL,Watford FC,2023/24,36,24.4,20,72.6,Watford FC,ENG
+EFL,Ipswich Town,2023/24,40,26.3,22,69.1,Ipswich,ENG
+EFL,West Bromwich Albion,2023/24,45,25.6,18,64.85,West Bromwich Albion,ENG
+EFL,Cardiff City,2023/24,61,23.9,42,58.75,Cardiff,ENG
+EFL,Plymouth Argyle,2023/24,38,23.9,11,53.15,Plymouth,ENG
+EFL,Birmingham City,2023/24,37,25.8,13,50.05,Birmingham,ENG
+EFL,Bristol City,2023/24,39,24.4,18,46.9,Bristol City,ENG
+EFL,Preston North End,2023/24,34,25.5,20,42.13,Preston,ENG
+EFL,Millwall FC,2023/24,35,26.3,14,41.35,Millwall,ENG
+EFL,Queens Park Rangers,2023/24,37,25.9,23,34.95,Queens Park Rangers,ENG
+EFL,Huddersfield Town,2023/24,44,25.4,19,34.58,Huddersfield,ENG
+EFL,Sheffield Wednesday,2023/24,41,26.3,23,26.43,Sheffield Wednesday,ENG
+EFL,Rotherham United,2023/24,41,26.5,14,20.83,Rotherham,ENG
+EFL,Burnley FC,2022/23,39,25.1,22,193.35,Burnley FC,ENG
+EFL,Watford FC,2022/23,50,25.0,32,155.4,Watford FC,ENG
+EFL,Norwich City,2022/23,37,25.4,23,126.55,Norwich,ENG
+EFL,Sheffield United,2022/23,37,25.6,17,118.55,Sheffield United,ENG
+EFL,Middlesbrough FC,2022/23,45,25.0,14,94.48,Middlesbrough,ENG
+EFL,Sunderland AFC,2022/23,41,23.0,15,84.45,Sunderland,ENG
+EFL,Blackburn Rovers,2022/23,35,24.1,11,83.95,Blackburn Rovers,ENG
+EFL,Stoke City,2022/23,45,24.8,21,77.35,Stoke City,ENG
+EFL,West Bromwich Albion,2022/23,40,26.5,15,69.35,West Bromwich Albion,ENG
+EFL,Coventry City,2022/23,42,24.7,19,66.65,Coventry,ENG
+EFL,Hull City,2022/23,43,24.6,21,65.95,Hull City,ENG
+EFL,Bristol City,2022/23,40,24.9,22,65.58,Bristol City,ENG
+EFL,Swansea City,2022/23,37,23.7,24,65.43,Swansea,ENG
+EFL,Birmingham City,2022/23,35,25.9,14,59.15,Birmingham,ENG
+EFL,Queens Park Rangers,2022/23,37,25.7,23,57.43,Queens Park Rangers,ENG
+EFL,Preston North End,2022/23,33,25.0,20,56.9,Preston,ENG
+EFL,Cardiff City,2022/23,39,24.8,23,50.2,Cardiff,ENG
+EFL,Luton Town,2022/23,44,25.8,18,46.83,Luton,ENG
+EFL,Blackpool FC,2022/23,44,25.5,14,43.33,Blackpool,ENG
+EFL,Millwall FC,2022/23,31,26.5,12,43.3,Millwall,ENG
+EFL,Reading FC,2022/23,40,25.4,27,39.45,Reading,ENG
+EFL,Huddersfield Town,2022/23,49,25.5,21,38.08,Huddersfield,ENG
+EFL,Rotherham United,2022/23,39,25.9,18,32.4,Rotherham,ENG
+EFL,Wigan Athletic,2022/23,49,25.8,25,20.58,Wigan,ENG
+EFL,Fulham FC,2021/22,38,26.5,29,188.9,Fulham,ENG
+EFL,AFC Bournemouth,2021/22,39,25.2,17,180.4,Bournemouth,ENG
+EFL,Sheffield United,2021/22,44,26.2,22,136.4,Sheffield United,ENG
+EFL,West Bromwich Albion,2021/22,40,25.1,15,87.4,West Bromwich Albion,ENG
+EFL,Nottingham Forest,2021/22,41,25.5,23,82.95,Nottingham Forest,ENG
+EFL,Stoke City,2021/22,43,26.0,21,75.4,Stoke City,ENG
+EFL,Middlesbrough FC,2021/22,43,25.8,18,74.15,Middlesbrough,ENG
+EFL,Swansea City,2021/22,42,24.0,23,63.75,Swansea,ENG
+EFL,Blackburn Rovers,2021/22,40,23.7,15,63.1,Blackburn Rovers,ENG
+EFL,Birmingham City,2021/22,45,25.1,16,47.13,Birmingham,ENG
+EFL,Preston North End,2021/22,39,26.0,17,47.1,Preston,ENG
+EFL,Cardiff City,2021/22,42,24.9,22,45.8,Cardiff,ENG
+EFL,Reading FC,2021/22,50,24.2,29,45.7,Reading,ENG
+EFL,Millwall FC,2021/22,33,26.6,13,42.75,Millwall,ENG
+EFL,Queens Park Rangers,2021/22,41,26.1,26,42.25,Queens Park Rangers,ENG
+EFL,Huddersfield Town,2021/22,39,25.2,17,41.78,Huddersfield,ENG
+EFL,Derby County,2021/22,38,24.6,18,40.55,Derby County,ENG
+EFL,Hull City,2021/22,41,23.9,13,40.35,Hull City,ENG
+EFL,Bristol City,2021/22,34,25.6,16,36.2,Bristol City,ENG
+EFL,Coventry City,2021/22,35,25.1,16,30.78,Coventry,ENG
+EFL,Luton Town,2021/22,38,26.4,17,30.25,Luton,ENG
+EFL,Barnsley FC,2021/22,43,23.1,21,29.98,Barnsley,ENG
+EFL,Blackpool FC,2021/22,41,24.9,10,17.78,Blackpool,ENG
+EFL,Peterborough United,2021/22,43,23.7,17,16.85,Peterboro,ENG
+EFL,Norwich City,2020/21,44,25.5,31,182.4,Norwich,ENG
+EFL,Brentford FC,2020/21,40,23.8,31,168.9,Brentford FC,ENG
+EFL,AFC Bournemouth,2020/21,34,25.1,19,139.55,Bournemouth,ENG
+EFL,Watford FC,2020/21,45,26.3,29,113.3,Watford FC,ENG
+EFL,Swansea City,2020/21,41,25.2,27,94.95,Swansea,ENG
+EFL,Blackburn Rovers,2020/21,42,25.0,16,79.75,Blackburn Rovers,ENG
+EFL,Stoke City,2020/21,46,25.6,26,75.7,Stoke City,ENG
+EFL,Cardiff City,2020/21,53,24.4,34,74.25,Cardiff,ENG
+EFL,Reading FC,2020/21,42,23.3,23,68.9,Reading,ENG
+EFL,Derby County,2020/21,66,23.7,22,59.95,Derby County,ENG
+EFL,Middlesbrough FC,2020/21,41,24.6,12,59.05,Middlesbrough,ENG
+EFL,Bristol City,2020/21,48,25.0,22,57.5,Bristol City,ENG
+EFL,Nottingham Forest,2020/21,38,27.9,23,55.45,Nottingham Forest,ENG
+EFL,Barnsley FC,2020/21,49,22.8,22,48.18,Barnsley,ENG
+EFL,Preston North End,2020/21,43,25.8,17,47.9,Preston,ENG
+EFL,Huddersfield Town,2020/21,49,24.6,23,46.6,Huddersfield,ENG
+EFL,Birmingham City,2020/21,50,24.7,22,46.3,Birmingham,ENG
+EFL,Millwall FC,2020/21,32,26.8,14,39.18,Millwall,ENG
+EFL,Queens Park Rangers,2020/21,38,25.2,25,36.95,Queens Park Rangers,ENG
+EFL,Sheffield Wednesday,2020/21,40,25.5,16,31.1,Sheffield Wednesday,ENG
+EFL,Luton Town,2020/21,39,25.8,16,24.95,Luton,ENG
+EFL,Coventry City,2020/21,41,24.5,21,21.85,Coventry,ENG
+EFL,Rotherham United,2020/21,35,26.2,15,16.05,Rotherham,ENG
+EFL,Wycombe Wanderers,2020/21,34,27.1,14,9.45,Wycombe,ENG
+EFL,Fulham FC,2019/20,36,25.8,26,116.6,Fulham,ENG
+EFL,Leeds United,2019/20,35,24.4,20,100.75,Leeds,ENG
+EFL,West Bromwich Albion,2019/20,37,26.2,15,90.93,West Bromwich Albion,ENG
+EFL,Huddersfield Town,2019/20,44,24.7,20,88.08,Huddersfield,ENG
+EFL,Bristol City,2019/20,43,26.1,28,82.95,Bristol City,ENG
+EFL,Stoke City,2019/20,41,26.4,24,82.93,Stoke City,ENG
+EFL,Brentford FC,2019/20,36,23.6,28,70.38,Brentford FC,ENG
+EFL,Nottingham Forest,2019/20,44,26.1,26,65.0,Nottingham Forest,ENG
+EFL,Cardiff City,2019/20,42,26.9,23,63.38,Cardiff,ENG
+EFL,Swansea City,2019/20,39,24.7,23,62.1,Swansea,ENG
+EFL,Middlesbrough FC,2019/20,35,24.9,13,60.13,Middlesbrough,ENG
+EFL,Birmingham City,2019/20,45,25.3,24,52.03,Birmingham,ENG
+EFL,Derby County,2019/20,35,26.1,13,51.45,Derby County,ENG
+EFL,Hull City,2019/20,40,24.5,19,49.88,Hull City,ENG
+EFL,Reading FC,2019/20,47,24.5,31,46.68,Reading,ENG
+EFL,Queens Park Rangers,2019/20,37,25.0,23,44.9,Queens Park Rangers,ENG
+EFL,Sheffield Wednesday,2019/20,41,26.1,20,37.7,Sheffield Wednesday,ENG
+EFL,Blackburn Rovers,2019/20,37,25.4,13,32.75,Blackburn Rovers,ENG
+EFL,Preston North End,2019/20,35,25.7,11,32.5,Preston,ENG
+EFL,Wigan Athletic,2019/20,36,25.9,20,28.23,Wigan,ENG
+EFL,Charlton Athletic,2019/20,44,24.9,16,26.7,Charlton,ENG
+EFL,Millwall FC,2019/20,30,26.4,12,23.2,Millwall,ENG
+EFL,Luton Town,2019/20,35,26.6,14,20.25,Luton,ENG
+EFL,Barnsley FC,2019/20,36,23.1,21,17.4,Barnsley,ENG
+EFL,Aston Villa,2018/19,43,26.8,24,164.45,Aston Villa,ENG
+EFL,West Bromwich Albion,2018/19,37,27.2,14,145.65,West Bromwich Albion,ENG
+EFL,Stoke City,2018/19,36,27.5,25,129.3,Stoke City,ENG
+EFL,Middlesbrough FC,2018/19,41,26.1,15,101.33,Middlesbrough,ENG
+EFL,Leeds United,2018/19,49,24.2,31,94.45,Leeds,ENG
+EFL,Derby County,2018/19,44,26.7,21,94.3,Derby County,ENG
+EFL,Swansea City,2018/19,39,25.4,31,92.54,Swansea,ENG
+EFL,Norwich City,2018/19,37,26.4,25,86.3,Norwich,ENG
+EFL,Nottingham Forest,2018/19,45,27.6,29,83.1,Nottingham Forest,ENG
+EFL,Brentford FC,2018/19,39,23.5,27,76.35,Brentford FC,ENG
+EFL,Bristol City,2018/19,38,25.1,22,72.55,Bristol City,ENG
+EFL,Reading FC,2018/19,49,25.7,34,66.25,Reading,ENG
+EFL,Sheffield United,2018/19,39,27.4,18,61.75,Sheffield United,ENG
+EFL,Hull City,2018/19,34,26.1,15,55.4,Hull City,ENG
+EFL,Sheffield Wednesday,2018/19,41,26.3,23,47.4,Sheffield Wednesday,ENG
+EFL,Birmingham City,2018/19,33,27.2,15,42.5,Birmingham,ENG
+EFL,Wigan Athletic,2018/19,43,25.8,19,41.05,Wigan,ENG
+EFL,Queens Park Rangers,2018/19,44,24.8,26,39.73,Queens Park Rangers,ENG
+EFL,Blackburn Rovers,2018/19,39,25.1,14,34.75,Blackburn Rovers,ENG
+EFL,Preston North End,2018/19,44,25.0,18,33.3,Preston,ENG
+EFL,Millwall FC,2018/19,37,26.1,18,28.45,Millwall,ENG
+EFL,Ipswich Town,2018/19,45,25.3,18,26.85,Ipswich,ENG
+EFL,Bolton Wanderers,2018/19,37,27.8,9,21.8,Bolton,ENG
+EFL,Rotherham United,2018/19,35,25.3,15,11.58,Rotherham,ENG
+EFL,Fulham FC,2017/18,36,24.7,24,125.55,Fulham,ENG
+EFL,Middlesbrough FC,2017/18,34,26.9,14,118.7,Middlesbrough,ENG
+EFL,Wolverhampton Wanderers,2017/18,44,24.3,28,109.45,Wolverhampton,ENG
+EFL,Aston Villa,2017/18,44,26.4,25,96.9,Aston Villa,ENG
+EFL,Leeds United,2017/18,48,24.5,33,82.9,Leeds,ENG
+EFL,Sunderland AFC,2017/18,41,25.5,24,78.58,Sunderland,ENG
+EFL,Hull City,2017/18,46,24.6,22,70.45,Hull City,ENG
+EFL,Norwich City,2017/18,38,26.3,25,68.73,Norwich,ENG
+EFL,Derby County,2017/18,38,27.3,19,65.23,Derby County,ENG
+EFL,Sheffield Wednesday,2017/18,38,26.9,22,62.18,Sheffield Wednesday,ENG
+EFL,Cardiff City,2017/18,39,27.7,23,62.15,Cardiff,ENG
+EFL,Nottingham Forest,2017/18,40,27.3,24,58.5,Nottingham Forest,ENG
+EFL,Bristol City,2017/18,41,24.5,20,49.25,Bristol City,ENG
+EFL,Brentford FC,2017/18,35,24.3,24,47.95,Brentford FC,ENG
+EFL,Birmingham City,2017/18,44,26.5,21,47.8,Birmingham,ENG
+EFL,Reading FC,2017/18,39,25.8,26,47.55,Reading,ENG
+EFL,Queens Park Rangers,2017/18,40,25.2,22,38.9,Queens Park Rangers,ENG
+EFL,Bolton Wanderers,2017/18,38,27.1,9,30.55,Bolton,ENG
+EFL,Ipswich Town,2017/18,43,24.2,18,25.5,Ipswich,ENG
+EFL,Preston North End,2017/18,35,25.6,16,24.75,Preston,ENG
+EFL,Sheffield United,2017/18,37,26.6,14,23.75,Sheffield United,ENG
+EFL,Barnsley FC,2017/18,41,23.6,20,21.7,Barnsley,ENG
+EFL,Millwall FC,2017/18,37,26.4,16,15.13,Millwall,ENG
+EFL,Burton Albion,2017/18,37,27.1,13,14.4,Burton Albion,ENG
+EFL,Newcastle United,2016/17,44,25.6,33,172.68,Newcastle,ENG
+EFL,Aston Villa,2016/17,43,25.8,26,144.75,Aston Villa,ENG
+EFL,Norwich City,2016/17,40,26.8,24,89.7,Norwich,ENG
+EFL,Derby County,2016/17,39,26.4,20,79.53,Derby County,ENG
+EFL,Sheffield Wednesday,2016/17,42,26.9,25,67.13,Sheffield Wednesday,ENG
+EFL,Fulham FC,2016/17,37,25.4,23,65.85,Fulham,ENG
+EFL,Nottingham Forest,2016/17,45,25.9,30,63.4,Nottingham Forest,ENG
+EFL,Wolverhampton Wanderers,2016/17,44,24.4,24,59.63,Wolverhampton,ENG
+EFL,Brighton & Hove Albion,2016/17,38,27.1,21,56.6,Brighton,ENG
+EFL,Leeds United,2016/17,37,25.2,22,50.45,Leeds,ENG
+EFL,Queens Park Rangers,2016/17,43,24.8,26,47.4,Queens Park Rangers,ENG
+EFL,Cardiff City,2016/17,39,27.7,19,44.3,Cardiff,ENG
+EFL,Reading FC,2016/17,42,25.1,27,43.5,Reading,ENG
+EFL,Bristol City,2016/17,38,25.5,18,41.9,Bristol City,ENG
+EFL,Huddersfield Town,2016/17,32,25.4,17,39.35,Huddersfield,ENG
+EFL,Brentford FC,2016/17,38,24.0,27,33.75,Brentford FC,ENG
+EFL,Birmingham City,2016/17,40,26.2,22,33.33,Birmingham,ENG
+EFL,Blackburn Rovers,2016/17,34,25.6,19,30.4,Blackburn Rovers,ENG
+EFL,Wigan Athletic,2016/17,57,25.0,20,30.23,Wigan,ENG
+EFL,Ipswich Town,2016/17,42,25.6,18,25.95,Ipswich,ENG
+EFL,Barnsley FC,2016/17,43,23.2,16,24.55,Barnsley,ENG
+EFL,Rotherham United,2016/17,41,25.5,17,19.3,Rotherham,ENG
+EFL,Preston North End,2016/17,33,26.8,19,19.15,Preston,ENG
+EFL,Burton Albion,2016/17,36,27.0,12,15.25,Burton Albion,ENG
+EFL,Queens Park Rangers,2015/16,45,25.6,26,78.5,Queens Park Rangers,ENG
+EFL,Middlesbrough FC,2015/16,39,26.9,23,70.95,Middlesbrough,ENG
+EFL,Hull City,2015/16,31,26.6,18,69.98,Hull City,ENG
+EFL,Derby County,2015/16,38,26.1,20,60.4,Derby County,ENG
+EFL,Burnley FC,2015/16,35,27.5,16,56.5,Burnley FC,ENG
+EFL,Cardiff City,2015/16,40,26.2,21,52.5,Cardiff,ENG
+EFL,Nottingham Forest,2015/16,42,25.8,25,47.6,Nottingham Forest,ENG
+EFL,Sheffield Wednesday,2015/16,36,27.0,24,47.35,Sheffield Wednesday,ENG
+EFL,Fulham FC,2015/16,40,25.7,24,46.2,Fulham,ENG
+EFL,Reading FC,2015/16,41,24.6,28,44.8,Reading,ENG
+EFL,Blackburn Rovers,2015/16,36,26.1,22,42.93,Blackburn Rovers,ENG
+EFL,Brighton & Hove Albion,2015/16,37,27.5,21,40.85,Brighton,ENG
+EFL,Wolverhampton Wanderers,2015/16,43,24.3,22,39.23,Wolverhampton,ENG
+EFL,Brentford FC,2015/16,38,24.0,21,39.0,Brentford FC,ENG
+EFL,Leeds United,2015/16,33,24.5,20,34.25,Leeds,ENG
+EFL,Charlton Athletic,2015/16,43,24.6,30,29.25,Charlton,ENG
+EFL,Birmingham City,2015/16,39,26.3,20,28.3,Birmingham,ENG
+EFL,Huddersfield Town,2015/16,41,24.9,17,27.35,Huddersfield,ENG
+EFL,Bristol City,2015/16,37,25.4,17,26.9,Bristol City,ENG
+EFL,Ipswich Town,2015/16,41,25.5,22,24.38,Ipswich,ENG
+EFL,Rotherham United,2015/16,44,27.4,21,19.93,Rotherham,ENG
+EFL,Bolton Wanderers,2015/16,43,25.3,13,18.53,Bolton,ENG
+EFL,Preston North End,2015/16,37,25.4,17,15.4,Preston,ENG
+EFL,Milton Keynes Dons,2015/16,41,24.9,14,12.58,Milton Keynes Dons,ENG
+EFL,Norwich City,2014/15,44,25.9,26,76.6,Norwich,ENG
+EFL,Cardiff City,2014/15,52,25.6,31,64.33,Cardiff,ENG
+EFL,Wigan Athletic,2014/15,50,26.6,26,61.15,Wigan,ENG
+EFL,Nottingham Forest,2014/15,41,25.7,21,53.8,Nottingham Forest,ENG
+EFL,Derby County,2014/15,42,25.4,23,48.65,Derby County,ENG
+EFL,Watford FC,2014/15,40,26.4,31,44.33,Watford FC,ENG
+EFL,Middlesbrough FC,2014/15,40,25.2,19,43.88,Middlesbrough,ENG
+EFL,Blackburn Rovers,2014/15,38,25.6,18,43.0,Blackburn Rovers,ENG
+EFL,Reading FC,2014/15,45,24.8,31,42.98,Reading,ENG
+EFL,Fulham FC,2014/15,42,24.5,30,42.4,Fulham,ENG
+EFL,Bolton Wanderers,2014/15,55,26.3,25,39.38,Bolton,ENG
+EFL,Brighton & Hove Albion,2014/15,42,26.6,26,34.1,Brighton,ENG
+EFL,Charlton Athletic,2014/15,45,24.4,27,30.95,Charlton,ENG
+EFL,Leeds United,2014/15,40,25.3,21,29.68,Leeds,ENG
+EFL,Ipswich Town,2014/15,43,25.7,20,29.5,Ipswich,ENG
+EFL,Wolverhampton Wanderers,2014/15,37,24.8,22,27.45,Wolverhampton,ENG
+EFL,AFC Bournemouth,2014/15,39,26.2,18,25.53,Bournemouth,ENG
+EFL,Rotherham United,2014/15,47,26.0,15,23.35,Rotherham,ENG
+EFL,Huddersfield Town,2014/15,43,24.7,20,22.6,Huddersfield,ENG
+EFL,Sheffield Wednesday,2014/15,38,25.6,23,20.4,Sheffield Wednesday,ENG
+EFL,Brentford FC,2014/15,39,24.7,20,20.23,Brentford FC,ENG
+EFL,Blackpool FC,2014/15,56,25.1,24,19.63,Blackpool,ENG
+EFL,Birmingham City,2014/15,40,25.7,24,19.6,Birmingham,ENG
+EFL,Millwall FC,2014/15,47,27.4,22,19.4,Millwall,ENG
+EFL,Queens Park Rangers,2013/14,48,28.0,29,89.1,Queens Park Rangers,ENG
+EFL,Wigan Athletic,2013/14,41,26.7,23,77.0,Wigan,ENG
+EFL,Nottingham Forest,2013/14,40,27.1,22,45.75,Nottingham Forest,ENG
+EFL,Blackburn Rovers,2013/14,41,25.4,21,44.3,Blackburn Rovers,ENG
+EFL,Bolton Wanderers,2013/14,41,26.2,17,43.4,Bolton,ENG
+EFL,Watford FC,2013/14,42,25.5,31,42.55,Watford FC,ENG
+EFL,Reading FC,2013/14,37,25.9,27,40.5,Reading,ENG
+EFL,Leicester City,2013/14,33,26.9,18,36.55,Leicester,ENG
+EFL,Derby County,2013/14,42,25.1,20,34.85,Derby County,ENG
+EFL,Middlesbrough FC,2013/14,40,25.7,17,34.13,Middlesbrough,ENG
+EFL,Leeds United,2013/14,36,27.1,12,33.95,Leeds,ENG
+EFL,Blackpool FC,2013/14,47,26.0,24,31.7,Blackpool,ENG
+EFL,Brighton & Hove Albion,2013/14,36,27.3,22,30.85,Brighton,ENG
+EFL,Burnley FC,2013/14,29,25.9,13,25.53,Burnley FC,ENG
+EFL,Barnsley FC,2013/14,45,26.2,19,25.35,Barnsley,ENG
+EFL,Sheffield Wednesday,2013/14,45,26.1,25,25.15,Sheffield Wednesday,ENG
+EFL,Millwall FC,2013/14,46,28.1,20,22.95,Millwall,ENG
+EFL,Birmingham City,2013/14,43,25.1,22,20.1,Birmingham,ENG
+EFL,Huddersfield Town,2013/14,33,25.1,14,19.53,Huddersfield,ENG
+EFL,AFC Bournemouth,2013/14,38,26.6,21,19.35,Bournemouth,ENG
+EFL,Charlton Athletic,2013/14,40,25.3,17,18.25,Charlton,ENG
+EFL,Ipswich Town,2013/14,40,24.3,17,17.18,Ipswich,ENG
+EFL,Yeovil Town,2013/14,38,25.3,16,14.95,Yeovil,ENG
+EFL,Doncaster Rovers,2013/14,37,26.2,16,14.8,Doncaster,ENG
+EFL,Wolverhampton Wanderers,2012/13,57,24.8,35,82.3,Wolverhampton,ENG
+EFL,Blackburn Rovers,2012/13,55,24.7,34,73.45,Blackburn Rovers,ENG
+EFL,Bolton Wanderers,2012/13,45,25.1,19,53.1,Bolton,ENG
+EFL,Cardiff City,2012/13,45,24.9,26,39.95,Cardiff,ENG
+EFL,Hull City,2012/13,39,25.8,23,39.25,Hull City,ENG
+EFL,Middlesbrough FC,2012/13,39,24.9,16,37.45,Middlesbrough,ENG
+EFL,Nottingham Forest,2012/13,37,26.7,19,37.05,Nottingham Forest,ENG
+EFL,Crystal Palace,2012/13,42,25.9,23,36.35,Crystal Palace,ENG
+EFL,Sheffield Wednesday,2012/13,44,26.8,19,33.13,Sheffield Wednesday,ENG
+EFL,Blackpool FC,2012/13,45,25.1,21,32.95,Blackpool,ENG
+EFL,Leeds United,2012/13,39,27.6,15,32.63,Leeds,ENG
+EFL,Birmingham City,2012/13,45,25.6,23,30.75,Birmingham,ENG
+EFL,Watford FC,2012/13,44,25.0,31,30.43,Watford FC,ENG
+EFL,Leicester City,2012/13,33,24.8,17,30.05,Leicester,ENG
+EFL,Brighton & Hove Albion,2012/13,36,27.0,20,28.35,Brighton,ENG
+EFL,Ipswich Town,2012/13,48,26.3,22,27.4,Ipswich,ENG
+EFL,Huddersfield Town,2012/13,43,24.6,16,26.75,Huddersfield,ENG
+EFL,Bristol City,2012/13,40,26.1,23,25.9,Bristol City,ENG
+EFL,Burnley FC,2012/13,34,24.8,17,24.4,Burnley FC,ENG
+EFL,Millwall FC,2012/13,39,27.1,17,18.1,Millwall,ENG
+EFL,Derby County,2012/13,34,24.5,17,17.75,Derby County,ENG
+EFL,Barnsley FC,2012/13,43,26.1,15,15.85,Barnsley,ENG
+EFL,Charlton Athletic,2012/13,46,25.2,18,15.15,Charlton,ENG
+EFL,Peterborough United,2012/13,46,23.0,18,12.58,Peterboro,ENG
+EFL,West Ham United,2011/12,49,25.3,25,83.55,West Ham,ENG
+EFL,Birmingham City,2011/12,41,25.2,28,51.33,Birmingham,ENG
+EFL,Southampton FC,2011/12,39,25.5,14,48.78,Southampton,ENG
+EFL,Leicester City,2011/12,39,26.5,19,42.1,Leicester,ENG
+EFL,Leeds United,2011/12,40,26.7,19,32.88,Leeds,ENG
+EFL,Middlesbrough FC,2011/12,36,24.9,19,31.45,Middlesbrough,ENG
+EFL,Burnley FC,2011/12,38,24.5,20,31.03,Burnley FC,ENG
+EFL,Blackpool FC,2011/12,45,25.6,24,28.78,Blackpool,ENG
+EFL,Reading FC,2011/12,53,24.2,31,27.65,Reading,ENG
+EFL,Bristol City,2011/12,42,26.1,23,26.65,Bristol City,ENG
+EFL,Crystal Palace,2011/12,46,24.4,24,26.13,Crystal Palace,ENG
+EFL,Nottingham Forest,2011/12,37,25.8,20,25.58,Nottingham Forest,ENG
+EFL,Cardiff City,2011/12,37,25.1,25,23.65,Cardiff,ENG
+EFL,Ipswich Town,2011/12,39,26.7,20,23.6,Ipswich,ENG
+EFL,Watford FC,2011/12,41,23.8,22,22.33,Watford FC,ENG
+EFL,Doncaster Rovers,2011/12,50,27.1,23,21.85,Doncaster,ENG
+EFL,Brighton & Hove Albion,2011/12,42,25.4,22,20.1,Brighton,ENG
+EFL,Hull City,2011/12,39,25.6,20,19.95,Hull City,ENG
+EFL,Barnsley FC,2011/12,41,24.7,13,18.55,Barnsley,ENG
+EFL,Millwall FC,2011/12,40,26.3,14,18.45,Millwall,ENG
+EFL,Portsmouth FC,2011/12,37,25.6,22,16.0,Portsmouth,ENG
+EFL,Peterborough United,2011/12,39,23.4,10,15.95,Peterboro,ENG
+EFL,Derby County,2011/12,40,24.7,19,15.45,Derby County,ENG
+EFL,Coventry City,2011/12,35,24.1,15,13.55,Coventry,ENG
+EFL,Leicester City,2010/11,51,25.3,32,60.48,Leicester,ENG
+EFL,Middlesbrough FC,2010/11,41,25.0,19,49.8,Middlesbrough,ENG
+EFL,Queens Park Rangers,2010/11,44,26.6,24,46.8,Queens Park Rangers,ENG
+EFL,Cardiff City,2010/11,37,26.5,24,46.6,Cardiff,ENG
+EFL,Hull City,2010/11,43,26.3,23,44.8,Hull City,ENG
+EFL,Nottingham Forest,2010/11,35,25.0,19,42.2,Nottingham Forest,ENG
+EFL,Burnley FC,2010/11,38,25.3,19,41.8,Burnley FC,ENG
+EFL,Ipswich Town,2010/11,46,25.1,27,40.8,Ipswich,ENG
+EFL,Portsmouth FC,2010/11,31,27.1,14,36.75,Portsmouth,ENG
+EFL,Sheffield United,2010/11,53,25.5,28,34.23,Sheffield United,ENG
+EFL,Leeds United,2010/11,44,26.2,25,33.48,Leeds,ENG
+EFL,Preston North End,2010/11,50,25.0,27,30.95,Preston,ENG
+EFL,Reading FC,2010/11,45,24.2,30,30.33,Reading,ENG
+EFL,Swansea City,2010/11,43,25.6,31,27.3,Swansea,ENG
+EFL,Derby County,2010/11,44,25.8,20,26.55,Derby County,ENG
+EFL,Barnsley FC,2010/11,41,24.8,13,25.3,Barnsley,ENG
+EFL,Bristol City,2010/11,41,25.2,24,24.6,Bristol City,ENG
+EFL,Crystal Palace,2010/11,41,25.2,18,23.13,Crystal Palace,ENG
+EFL,Norwich City,2010/11,38,25.0,16,21.3,Norwich,ENG
+EFL,Millwall FC,2010/11,40,26.3,15,18.25,Millwall,ENG
+EFL,Coventry City,2010/11,41,24.4,23,17.58,Coventry,ENG
+EFL,Scunthorpe United,2010/11,45,24.5,16,17.4,Scunthorpe,ENG
+EFL,Doncaster Rovers,2010/11,42,25.8,13,17.3,Doncaster,ENG
+EFL,Watford FC,2010/11,40,22.4,17,16.4,Watford FC,ENG
+EFL,Middlesbrough FC,2009/10,47,24.9,24,86.18,Middlesbrough,ENG
+EFL,Newcastle United,2009/10,44,24.5,23,82.08,Newcastle,ENG
+EFL,West Bromwich Albion,2009/10,48,23.9,28,70.73,West Bromwich Albion,ENG
+EFL,Sheffield United,2009/10,46,27.4,20,43.15,Sheffield United,ENG
+EFL,Queens Park Rangers,2009/10,43,25.9,23,39.8,Queens Park Rangers,ENG
+EFL,Reading FC,2009/10,42,24.6,32,38.03,Reading,ENG
+EFL,Nottingham Forest,2009/10,33,24.4,17,35.7,Nottingham Forest,ENG
+EFL,Ipswich Town,2009/10,44,24.9,28,30.2,Ipswich,ENG
+EFL,Derby County,2009/10,47,25.2,17,30.05,Derby County,ENG
+EFL,Preston North End,2009/10,39,24.5,19,29.65,Preston,ENG
+EFL,Cardiff City,2009/10,36,24.6,30,29.35,Cardiff,ENG
+EFL,Leicester City,2009/10,38,26.0,16,27.08,Leicester,ENG
+EFL,Bristol City,2009/10,39,26.0,19,27.05,Bristol City,ENG
+EFL,Blackpool FC,2009/10,36,25.7,18,25.85,Blackpool,ENG
+EFL,Swansea City,2009/10,43,25.1,34,24.85,Swansea,ENG
+EFL,Sheffield Wednesday,2009/10,31,25.5,9,24.6,Sheffield Wednesday,ENG
+EFL,Plymouth Argyle,2009/10,48,24.1,28,24.33,Plymouth,ENG
+EFL,Coventry City,2009/10,38,24.0,16,23.15,Coventry,ENG
+EFL,Watford FC,2009/10,43,23.3,16,23.05,Watford FC,ENG
+EFL,Barnsley FC,2009/10,39,25.7,17,20.53,Barnsley,ENG
+EFL,Crystal Palace,2009/10,33,24.7,14,20.43,Crystal Palace,ENG
+EFL,Doncaster Rovers,2009/10,36,26.4,13,19.53,Doncaster,ENG
+EFL,Peterborough United,2009/10,46,23.1,13,12.03,Peterboro,ENG
+EFL,Scunthorpe United,2009/10,36,24.4,11,9.53,Scunthorpe,ENG
+EFL,Wolverhampton Wanderers,2008/09,39,25.5,18,49.8,Wolverhampton,ENG
+EFL,Birmingham City,2008/09,39,26.5,24,46.3,Birmingham,ENG
+EFL,Reading FC,2008/09,40,25.3,27,45.35,Reading,ENG
+EFL,Sheffield United,2008/09,43,26.4,22,40.2,Sheffield United,ENG
+EFL,Derby County,2008/09,42,26.1,21,38.9,Derby County,ENG
+EFL,Cardiff City,2008/09,32,26.1,23,38.65,Cardiff,ENG
+EFL,Ipswich Town,2008/09,36,25.4,22,36.0,Ipswich,ENG
+EFL,Blackpool FC,2008/09,47,26.0,19,33.35,Blackpool,ENG
+EFL,Queens Park Rangers,2008/09,40,25.2,23,32.15,Queens Park Rangers,ENG
+EFL,Charlton Athletic,2008/09,43,25.6,21,31.0,Charlton,ENG
+EFL,Crystal Palace,2008/09,38,25.2,20,30.9,Crystal Palace,ENG
+EFL,Norwich City,2008/09,40,25.2,20,28.0,Norwich,ENG
+EFL,Preston North End,2008/09,31,26.3,11,26.53,Preston,ENG
+EFL,Burnley FC,2008/09,25,27.6,18,25.8,Burnley FC,ENG
+EFL,Watford FC,2008/09,45,24.6,22,25.43,Watford FC,ENG
+EFL,Sheffield Wednesday,2008/09,33,25.2,10,25.3,Sheffield Wednesday,ENG
+EFL,Nottingham Forest,2008/09,42,23.7,16,25.13,Nottingham Forest,ENG
+EFL,Southampton FC,2008/09,43,24.1,21,23.68,Southampton,ENG
+EFL,Barnsley FC,2008/09,35,26.3,20,23.45,Barnsley,ENG
+EFL,Plymouth Argyle,2008/09,34,25.4,22,23.33,Plymouth,ENG
+EFL,Bristol City,2008/09,31,26.7,16,21.15,Bristol City,ENG
+EFL,Coventry City,2008/09,35,24.3,17,20.6,Coventry,ENG
+EFL,Swansea City,2008/09,32,25.9,26,19.1,Swansea,ENG
+EFL,Doncaster Rovers,2008/09,35,26.2,15,17.28,Doncaster,ENG
+EFL,West Bromwich Albion,2007/08,33,25.9,19,61.13,West Bromwich Albion,ENG
+EFL,Sheffield United,2007/08,42,27.1,18,55.56,Sheffield United,ENG
+EFL,Charlton Athletic,2007/08,40,25.5,22,48.6,Charlton,ENG
+EFL,Stoke City,2007/08,38,27.2,20,44.58,Stoke City,ENG
+EFL,Southampton FC,2007/08,42,27.2,23,44.3,Southampton,ENG
+EFL,Cardiff City,2007/08,40,24.3,28,37.0,Cardiff,ENG
+EFL,Watford FC,2007/08,41,25.1,19,36.75,Watford FC,ENG
+EFL,Leicester City,2007/08,48,25.8,31,33.65,Leicester,ENG
+EFL,Burnley FC,2007/08,31,27.9,18,32.05,Burnley FC,ENG
+EFL,Wolverhampton Wanderers,2007/08,41,24.3,23,31.0,Wolverhampton,ENG
+EFL,Preston North End,2007/08,37,25.7,11,27.65,Preston,ENG
+EFL,Crystal Palace,2007/08,45,24.5,20,27.18,Crystal Palace,ENG
+EFL,Queens Park Rangers,2007/08,44,24.7,19,25.4,Queens Park Rangers,ENG
+EFL,Sheffield Wednesday,2007/08,39,25.1,19,24.63,Sheffield Wednesday,ENG
+EFL,Norwich City,2007/08,44,24.1,20,24.5,Norwich,ENG
+EFL,Ipswich Town,2007/08,38,25.7,23,23.95,Ipswich,ENG
+EFL,Plymouth Argyle,2007/08,39,25.7,21,23.73,Plymouth,ENG
+EFL,Hull City,2007/08,39,26.3,10,19.55,Hull City,ENG
+EFL,Coventry City,2007/08,37,25.9,20,17.53,Coventry,ENG
+EFL,Barnsley FC,2007/08,39,25.8,22,15.73,Barnsley,ENG
+EFL,Scunthorpe United,2007/08,36,25.3,15,12.38,Scunthorpe,ENG
+EFL,Blackpool FC,2007/08,41,26.4,15,11.96,Blackpool,ENG
+EFL,Colchester United,2007/08,32,26.4,8,11.9,Colchester United,ENG
+EFL,Bristol City,2007/08,33,26.1,18,11.15,Bristol City,ENG
+EFL,West Bromwich Albion,2006/07,35,26.6,17,58.35,West Bromwich Albion,ENG
+EFL,Birmingham City,2006/07,32,25.4,17,53.4,Birmingham,ENG
+EFL,Sunderland AFC,2006/07,41,25.8,30,42.73,Sunderland,ENG
+EFL,Leeds United,2006/07,47,27.9,23,42.58,Leeds,ENG
+EFL,Southampton FC,2006/07,32,26.5,19,40.48,Southampton,ENG
+EFL,Stoke City,2006/07,41,26.1,24,36.85,Stoke City,ENG
+EFL,Wolverhampton Wanderers,2006/07,43,24.7,23,34.95,Wolverhampton,ENG
+EFL,Crystal Palace,2006/07,35,26.1,17,30.43,Crystal Palace,ENG
+EFL,Derby County,2006/07,39,26.1,18,30.17,Derby County,ENG
+EFL,Coventry City,2006/07,42,26.9,22,27.15,Coventry,ENG
+EFL,Norwich City,2006/07,41,24.9,20,26.43,Norwich,ENG
+EFL,Ipswich Town,2006/07,44,25.2,21,26.13,Ipswich,ENG
+EFL,Burnley FC,2006/07,27,29.4,18,24.38,Burnley FC,ENG
+EFL,Cardiff City,2006/07,47,24.2,30,23.52,Cardiff,ENG
+EFL,Leicester City,2006/07,37,25.5,23,22.2,Leicester,ENG
+EFL,Preston North End,2006/07,33,26.1,11,21.68,Preston,ENG
+EFL,Queens Park Rangers,2006/07,44,26.2,20,18.63,Queens Park Rangers,ENG
+EFL,Sheffield Wednesday,2006/07,39,24.4,22,16.3,Sheffield Wednesday,ENG
+EFL,Hull City,2006/07,36,26.2,10,14.28,Hull City,ENG
+EFL,Luton Town,2006/07,37,25.4,17,12.4,Luton,ENG
+EFL,Barnsley FC,2006/07,40,23.9,12,10.55,Barnsley,ENG
+EFL,Southend United,2006/07,30,25.4,10,10.1,Southend,ENG
+EFL,Plymouth Argyle,2006/07,32,25.3,13,10.05,Plymouth,ENG
+EFL,Colchester United,2006/07,26,25.0,5,6.45,Colchester United,ENG
+EFL,Southampton FC,2005/06,47,26.0,30,61.63,Southampton,ENG
+EFL,Wolverhampton Wanderers,2005/06,37,26.7,21,57.6,Wolverhampton,ENG
+EFL,Norwich City,2005/06,34,26.2,16,46.7,Norwich,ENG
+EFL,Crystal Palace,2005/06,32,25.7,16,40.03,Crystal Palace,ENG
+EFL,Leeds United,2005/06,35,26.6,16,32.05,Leeds,ENG
+EFL,Sheffield United,2005/06,46,26.8,16,31.4,Sheffield United,ENG
+EFL,Derby County,2005/06,45,26.8,21,28.88,Derby County,ENG
+EFL,Cardiff City,2005/06,40,25.1,29,25.68,Cardiff,ENG
+EFL,Leicester City,2005/06,37,24.9,24,23.8,Leicester,ENG
+EFL,Stoke City,2005/06,35,25.8,21,21.5,Stoke City,ENG
+EFL,Preston North End,2005/06,38,26.0,13,20.63,Preston,ENG
+EFL,Millwall FC,2005/06,42,25.8,19,19.45,Millwall,ENG
+EFL,Coventry City,2005/06,38,26.5,17,17.53,Coventry,ENG
+EFL,Watford FC,2005/06,40,24.4,19,17.28,Watford FC,ENG
+EFL,Sheffield Wednesday,2005/06,43,24.3,23,16.93,Sheffield Wednesday,ENG
+EFL,Reading FC,2005/06,33,24.2,19,16.73,Reading,ENG
+EFL,Ipswich Town,2005/06,36,24.7,20,16.05,Ipswich,ENG
+EFL,Burnley FC,2005/06,31,26.9,16,14.6,Burnley FC,ENG
+EFL,Plymouth Argyle,2005/06,34,25.9,14,13.73,Plymouth,ENG
+EFL,Queens Park Rangers,2005/06,43,25.7,14,13.43,Queens Park Rangers,ENG
+EFL,Luton Town,2005/06,30,25.4,15,11.13,Luton,ENG
+EFL,Hull City,2005/06,38,25.6,14,8.98,Hull City,ENG
+EFL,Crewe Alexandra,2005/06,40,23.7,10,7.88,Crewe,ENG
+EFL,Brighton & Hove Albion,2005/06,35,24.1,15,5.5,Brighton,ENG
+EFL,Leeds United,2004/05,49,26.4,22,52.85,Leeds,ENG
+EFL,Sunderland AFC,2004/05,42,23.8,25,43.33,Sunderland,ENG
+EFL,West Ham United,2004/05,41,26.3,16,41.15,West Ham,ENG
+EFL,Wolverhampton Wanderers,2004/05,34,26.4,19,37.88,Wolverhampton,ENG
+EFL,Leicester City,2004/05,37,27.6,21,34.5,Leicester,ENG
+EFL,Nottingham Forest,2004/05,45,25.9,24,33.5,Nottingham Forest,ENG
+EFL,Ipswich Town,2004/05,33,24.3,15,20.4,Ipswich,ENG
+EFL,Coventry City,2004/05,43,26.5,20,20.38,Coventry,ENG
+EFL,Wigan Athletic,2004/05,30,27.7,14,19.13,Wigan,ENG
+EFL,Cardiff City,2004/05,46,24.8,33,19.05,Cardiff,ENG
+EFL,Stoke City,2004/05,38,26.0,14,17.43,Stoke City,ENG
+EFL,Millwall FC,2004/05,38,25.0,19,17.0,Millwall,ENG
+EFL,Derby County,2004/05,31,26.4,15,16.9,Derby County,ENG
+EFL,Preston North End,2004/05,40,25.5,21,14.4,Preston,ENG
+EFL,Sheffield United,2004/05,40,26.3,13,14.23,Sheffield United,ENG
+EFL,Burnley FC,2004/05,27,26.9,13,14.1,Burnley FC,ENG
+EFL,Watford FC,2004/05,39,25.7,13,8.18,Watford FC,ENG
+EFL,Queens Park Rangers,2004/05,43,25.0,13,7.78,Queens Park Rangers,ENG
+EFL,Crewe Alexandra,2004/05,33,23.8,6,7.6,Crewe,ENG
+EFL,Rotherham United,2004/05,31,27.8,7,7.13,Rotherham,ENG
+EFL,Reading FC,2004/05,28,26.6,13,6.8,Reading,ENG
+EFL,Plymouth Argyle,2004/05,31,26.2,16,5.6,Plymouth,ENG
+EFL,Gillingham FC,2004/05,38,26.7,15,5.0,Gillingham,ENG
+EFL,Brighton & Hove Albion,2004/05,37,26.1,14,2.13,Brighton,ENG
