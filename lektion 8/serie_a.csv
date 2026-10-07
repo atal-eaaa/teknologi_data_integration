@@ -1,0 +1,479 @@
+tier,club,season,squad,avg_age,foreigners,total_market_value,club_std_name,country
+SA,Inter Milan,2026/27,24,28.2,18,738.3,Inter Milan,ITA
+SA,Juventus FC,2026/27,29,27.8,22,613.6,Juventus,ITA
+SA,Como 1907,2026/27,27,25.6,21,568.15,Como,ITA
+SA,AC Milan,2026/27,28,25.6,20,503.2,Milan,ITA
+SA,AS Roma,2026/27,25,26.1,17,498.4,AS Roma,ITA
+SA,Atalanta BC,2026/27,25,26.6,15,449.05,Atalanta BC,ITA
+SA,SSC Napoli,2026/27,27,27.8,16,424.5,Napoli,ITA
+SA,ACF Fiorentina,2026/27,25,25.1,16,353.25,Fiorentina,ITA
+SA,SS Lazio,2026/27,33,25.7,19,262.05,Lazio,ITA
+SA,Bologna FC 1909,2026/27,27,26.3,18,227.75,Bologna,ITA
+SA,US Sassuolo,2026/27,34,25.2,22,219.45,Sassuolo,ITA
+SA,Torino FC,2026/27,29,26.1,18,171.1,Torino FC,ITA
+SA,Genoa CFC,2026/27,33,24.8,25,165.8,Genoa CFC,ITA
+SA,Udinese Calcio,2026/27,28,26.9,23,161.8,Udinese,ITA
+SA,Parma Calcio 1913,2026/27,28,24.2,20,156.13,Parma,ITA
+SA,Cagliari Calcio,2026/27,30,25.0,18,141.85,Cagliari,ITA
+SA,Venezia FC,2026/27,35,26.1,27,120.25,Venezia FC,ITA
+SA,Frosinone Calcio,2026/27,30,25.3,15,113.6,Frosinone Calcio,ITA
+SA,AC Monza,2026/27,31,24.6,19,112.5,AC Monza,ITA
+SA,US Lecce,2026/27,33,24.6,30,82.55,Lecce,ITA
+SA,Inter Milan,2025/26,40,26.3,24,680.1,Inter Milan,ITA
+SA,Juventus FC,2025/26,37,26.0,24,536.5,Juventus,ITA
+SA,AC Milan,2025/26,36,25.1,26,511.7,Milan,ITA
+SA,AS Roma,2025/26,41,24.5,26,503.3,AS Roma,ITA
+SA,Atalanta BC,2025/26,37,25.7,21,491.85,Atalanta BC,ITA
+SA,SSC Napoli,2025/26,39,26.7,22,459.55,Napoli,ITA
+SA,Como 1907,2025/26,40,25.4,28,412.95,Como,ITA
+SA,Bologna FC 1909,2025/26,43,25.7,24,301.5,Bologna,ITA
+SA,SS Lazio,2025/26,38,26.6,22,288.13,Lazio,ITA
+SA,ACF Fiorentina,2025/26,45,25.1,17,264.95,Fiorentina,ITA
+SA,US Sassuolo,2025/26,44,25.1,23,211.8,Sassuolo,ITA
+SA,Udinese Calcio,2025/26,37,25.0,29,206.1,Udinese,ITA
+SA,Parma Calcio 1913,2025/26,50,23.9,34,204.05,Parma,ITA
+SA,Cagliari Calcio,2025/26,48,24.7,20,201.85,Cagliari,ITA
+SA,Genoa CFC,2025/26,46,24.3,31,187.4,Genoa CFC,ITA
+SA,Torino FC,2025/26,40,25.6,31,150.95,Torino FC,ITA
+SA,US Lecce,2025/26,38,25.0,33,128.58,Lecce,ITA
+SA,Pisa Sporting Club,2025/26,45,24.9,30,111.55,Pisa,ITA
+SA,Hellas Verona,2025/26,51,24.4,42,107.75,Hellas Verona,ITA
+SA,US Cremonese,2025/26,43,27.2,19,78.38,Cremonese,ITA
+SA,Inter Milan,2024/25,46,25.5,26,741.85,Inter Milan,ITA
+SA,Juventus FC,2024/25,43,24.6,25,628.73,Juventus,ITA
+SA,AC Milan,2024/25,41,25.1,28,581.7,Milan,ITA
+SA,Atalanta BC,2024/25,44,25.4,20,501.2,Atalanta BC,ITA
+SA,SSC Napoli,2024/25,37,26.9,18,500.45,Napoli,ITA
+SA,AS Roma,2024/25,39,25.7,28,390.3,AS Roma,ITA
+SA,ACF Fiorentina,2024/25,44,25.2,18,368.13,Fiorentina,ITA
+SA,Bologna FC 1909,2024/25,38,25.2,25,340.65,Bologna,ITA
+SA,SS Lazio,2024/25,41,26.0,25,294.9,Lazio,ITA
+SA,Torino FC,2024/25,48,24.9,34,219.28,Torino FC,ITA
+SA,Como 1907,2024/25,51,26.5,31,203.43,Como,ITA
+SA,Udinese Calcio,2024/25,40,25.7,34,198.9,Udinese,ITA
+SA,Genoa CFC,2024/25,48,24.9,27,175.35,Genoa CFC,ITA
+SA,Parma Calcio 1913,2024/25,40,25.1,28,175.11,Parma,ITA
+SA,US Lecce,2024/25,44,24.8,37,113.43,Lecce,ITA
+SA,Hellas Verona,2024/25,42,25.2,31,107.35,Hellas Verona,ITA
+SA,FC Empoli,2024/25,52,24.5,28,106.58,Empoli,ITA
+SA,AC Monza,2024/25,46,26.3,16,95.83,AC Monza,ITA
+SA,Venezia FC,2024/25,41,25.9,26,95.6,Venezia FC,ITA
+SA,Cagliari Calcio,2024/25,36,26.7,18,93.63,Cagliari,ITA
+SA,Inter Milan,2023/24,35,27.1,24,654.85,Inter Milan,ITA
+SA,AC Milan,2023/24,42,24.6,26,571.41,Milan,ITA
+SA,SSC Napoli,2023/24,35,26.5,22,515.0,Napoli,ITA
+SA,Juventus FC,2023/24,39,25.2,19,504.53,Juventus,ITA
+SA,Atalanta BC,2023/24,42,25.2,21,436.05,Atalanta BC,ITA
+SA,Bologna FC 1909,2023/24,37,25.1,26,349.3,Bologna,ITA
+SA,AS Roma,2023/24,41,25.2,24,340.4,AS Roma,ITA
+SA,ACF Fiorentina,2023/24,41,25.7,21,284.1,Fiorentina,ITA
+SA,Torino FC,2023/24,45,24.3,33,232.73,Torino FC,ITA
+SA,SS Lazio,2023/24,37,26.4,20,225.45,Lazio,ITA
+SA,Genoa CFC,2023/24,44,25.9,29,195.4,Genoa CFC,ITA
+SA,Udinese Calcio,2023/24,45,24.7,36,170.06,Udinese,ITA
+SA,AC Monza,2023/24,39,26.6,13,143.43,AC Monza,ITA
+SA,Hellas Verona,2023/24,50,25.1,32,140.7,Hellas Verona,ITA
+SA,US Sassuolo,2023/24,38,25.5,21,139.54,Sassuolo,ITA
+SA,Frosinone Calcio,2023/24,48,24.9,26,108.4,Frosinone Calcio,ITA
+SA,US Lecce,2023/24,39,24.6,30,107.73,Lecce,ITA
+SA,FC Empoli,2023/24,47,25.3,20,102.33,Empoli,ITA
+SA,US Salernitana 1919,2023/24,50,25.6,31,94.6,Salernitana,ITA
+SA,Cagliari Calcio,2023/24,38,27.0,19,92.23,Cagliari,ITA
+SA,SSC Napoli,2022/23,31,26.7,20,654.08,Napoli,ITA
+SA,Inter Milan,2022/23,35,26.9,22,567.55,Inter Milan,ITA
+SA,AC Milan,2022/23,36,26.4,27,545.1,Milan,ITA
+SA,Juventus FC,2022/23,40,25.9,19,483.13,Juventus,ITA
+SA,AS Roma,2022/23,47,24.2,27,361.38,AS Roma,ITA
+SA,Atalanta BC,2022/23,38,24.9,20,338.38,Atalanta BC,ITA
+SA,SS Lazio,2022/23,33,26.5,20,266.43,Lazio,ITA
+SA,ACF Fiorentina,2022/23,38,25.6,18,258.8,Fiorentina,ITA
+SA,US Sassuolo,2022/23,35,25.4,19,232.2,Sassuolo,ITA
+SA,Torino FC,2022/23,38,24.3,29,197.19,Torino FC,ITA
+SA,Udinese Calcio,2022/23,38,25.3,28,188.86,Udinese,ITA
+SA,Bologna FC 1909,2022/23,38,25.3,22,153.63,Bologna,ITA
+SA,AC Monza,2022/23,41,26.6,12,135.7,AC Monza,ITA
+SA,FC Empoli,2022/23,44,24.8,19,125.53,Empoli,ITA
+SA,Hellas Verona,2022/23,46,25.2,26,123.89,Hellas Verona,ITA
+SA,US Salernitana 1919,2022/23,45,26.9,27,118.35,Salernitana,ITA
+SA,Spezia Calcio,2022/23,48,24.9,34,115.81,Spezia Calcio,ITA
+SA,US Lecce,2022/23,39,25.1,23,105.2,Lecce,ITA
+SA,US Cremonese,2022/23,42,26.2,19,83.78,Cremonese,ITA
+SA,UC Sampdoria,2022/23,48,26.4,27,82.96,Sampdoria,ITA
+SA,Juventus FC,2021/22,43,25.5,24,642.5,Juventus,ITA
+SA,Inter Milan,2021/22,36,27.7,20,558.55,Inter Milan,ITA
+SA,AC Milan,2021/22,37,25.8,22,546.95,Milan,ITA
+SA,SSC Napoli,2021/22,37,25.8,20,477.23,Napoli,ITA
+SA,Atalanta BC,2021/22,44,24.9,24,398.75,Atalanta BC,ITA
+SA,AS Roma,2021/22,39,24.3,25,381.25,AS Roma,ITA
+SA,ACF Fiorentina,2021/22,38,25.9,22,325.8,Fiorentina,ITA
+SA,SS Lazio,2021/22,35,27.5,24,264.53,Lazio,ITA
+SA,US Sassuolo,2021/22,43,25.5,22,251.0,Sassuolo,ITA
+SA,Torino FC,2021/22,41,25.3,25,223.4,Torino FC,ITA
+SA,Bologna FC 1909,2021/22,45,24.2,28,186.2,Bologna,ITA
+SA,Hellas Verona,2021/22,43,25.2,19,162.98,Hellas Verona,ITA
+SA,Udinese Calcio,2021/22,44,25.4,26,142.3,Udinese,ITA
+SA,Cagliari Calcio,2021/22,46,25.5,23,134.53,Cagliari,ITA
+SA,UC Sampdoria,2021/22,46,26.7,20,128.55,Sampdoria,ITA
+SA,FC Empoli,2021/22,40,25.0,12,126.5,Empoli,ITA
+SA,Genoa CFC,2021/22,47,26.5,24,121.28,Genoa CFC,ITA
+SA,Venezia FC,2021/22,51,25.2,35,80.98,Venezia FC,ITA
+SA,Spezia Calcio,2021/22,34,24.1,23,78.5,Spezia Calcio,ITA
+SA,US Salernitana 1919,2021/22,51,26.3,26,70.56,Salernitana,ITA
+SA,Inter Milan,2020/21,41,25.7,22,663.9,Inter Milan,ITA
+SA,Juventus FC,2020/21,45,25.2,26,633.3,Juventus,ITA
+SA,AC Milan,2020/21,42,24.4,27,547.78,Milan,ITA
+SA,SSC Napoli,2020/21,32,26.5,21,530.2,Napoli,ITA
+SA,Atalanta BC,2020/21,39,25.5,21,430.0,Atalanta BC,ITA
+SA,AS Roma,2020/21,46,25.1,28,395.65,AS Roma,ITA
+SA,SS Lazio,2020/21,44,26.1,32,326.33,Lazio,ITA
+SA,ACF Fiorentina,2020/21,41,26.1,24,286.8,Fiorentina,ITA
+SA,US Sassuolo,2020/21,39,25.4,19,241.74,Sassuolo,ITA
+SA,Cagliari Calcio,2020/21,42,25.8,18,187.83,Cagliari,ITA
+SA,Torino FC,2020/21,40,25.8,22,175.28,Torino FC,ITA
+SA,Udinese Calcio,2020/21,42,26.2,30,173.0,Udinese,ITA
+SA,Hellas Verona,2020/21,46,24.7,21,157.21,Hellas Verona,ITA
+SA,Bologna FC 1909,2020/21,45,24.6,27,153.6,Bologna,ITA
+SA,Parma Calcio 1913,2020/21,53,25.5,30,128.7,Parma,ITA
+SA,UC Sampdoria,2020/21,34,26.9,19,127.18,Sampdoria,ITA
+SA,Genoa CFC,2020/21,44,26.9,23,111.93,Genoa CFC,ITA
+SA,Spezia Calcio,2020/21,39,26.2,18,71.68,Spezia Calcio,ITA
+SA,FC Crotone,2020/21,41,26.5,19,52.75,Crotone,ITA
+SA,Benevento Calcio,2020/21,36,27.8,14,50.13,Benevento,ITA
+SA,Juventus FC,2019/20,38,27.2,23,661.88,Juventus,ITA
+SA,Inter Milan,2019/20,34,27.3,19,606.05,Inter Milan,ITA
+SA,SSC Napoli,2019/20,33,27.3,24,548.28,Napoli,ITA
+SA,AC Milan,2019/20,37,25.7,22,404.33,Milan,ITA
+SA,AS Roma,2019/20,36,26.1,23,392.73,AS Roma,ITA
+SA,SS Lazio,2019/20,34,26.6,24,303.88,Lazio,ITA
+SA,ACF Fiorentina,2019/20,42,25.2,28,302.23,Fiorentina,ITA
+SA,Atalanta BC,2019/20,37,25.4,26,291.43,Atalanta BC,ITA
+SA,US Sassuolo,2019/20,44,24.8,18,167.98,Sassuolo,ITA
+SA,Cagliari Calcio,2019/20,41,26.3,16,167.83,Cagliari,ITA
+SA,Torino FC,2019/20,37,25.2,17,163.55,Torino FC,ITA
+SA,Genoa CFC,2019/20,43,26.7,25,142.38,Genoa CFC,ITA
+SA,UC Sampdoria,2019/20,38,25.7,20,135.28,Sampdoria,ITA
+SA,Bologna FC 1909,2019/20,40,25.0,26,129.65,Bologna,ITA
+SA,Parma Calcio 1913,2019/20,40,26.6,19,128.75,Parma,ITA
+SA,Udinese Calcio,2019/20,39,25.3,28,121.08,Udinese,ITA
+SA,Hellas Verona,2019/20,40,25.4,19,112.53,Hellas Verona,ITA
+SA,Brescia Calcio,2019/20,33,26.4,11,83.23,Brescia,ITA
+SA,SPAL,2019/20,42,26.1,23,73.63,Spal,ITA
+SA,US Lecce,2019/20,47,25.4,17,52.33,Lecce,ITA
+SA,Juventus FC,2018/19,59,25.4,26,871.05,Juventus,ITA
+SA,SSC Napoli,2018/19,54,24.8,27,646.8,Napoli,ITA
+SA,Inter Milan,2018/19,60,24.5,30,617.93,Inter Milan,ITA
+SA,AC Milan,2018/19,45,24.9,22,578.48,Milan,ITA
+SA,AS Roma,2018/19,57,24.2,28,459.05,AS Roma,ITA
+SA,Atalanta BC,2018/19,88,23.2,29,367.68,Atalanta BC,ITA
+SA,ACF Fiorentina,2018/19,56,23.4,36,315.33,Fiorentina,ITA
+SA,SS Lazio,2018/19,57,24.9,33,291.15,Lazio,ITA
+SA,US Sassuolo,2018/19,59,24.4,15,242.05,Sassuolo,ITA
+SA,Torino FC,2018/19,62,24.2,29,239.23,Torino FC,ITA
+SA,UC Sampdoria,2018/19,59,24.0,31,216.75,Sampdoria,ITA
+SA,Udinese Calcio,2018/19,56,25.2,41,201.2,Udinese,ITA
+SA,Genoa CFC,2018/19,69,24.3,35,191.73,Genoa CFC,ITA
+SA,Cagliari Calcio,2018/19,49,26.4,18,155.38,Cagliari,ITA
+SA,Bologna FC 1909,2018/19,48,25.4,28,119.68,Bologna,ITA
+SA,FC Empoli,2018/19,59,24.6,24,105.6,Empoli,ITA
+SA,SPAL,2018/19,51,25.8,20,97.4,Spal,ITA
+SA,Parma Calcio 1913,2018/19,70,26.1,19,95.75,Parma,ITA
+SA,Chievo Verona,2018/19,68,25.2,32,54.7,Chievo,ITA
+SA,Frosinone Calcio,2018/19,44,26.2,10,54.53,Frosinone Calcio,ITA
+SA,Juventus FC,2017/18,33,26.9,17,653.15,Juventus,ITA
+SA,SSC Napoli,2017/18,40,25.6,24,504.25,Napoli,ITA
+SA,Inter Milan,2017/18,34,26.5,22,487.28,Inter Milan,ITA
+SA,AS Roma,2017/18,47,24.1,27,469.1,AS Roma,ITA
+SA,SS Lazio,2017/18,44,25.3,28,408.78,Lazio,ITA
+SA,AC Milan,2017/18,42,25.0,17,407.05,Milan,ITA
+SA,ACF Fiorentina,2017/18,41,24.4,26,237.33,Fiorentina,ITA
+SA,Atalanta BC,2017/18,37,24.0,17,207.95,Atalanta BC,ITA
+SA,UC Sampdoria,2017/18,39,25.1,25,190.45,Sampdoria,ITA
+SA,Torino FC,2017/18,51,24.2,23,175.53,Torino FC,ITA
+SA,Genoa CFC,2017/18,44,26.5,25,135.13,Genoa CFC,ITA
+SA,US Sassuolo,2017/18,39,25.5,7,126.78,Sassuolo,ITA
+SA,Udinese Calcio,2017/18,46,24.4,35,108.03,Udinese,ITA
+SA,Bologna FC 1909,2017/18,41,25.8,24,103.55,Bologna,ITA
+SA,Cagliari Calcio,2017/18,41,25.8,13,98.58,Cagliari,ITA
+SA,SPAL 2013,2017/18,42,25.9,13,63.55,SPAL,ITA
+SA,Benevento Calcio,2017/18,48,25.5,21,57.83,Benevento,ITA
+SA,Hellas Verona,2017/18,41,26.0,18,56.5,Hellas Verona,ITA
+SA,Chievo Verona,2017/18,36,28.0,16,55.23,Chievo,ITA
+SA,FC Crotone,2017/18,40,24.5,19,47.88,Crotone,ITA
+SA,Juventus FC,2016/17,38,26.6,20,497.18,Juventus,ITA
+SA,SSC Napoli,2016/17,37,26.2,22,387.3,Napoli,ITA
+SA,AS Roma,2016/17,47,24.2,25,354.68,AS Roma,ITA
+SA,Inter Milan,2016/17,41,25.9,29,328.3,Inter Milan,ITA
+SA,AC Milan,2016/17,42,25.3,21,254.33,Milan,ITA
+SA,SS Lazio,2016/17,46,24.2,33,226.45,Lazio,ITA
+SA,ACF Fiorentina,2016/17,42,24.8,30,217.08,Fiorentina,ITA
+SA,Torino FC,2016/17,51,24.7,24,162.35,Torino FC,ITA
+SA,Atalanta BC,2016/17,44,25.9,16,161.7,Atalanta BC,ITA
+SA,US Sassuolo,2016/17,48,25.0,7,145.25,Sassuolo,ITA
+SA,UC Sampdoria,2016/17,42,25.3,28,117.58,Sampdoria,ITA
+SA,Genoa CFC,2016/17,44,26.3,23,108.18,Genoa CFC,ITA
+SA,Udinese Calcio,2016/17,44,25.0,34,101.95,Udinese,ITA
+SA,Bologna FC 1909,2016/17,48,25.2,22,95.0,Bologna,ITA
+SA,Cagliari Calcio,2016/17,46,25.2,17,61.08,Cagliari,ITA
+SA,FC Empoli,2016/17,42,25.0,17,55.45,Empoli,ITA
+SA,Delfino Pescara 1936,2016/17,50,25.2,19,48.1,Pescara,ITA
+SA,Chievo Verona,2016/17,44,26.8,20,45.88,Chievo,ITA
+SA,US Palermo,2016/17,39,24.8,23,41.1,Palermo,ITA
+SA,FC Crotone,2016/17,37,25.5,12,36.7,Crotone,ITA
+SA,Juventus FC,2015/16,38,25.9,22,440.0,Juventus,ITA
+SA,AS Roma,2015/16,48,25.2,34,332.9,AS Roma,ITA
+SA,SSC Napoli,2015/16,34,26.5,22,321.93,Napoli,ITA
+SA,Inter Milan,2015/16,42,25.7,30,294.28,Inter Milan,ITA
+SA,AC Milan,2015/16,42,26.1,16,213.83,Milan,ITA
+SA,ACF Fiorentina,2015/16,39,26.6,29,190.53,Fiorentina,ITA
+SA,SS Lazio,2015/16,38,26.2,26,175.3,Lazio,ITA
+SA,UC Sampdoria,2015/16,43,26.5,22,126.53,Sampdoria,ITA
+SA,Genoa CFC,2015/16,47,24.8,27,117.55,Genoa CFC,ITA
+SA,US Sassuolo,2015/16,39,25.1,5,97.0,Sassuolo,ITA
+SA,Udinese Calcio,2015/16,43,26.8,31,93.0,Udinese,ITA
+SA,Torino FC,2015/16,39,26.1,17,89.83,Torino FC,ITA
+SA,Atalanta BC,2015/16,44,27.2,15,78.45,Atalanta BC,ITA
+SA,Bologna FC 1909,2015/16,42,26.3,17,75.23,Bologna,ITA
+SA,FC Empoli,2015/16,38,24.6,16,74.6,Empoli,ITA
+SA,US Palermo,2015/16,40,24.9,21,68.68,Palermo,ITA
+SA,Carpi FC 1909,2015/16,41,26.4,18,52.05,Carpi,ITA
+SA,Chievo Verona,2015/16,40,28.0,17,49.78,Chievo,ITA
+SA,Hellas Verona,2015/16,42,26.3,20,47.73,Hellas Verona,ITA
+SA,Frosinone Calcio,2015/16,35,26.5,10,38.3,Frosinone Calcio,ITA
+SA,Juventus FC,2014/15,35,27.4,13,329.0,Juventus,ITA
+SA,AS Roma,2014/15,43,26.3,25,276.78,AS Roma,ITA
+SA,SSC Napoli,2014/15,34,27.2,23,262.18,Napoli,ITA
+SA,Inter Milan,2014/15,44,25.0,32,260.7,Inter Milan,ITA
+SA,AC Milan,2014/15,47,25.7,19,236.13,Milan,ITA
+SA,ACF Fiorentina,2014/15,49,26.4,30,216.13,Fiorentina,ITA
+SA,SS Lazio,2014/15,36,26.8,27,167.55,Lazio,ITA
+SA,UC Sampdoria,2014/15,41,26.1,20,132.23,Sampdoria,ITA
+SA,Genoa CFC,2014/15,48,25.6,21,117.33,Genoa CFC,ITA
+SA,Udinese Calcio,2014/15,50,24.4,36,107.18,Udinese,ITA
+SA,US Palermo,2014/15,40,25.3,22,92.6,Palermo,ITA
+SA,US Sassuolo,2014/15,41,26.8,8,91.03,Sassuolo,ITA
+SA,Atalanta BC,2014/15,42,27.3,16,83.48,Atalanta BC,ITA
+SA,Torino FC,2014/15,45,26.5,21,82.58,Torino FC,ITA
+SA,Cagliari Calcio,2014/15,36,24.9,14,74.2,Cagliari,ITA
+SA,Parma FC,2014/15,55,25.6,24,65.95,Parma,ITA
+SA,Chievo Verona,2014/15,40,28.0,23,61.85,Chievo,ITA
+SA,FC Empoli,2014/15,40,24.3,13,54.03,Empoli,ITA
+SA,Hellas Verona,2014/15,38,26.9,23,41.8,Hellas Verona,ITA
+SA,AC Cesena,2014/15,37,26.5,10,34.15,Cesena,ITA
+SA,Juventus FC,2013/14,48,26.0,20,391.45,Juventus,ITA
+SA,Inter Milan,2013/14,63,24.7,36,292.65,Inter Milan,ITA
+SA,SSC Napoli,2013/14,36,27.3,25,276.6,Napoli,ITA
+SA,AC Milan,2013/14,47,25.8,22,263.95,Milan,ITA
+SA,ACF Fiorentina,2013/14,56,25.8,34,249.13,Fiorentina,ITA
+SA,AS Roma,2013/14,59,24.3,30,246.4,AS Roma,ITA
+SA,SS Lazio,2013/14,54,25.5,33,162.95,Lazio,ITA
+SA,Udinese Calcio,2013/14,63,24.2,41,123.95,Udinese,ITA
+SA,Genoa CFC,2013/14,66,24.9,33,102.1,Genoa CFC,ITA
+SA,Parma FC,2013/14,48,25.6,22,89.78,Parma,ITA
+SA,US Sassuolo,2013/14,56,25.4,12,87.85,Sassuolo,ITA
+SA,Cagliari Calcio,2013/14,36,25.4,15,86.2,Cagliari,ITA
+SA,UC Sampdoria,2013/14,58,24.9,19,83.48,Sampdoria,ITA
+SA,Torino FC,2013/14,43,26.0,20,80.25,Torino FC,ITA
+SA,Calcio Catania,2013/14,54,24.8,28,78.98,Catania,ITA
+SA,Atalanta BC,2013/14,62,25.4,14,73.93,Atalanta BC,ITA
+SA,AS Livorno,2013/14,48,25.3,14,71.18,AS Livorno,ITA
+SA,Bologna FC 1909,2013/14,64,25.1,26,69.83,Bologna,ITA
+SA,Chievo Verona,2013/14,72,25.4,35,69.08,Chievo,ITA
+SA,Hellas Verona,2013/14,54,25.9,22,67.13,Hellas Verona,ITA
+SA,Juventus FC,2012/13,40,26.8,17,337.9,Juventus,ITA
+SA,Inter Milan,2012/13,55,24.8,33,242.8,Inter Milan,ITA
+SA,AC Milan,2012/13,42,26.0,22,238.53,Milan,ITA
+SA,SSC Napoli,2012/13,41,26.7,18,237.25,Napoli,ITA
+SA,ACF Fiorentina,2012/13,42,25.7,25,213.65,Fiorentina,ITA
+SA,AS Roma,2012/13,37,25.0,22,173.4,AS Roma,ITA
+SA,SS Lazio,2012/13,55,25.4,29,143.28,Lazio,ITA
+SA,Udinese Calcio,2012/13,48,23.8,23,121.0,Udinese,ITA
+SA,Genoa CFC,2012/13,46,26.9,23,98.5,Genoa CFC,ITA
+SA,UC Sampdoria,2012/13,37,25.7,17,85.93,Sampdoria,ITA
+SA,Parma FC,2012/13,42,26.1,18,85.78,Parma,ITA
+SA,US Palermo,2012/13,52,25.7,29,80.95,Palermo,ITA
+SA,Bologna FC 1909,2012/13,49,25.0,18,78.55,Bologna,ITA
+SA,Calcio Catania,2012/13,38,26.0,22,76.48,Catania,ITA
+SA,Cagliari Calcio,2012/13,34,24.5,12,76.38,Cagliari,ITA
+SA,Atalanta BC,2012/13,43,28.1,12,74.1,Atalanta BC,ITA
+SA,Torino FC,2012/13,38,26.3,18,61.6,Torino FC,ITA
+SA,Chievo Verona,2012/13,46,27.3,26,55.1,Chievo,ITA
+SA,Delfino Pescara 1936,2012/13,52,25.0,15,47.8,Pescara,ITA
+SA,AC Siena,2012/13,48,27.7,17,47.48,Siena,ITA
+SA,Inter Milan,2011/12,48,26.0,28,303.05,Inter Milan,ITA
+SA,AC Milan,2011/12,45,26.8,21,273.53,Milan,ITA
+SA,Juventus FC,2011/12,34,28.2,12,262.28,Juventus,ITA
+SA,SSC Napoli,2011/12,29,28.7,15,204.75,Napoli,ITA
+SA,AS Roma,2011/12,39,25.9,18,172.78,AS Roma,ITA
+SA,Udinese Calcio,2011/12,49,23.9,25,140.13,Udinese,ITA
+SA,ACF Fiorentina,2011/12,40,25.1,21,130.83,Fiorentina,ITA
+SA,US Palermo,2011/12,46,25.0,25,119.05,Palermo,ITA
+SA,SS Lazio,2011/12,52,25.7,22,113.63,Lazio,ITA
+SA,Genoa CFC,2011/12,39,26.2,21,104.3,Genoa CFC,ITA
+SA,Parma FC,2011/12,43,25.7,12,82.35,Parma,ITA
+SA,Cagliari Calcio,2011/12,33,25.2,12,71.65,Cagliari,ITA
+SA,Atalanta BC,2011/12,36,27.8,5,67.58,Atalanta BC,ITA
+SA,Bologna FC 1909,2011/12,41,25.3,18,63.9,Bologna,ITA
+SA,Calcio Catania,2011/12,39,26.9,21,59.25,Catania,ITA
+SA,Chievo Verona,2011/12,40,26.6,20,44.8,Chievo,ITA
+SA,AC Siena,2011/12,37,27.3,10,39.33,Siena,ITA
+SA,AC Cesena,2011/12,45,25.7,21,39.03,Cesena,ITA
+SA,US Lecce,2011/12,43,26.1,17,38.43,Lecce,ITA
+SA,Novara Calcio 1908,2011/12,38,27.3,13,28.43,Novara,ITA
+SA,Inter Milan,2010/11,44,26.2,27,346.95,Inter Milan,ITA
+SA,AC Milan,2010/11,45,27.7,22,288.08,Milan,ITA
+SA,Juventus FC,2010/11,51,25.9,15,258.93,Juventus,ITA
+SA,ACF Fiorentina,2010/11,42,24.9,22,175.48,Fiorentina,ITA
+SA,AS Roma,2010/11,43,26.7,22,172.98,AS Roma,ITA
+SA,SSC Napoli,2010/11,31,28.3,10,170.43,Napoli,ITA
+SA,Genoa CFC,2010/11,45,25.2,22,168.18,Genoa CFC,ITA
+SA,Udinese Calcio,2010/11,40,24.6,23,137.05,Udinese,ITA
+SA,UC Sampdoria,2010/11,46,24.6,14,125.05,Sampdoria,ITA
+SA,US Palermo,2010/11,45,24.1,16,123.03,Palermo,ITA
+SA,SS Lazio,2010/11,44,27.0,22,111.73,Lazio,ITA
+SA,Parma FC,2010/11,43,25.6,14,86.05,Parma,ITA
+SA,Cagliari Calcio,2010/11,37,27.7,6,85.03,Cagliari,ITA
+SA,AC Cesena,2010/11,45,26.5,22,64.23,Cesena,ITA
+SA,Bologna FC 1909,2010/11,38,25.0,14,63.05,Bologna,ITA
+SA,Calcio Catania,2010/11,35,26.7,17,60.68,Catania,ITA
+SA,AS Bari,2010/11,46,25.7,15,51.5,AS Bari,ITA
+SA,Chievo Verona,2010/11,43,27.0,21,48.95,Chievo,ITA
+SA,Brescia Calcio,2010/11,43,26.2,19,36.75,Brescia,ITA
+SA,US Lecce,2010/11,37,25.5,15,32.7,Lecce,ITA
+SA,Inter Milan,2009/10,47,25.4,31,396.5,Inter Milan,ITA
+SA,Juventus FC,2009/10,44,26.0,14,273.1,Juventus,ITA
+SA,AC Milan,2009/10,41,27.3,16,256.45,Milan,ITA
+SA,AS Roma,2009/10,45,25.8,20,245.15,AS Roma,ITA
+SA,ACF Fiorentina,2009/10,46,24.5,22,209.3,Fiorentina,ITA
+SA,SSC Napoli,2009/10,34,27.1,12,145.63,Napoli,ITA
+SA,SS Lazio,2009/10,62,25.2,23,141.1,Lazio,ITA
+SA,Genoa CFC,2009/10,47,24.6,17,135.85,Genoa CFC,ITA
+SA,Udinese Calcio,2009/10,49,23.9,30,135.58,Udinese,ITA
+SA,US Palermo,2009/10,41,24.7,16,119.95,Palermo,ITA
+SA,UC Sampdoria,2009/10,37,25.6,6,112.7,Sampdoria,ITA
+SA,Parma FC,2009/10,51,25.0,16,82.83,Parma,ITA
+SA,Cagliari Calcio,2009/10,35,24.7,7,71.8,Cagliari,ITA
+SA,AS Bari,2009/10,43,27.0,14,69.3,AS Bari,ITA
+SA,Calcio Catania,2009/10,36,26.0,16,63.05,Catania,ITA
+SA,Atalanta BC,2009/10,39,26.6,13,62.05,Atalanta BC,ITA
+SA,Bologna FC 1909,2009/10,38,28.1,9,53.1,Bologna,ITA
+SA,AS Livorno,2009/10,40,26.1,10,46.8,AS Livorno,ITA
+SA,AC Siena,2009/10,40,25.7,18,45.83,Siena,ITA
+SA,Chievo Verona,2009/10,39,27.2,13,41.28,Chievo,ITA
+SA,Inter Milan,2008/09,32,28.5,25,327.9,Inter Milan,ITA
+SA,AC Milan,2008/09,35,28.1,19,319.4,Milan,ITA
+SA,AS Roma,2008/09,40,26.3,18,266.8,AS Roma,ITA
+SA,Juventus FC,2008/09,34,27.1,14,256.85,Juventus,ITA
+SA,ACF Fiorentina,2008/09,38,25.5,18,197.1,Fiorentina,ITA
+SA,Udinese Calcio,2008/09,37,24.1,20,124.65,Udinese,ITA
+SA,SS Lazio,2008/09,37,25.9,17,109.65,Lazio,ITA
+SA,US Palermo,2008/09,47,24.4,11,106.35,Palermo,ITA
+SA,SSC Napoli,2008/09,31,27.4,10,101.5,Napoli,ITA
+SA,UC Sampdoria,2008/09,47,24.0,12,94.3,Sampdoria,ITA
+SA,Genoa CFC,2008/09,47,23.6,15,91.7,Genoa CFC,ITA
+SA,Torino FC,2008/09,35,27.7,4,64.9,Torino FC,ITA
+SA,Atalanta BC,2008/09,36,25.4,7,64.2,Atalanta BC,ITA
+SA,Calcio Catania,2008/09,37,26.8,12,49.9,Catania,ITA
+SA,US Lecce,2008/09,43,25.5,21,45.78,Lecce,ITA
+SA,Cagliari Calcio,2008/09,36,24.6,6,45.68,Cagliari,ITA
+SA,AC Siena,2008/09,40,25.6,17,45.3,Siena,ITA
+SA,Bologna FC 1909,2008/09,34,28.8,7,40.3,Bologna,ITA
+SA,Chievo Verona,2008/09,38,27.5,11,38.25,Chievo,ITA
+SA,Reggina Calcio,2008/09,42,24.7,13,35.85,Reggina,ITA
+SA,Inter Milan,2007/08,48,26.0,31,310.0,Inter Milan,ITA
+SA,AC Milan,2007/08,41,27.6,18,279.4,Milan,ITA
+SA,AS Roma,2007/08,37,26.3,19,244.4,AS Roma,ITA
+SA,Juventus FC,2007/08,38,25.8,14,236.85,Juventus,ITA
+SA,ACF Fiorentina,2007/08,46,23.8,16,171.35,Fiorentina,ITA
+SA,Udinese Calcio,2007/08,49,23.2,24,115.05,Udinese,ITA
+SA,SS Lazio,2007/08,40,26.5,15,110.8,Lazio,ITA
+SA,US Palermo,2007/08,43,24.2,6,104.8,Palermo,ITA
+SA,SSC Napoli,2007/08,30,27.2,9,76.95,Napoli,ITA
+SA,UC Sampdoria,2007/08,41,24.8,8,75.7,Sampdoria,ITA
+SA,Genoa CFC,2007/08,45,25.3,17,63.25,Genoa CFC,ITA
+SA,Torino FC,2007/08,40,25.8,8,60.05,Torino FC,ITA
+SA,Calcio Catania,2007/08,40,27.4,11,58.4,Catania,ITA
+SA,Atalanta BC,2007/08,38,26.0,10,54.8,Atalanta BC,ITA
+SA,Parma FC,2007/08,41,25.9,7,52.5,Parma,ITA
+SA,FC Empoli,2007/08,38,24.7,3,49.5,Empoli,ITA
+SA,AS Livorno,2007/08,36,27.3,10,48.35,AS Livorno,ITA
+SA,Reggina Calcio,2007/08,45,23.7,15,44.23,Reggina,ITA
+SA,AC Siena,2007/08,42,26.4,18,42.8,Siena,ITA
+SA,Cagliari Calcio,2007/08,42,25.0,11,41.2,Cagliari,ITA
+SA,AC Milan,2006/07,43,27.5,16,274.35,Milan,ITA
+SA,Inter Milan,2006/07,58,24.4,31,267.23,Inter Milan,ITA
+SA,AS Roma,2006/07,40,25.2,17,220.65,AS Roma,ITA
+SA,ACF Fiorentina,2006/07,38,24.6,15,159.6,Fiorentina,ITA
+SA,US Palermo,2006/07,51,24.4,8,127.28,Palermo,ITA
+SA,SS Lazio,2006/07,34,27.2,10,105.35,Lazio,ITA
+SA,Udinese Calcio,2006/07,52,22.5,25,104.58,Udinese,ITA
+SA,Chievo Verona,2006/07,54,25.4,9,83.5,Chievo,ITA
+SA,UC Sampdoria,2006/07,42,24.9,9,69.45,Sampdoria,ITA
+SA,AS Livorno,2006/07,34,28.4,11,68.33,AS Livorno,ITA
+SA,Torino FC,2006/07,37,29.4,7,55.55,Torino FC,ITA
+SA,Atalanta BC,2006/07,40,26.0,8,53.48,Atalanta BC,ITA
+SA,Reggina Calcio,2006/07,44,24.5,7,50.1,Reggina,ITA
+SA,Parma FC,2006/07,38,24.6,8,46.9,Parma,ITA
+SA,AC Siena,2006/07,39,26.6,12,46.08,Siena,ITA
+SA,Cagliari Calcio,2006/07,36,25.2,5,45.15,Cagliari,ITA
+SA,FC Empoli,2006/07,36,24.6,2,44.3,Empoli,ITA
+SA,FC Messina Peloro,2006/07,46,27.0,12,40.58,Messina,ITA
+SA,Calcio Catania,2006/07,36,27.7,6,38.6,Catania,ITA
+SA,Ascoli Calcio 1898,2006/07,47,26.4,9,25.8,Ascoli,ITA
+SA,Juventus FC,2005/06,36,27.1,15,308.9,Juventus,ITA
+SA,AC Milan,2005/06,36,27.9,17,269.75,Milan,ITA
+SA,Inter Milan,2005/06,52,25.4,31,234.93,Inter Milan,ITA
+SA,AS Roma,2005/06,42,24.4,12,193.2,AS Roma,ITA
+SA,ACF Fiorentina,2005/06,43,26.4,15,138.68,Fiorentina,ITA
+SA,US Palermo,2005/06,43,25.3,7,94.2,Palermo,ITA
+SA,Udinese Calcio,2005/06,45,24.9,17,89.6,Udinese,ITA
+SA,SS Lazio,2005/06,50,25.8,14,83.05,Lazio,ITA
+SA,UC Sampdoria,2005/06,39,26.0,5,61.5,Sampdoria,ITA
+SA,Parma FC,2005/06,40,24.8,8,57.05,Parma,ITA
+SA,AS Livorno,2005/06,35,27.0,9,56.38,AS Livorno,ITA
+SA,US Lecce,2005/06,42,24.0,13,52.15,Lecce,ITA
+SA,Chievo Verona,2005/06,34,26.3,5,49.55,Chievo,ITA
+SA,Reggina Calcio,2005/06,42,25.1,8,43.65,Reggina,ITA
+SA,FC Messina Peloro,2005/06,42,26.1,11,39.98,Messina,ITA
+SA,FC Empoli,2005/06,31,26.5,3,37.0,Empoli,ITA
+SA,Cagliari Calcio,2005/06,31,25.4,5,35.65,Cagliari,ITA
+SA,AC Siena,2005/06,33,28.1,6,34.98,Siena,ITA
+SA,Ascoli Calcio 1898,2005/06,48,25.8,6,24.55,Ascoli,ITA
+SA,Treviso FBC 1993,2005/06,51,25.5,13,23.53,Treviso,ITA
+SA,Juventus FC,2004/05,39,26.2,14,304.9,Juventus,ITA
+SA,AC Milan,2004/05,37,27.2,17,273.7,Milan,ITA
+SA,Inter Milan,2004/05,50,24.9,25,240.63,Inter Milan,ITA
+SA,AS Roma,2004/05,40,23.6,10,201.6,AS Roma,ITA
+SA,ACF Fiorentina,2004/05,48,25.5,13,111.83,Fiorentina,ITA
+SA,Parma FC,2004/05,44,23.8,8,110.05,Parma,ITA
+SA,Udinese Calcio,2004/05,34,25.6,17,83.95,Udinese,ITA
+SA,US Palermo,2004/05,29,25.5,5,78.75,Palermo,ITA
+SA,SS Lazio,2004/05,45,26.3,12,77.05,Lazio,ITA
+SA,AC Siena,2004/05,40,27.6,9,54.9,Siena,ITA
+SA,UC Sampdoria,2004/05,37,25.8,3,51.0,Sampdoria,ITA
+SA,Chievo Verona,2004/05,42,25.7,7,46.28,Chievo,ITA
+SA,Brescia Calcio,2004/05,32,25.1,11,45.25,Brescia,ITA
+SA,US Lecce,2004/05,33,23.8,13,44.9,Lecce,ITA
+SA,Atalanta BC,2004/05,40,25.4,6,41.7,Atalanta BC,ITA
+SA,FC Messina Peloro,2004/05,45,25.1,10,32.65,Messina,ITA
+SA,Bologna FC 1909,2004/05,40,26.3,6,29.94,Bologna,ITA
+SA,Reggina Calcio,2004/05,35,24.4,8,29.3,Reggina,ITA
+SA,AS Livorno,2004/05,37,26.7,8,25.0,AS Livorno,ITA
+SA,Cagliari Calcio,2004/05,31,26.7,6,23.9,Cagliari,ITA
+SA,AC Parma,2003/04,45,23.9,12,1.2,Parma,ITA
+SA,Inter Milan,2003/04,43,26.3,25,,Inter Milan,ITA
+SA,Juventus FC,2003/04,40,26.1,15,,Juventus,ITA
+SA,AS Roma,2003/04,43,24.0,16,,AS Roma,ITA
+SA,AC Milan,2003/04,38,26.4,15,,Milan,ITA
+SA,UC Sampdoria,2003/04,34,26.8,5,,Sampdoria,ITA
+SA,Udinese Calcio,2003/04,36,25.8,20,,Udinese,ITA
+SA,AC Perugia,2003/04,61,25.4,22,,Perugia,ITA
+SA,SS Lazio,2003/04,36,27.9,11,,Lazio,ITA
+SA,US Lecce,2003/04,39,24.0,14,,Lecce,ITA
+SA,Brescia Calcio,2003/04,42,25.0,13,,Brescia,ITA
+SA,FC Empoli,2003/04,38,24.7,5,,Empoli,ITA
+SA,Bologna FC 1909,2003/04,39,25.7,9,,Bologna,ITA
+SA,Modena FC,2003/04,41,26.4,6,,Modena,ITA
+SA,Reggina Calcio,2003/04,35,24.9,10,,Reggina,ITA
+SA,AC Siena,2003/04,36,27.0,13,,Siena,ITA
+SA,Chievo Verona,2003/04,41,25.3,7,,Chievo,ITA
+SA,Ancona Calcio,2003/04,58,27.5,14,,Ancona,ITA

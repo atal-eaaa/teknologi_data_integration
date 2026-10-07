@@ -1,0 +1,473 @@
+tier;club;season;squad;avg_age;foreigners;total_market_value;club_std_name;country
+LC;Paris Saint-Germain;2026/27;24;25.0;15;1360.0;Paris Saint-Germain;FRA
+LC;AS Monaco;2026/27;26;24.6;19;377.65;AS Monaco;FRA
+LC;RC Strasbourg Alsace;2026/27;29;21.6;26;319.9;RC Strasbourg Alsace;FRA
+LC;Olympique Lyon;2026/27;29;24.9;22;264.45;Olympique Lyon;FRA
+LC;Stade Rennais FC;2026/27;26;25.7;16;253.4;Stade Rennais FC;FRA
+LC;LOSC Lille;2026/27;26;25.5;16;253.3;Lille;FRA
+LC;RC Lens;2026/27;29;26.5;15;243.0;Lens;FRA
+LC;Paris FC;2026/27;25;26.2;14;191.6;Paris FC;FRA
+LC;Olympique Marseille;2026/27;22;27.2;18;188.8;Marseille;FRA
+LC;OGC Nice;2026/27;29;25.7;19;150.25;Nice;FRA
+LC;FC Toulouse;2026/27;24;22.7;16;123.9;Toulouse;FRA
+LC;FC Lorient;2026/27;26;25.4;18;99.05;FC Lorient;FRA
+LC;AJ Auxerre;2026/27;31;23.4;16;96.0;AJ Auxerre;FRA
+LC;Stade Brestois 29;2026/27;23;25.5;8;87.8;Stade Brestois;FRA
+LC;Angers SCO;2026/27;22;25.3;14;65.5;Angers;FRA
+LC;Le Havre AC;2026/27;26;24.8;14;62.25;Le Havre;FRA
+LC;ESTAC Troyes;2026/27;28;25.1;9;43.25;Troyes;FRA
+LC;Le Mans FC;2026/27;29;26.8;11;33.5;Le Mans;FRA
+LC;Paris Saint-Germain;2025/26;37;22.4;19;1380.0;Paris Saint-Germain;FRA
+LC;Olympique Marseille;2025/26;48;25.3;35;484.8;Marseille;FRA
+LC;RC Strasbourg Alsace;2025/26;46;22.0;29;466.08;RC Strasbourg Alsace;FRA
+LC;AS Monaco;2025/26;38;24.5;26;454.68;AS Monaco;FRA
+LC;Olympique Lyon;2025/26;41;24.1;32;354.65;Olympique Lyon;FRA
+LC;Stade Rennais FC;2025/26;41;24.3;22;333.6;Stade Rennais FC;FRA
+LC;LOSC Lille;2025/26;43;24.7;26;294.5;Lille;FRA
+LC;RC Lens;2025/26;37;25.9;14;266.6;Lens;FRA
+LC;OGC Nice;2025/26;49;24.2;31;215.55;Nice;FRA
+LC;FC Toulouse;2025/26;37;23.1;20;198.6;Toulouse;FRA
+LC;Paris FC;2025/26;38;27.8;21;154.2;Paris FC;FRA
+LC;Angers SCO;2025/26;36;24.4;18;137.6;Angers;FRA
+LC;FC Lorient;2025/26;36;24.7;24;128.35;FC Lorient;FRA
+LC;FC Nantes;2025/26;38;26.4;20;122.6;Nantes;FRA
+LC;AJ Auxerre;2025/26;40;24.0;21;122.0;AJ Auxerre;FRA
+LC;Stade Brestois 29;2025/26;32;24.9;11;95.35;Stade Brestois;FRA
+LC;FC Metz;2025/26;40;24.7;29;91.8;FC Metz;FRA
+LC;Le Havre AC;2025/26;40;24.5;19;79.45;Le Havre;FRA
+LC;Paris Saint-Germain;2024/25;34;23.6;22;1140.0;Paris Saint-Germain;FRA
+LC;AS Monaco;2024/25;37;23.6;23;411.15;AS Monaco;FRA
+LC;Olympique Marseille;2024/25;40;24.9;27;358.0;Marseille;FRA
+LC;LOSC Lille;2024/25;40;25.4;23;336.6;Lille;FRA
+LC;Olympique Lyon;2024/25;37;26.0;27;309.85;Olympique Lyon;FRA
+LC;RC Strasbourg Alsace;2024/25;42;22.2;27;307.85;RC Strasbourg Alsace;FRA
+LC;Stade Rennais FC;2024/25;43;25.2;26;294.7;Stade Rennais FC;FRA
+LC;OGC Nice;2024/25;41;24.4;24;227.05;Nice;FRA
+LC;RC Lens;2024/25;43;25.1;23;221.45;Lens;FRA
+LC;Stade Reims;2024/25;40;24.0;32;152.5;Stade de Reims;FRA
+LC;FC Toulouse;2024/25;34;24.4;23;121.6;Toulouse;FRA
+LC;FC Nantes;2024/25;34;26.6;19;114.65;Nantes;FRA
+LC;Stade Brestois 29;2024/25;37;25.6;14;110.65;Stade Brestois;FRA
+LC;AJ Auxerre;2024/25;38;24.7;21;86.9;AJ Auxerre;FRA
+LC;AS Saint-Étienne;2024/25;39;25.3;17;81.6;Saint-Étienne;FRA
+LC;Le Havre AC;2024/25;42;25.1;23;70.55;Le Havre;FRA
+LC;Montpellier HSC;2024/25;40;25.2;23;65.85;Montpellier;FRA
+LC;Angers SCO;2024/25;38;25.8;20;51.65;Angers;FRA
+LC;Paris Saint-Germain;2023/24;36;24.9;21;1020.0;Paris Saint-Germain;FRA
+LC;AS Monaco;2023/24;40;24.0;22;398.55;AS Monaco;FRA
+LC;Stade Rennais FC;2023/24;36;24.8;18;375.35;Stade Rennais FC;FRA
+LC;LOSC Lille;2023/24;41;23.8;25;328.9;Lille;FRA
+LC;Olympique Marseille;2023/24;49;24.4;31;311.4;Marseille;FRA
+LC;Olympique Lyon;2023/24;39;25.5;25;305.95;Olympique Lyon;FRA
+LC;OGC Nice;2023/24;38;24.5;21;268.78;Nice;FRA
+LC;RC Lens;2023/24;38;25.9;17;205.6;Lens;FRA
+LC;RC Strasbourg Alsace;2023/24;39;24.0;22;157.7;RC Strasbourg Alsace;FRA
+LC;Montpellier HSC;2023/24;37;24.8;19;145.58;Montpellier;FRA
+LC;FC Toulouse;2023/24;39;23.3;27;145.2;Toulouse;FRA
+LC;Stade Reims;2023/24;39;23.9;27;134.55;Stade de Reims;FRA
+LC;FC Lorient;2023/24;45;24.7;27;131.85;FC Lorient;FRA
+LC;FC Nantes;2023/24;43;25.2;22;125.9;Nantes;FRA
+LC;Stade Brestois 29;2023/24;31;25.9;10;115.15;Stade Brestois;FRA
+LC;Le Havre AC;2023/24;35;25.2;21;72.5;Le Havre;FRA
+LC;FC Metz;2023/24;37;25.5;27;65.4;FC Metz;FRA
+LC;Clermont Foot 63;2023/24;36;25.2;20;61.35;Clermont;FRA
+LC;Paris Saint-Germain;2022/23;37;25.9;24;891.1;Paris Saint-Germain;FRA
+LC;Stade Rennais FC;2022/23;38;24.3;19;387.75;Stade Rennais FC;FRA
+LC;AS Monaco;2022/23;32;24.3;18;368.3;AS Monaco;FRA
+LC;Olympique Lyon;2022/23;34;25.5;16;350.95;Olympique Lyon;FRA
+LC;Olympique Marseille;2022/23;37;25.6;29;331.55;Marseille;FRA
+LC;OGC Nice;2022/23;41;24.3;28;310.8;Nice;FRA
+LC;LOSC Lille;2022/23;33;25.3;20;247.95;Lille;FRA
+LC;RC Lens;2022/23;39;25.4;23;238.2;Lens;FRA
+LC;FC Lorient;2022/23;42;24.6;17;175.45;FC Lorient;FRA
+LC;Stade Reims;2022/23;40;23.8;29;159.05;Stade de Reims;FRA
+LC;Montpellier HSC;2022/23;39;25.1;18;142.9;Montpellier;FRA
+LC;RC Strasbourg Alsace;2022/23;36;26.0;16;123.55;RC Strasbourg Alsace;FRA
+LC;FC Nantes;2022/23;37;26.0;19;119.28;Nantes;FRA
+LC;FC Toulouse;2022/23;37;24.0;30;104.8;Toulouse;FRA
+LC;Stade Brestois 29;2022/23;32;26.3;14;76.65;Stade Brestois;FRA
+LC;ESTAC Troyes;2022/23;41;24.9;21;76.3;Troyes;FRA
+LC;Angers SCO;2022/23;44;25.1;22;71.8;Angers;FRA
+LC;AJ Auxerre;2022/23;42;26.5;19;54.8;AJ Auxerre;FRA
+LC;Clermont Foot 63;2022/23;33;26.3;21;48.0;Clermont;FRA
+LC;AC Ajaccio;2022/23;41;27.1;25;27.0;Ajaccio;FRA
+LC;Paris Saint-Germain;2021/22;41;26.2;28;875.15;Paris Saint-Germain;FRA
+LC;Olympique Lyon;2021/22;40;24.9;21;397.7;Olympique Lyon;FRA
+LC;AS Monaco;2021/22;41;23.7;24;396.0;AS Monaco;FRA
+LC;LOSC Lille;2021/22;41;24.6;29;306.88;Lille;FRA
+LC;Stade Rennais FC;2021/22;36;23.3;12;305.35;Stade Rennais FC;FRA
+LC;Olympique Marseille;2021/22;38;24.0;22;284.7;Marseille;FRA
+LC;OGC Nice;2021/22;34;24.3;24;266.05;Nice;FRA
+LC;RC Lens;2021/22;35;25.3;20;154.05;Lens;FRA
+LC;Stade Reims;2021/22;40;24.0;30;149.4;Stade de Reims;FRA
+LC;Montpellier HSC;2021/22;36;25.3;17;144.6;Montpellier;FRA
+LC;RC Strasbourg Alsace;2021/22;33;25.4;18;120.05;RC Strasbourg Alsace;FRA
+LC;FC Girondins Bordeaux;2021/22;54;24.5;32;116.85;Bordeaux;FRA
+LC;FC Nantes;2021/22;31;26.1;16;112.65;Nantes;FRA
+LC;AS Saint-Étienne;2021/22;44;24.4;22;105.65;Saint-Étienne;FRA
+LC;Stade Brestois 29;2021/22;30;26.0;10;103.15;Stade Brestois;FRA
+LC;FC Metz;2021/22;41;25.5;28;91.05;FC Metz;FRA
+LC;Angers SCO;2021/22;38;25.8;19;89.5;Angers;FRA
+LC;ESTAC Troyes;2021/22;50;25.1;27;73.2;Troyes;FRA
+LC;FC Lorient;2021/22;35;25.8;15;61.3;FC Lorient;FRA
+LC;Clermont Foot 63;2021/22;39;25.5;23;55.1;Clermont;FRA
+LC;Paris Saint-Germain;2020/21;41;24.7;30;805.0;Paris Saint-Germain;FRA
+LC;Olympique Lyon;2020/21;40;24.7;29;431.35;Olympique Lyon;FRA
+LC;AS Monaco;2020/21;33;24.4;19;370.35;AS Monaco;FRA
+LC;LOSC Lille;2020/21;32;24.1;23;323.2;Lille;FRA
+LC;Stade Rennais FC;2020/21;37;24.6;13;297.5;Stade Rennais FC;FRA
+LC;Olympique Marseille;2020/21;37;25.5;19;247.95;Marseille;FRA
+LC;OGC Nice;2020/21;41;22.8;20;236.1;Nice;FRA
+LC;AS Saint-Étienne;2020/21;43;24.1;19;154.5;Saint-Étienne;FRA
+LC;Montpellier HSC;2020/21;34;25.6;14;113.85;Montpellier;FRA
+LC;Angers SCO;2020/21;38;26.2;19;111.65;Angers;FRA
+LC;RC Strasbourg Alsace;2020/21;34;25.7;19;109.65;RC Strasbourg Alsace;FRA
+LC;FC Girondins Bordeaux;2020/21;36;26.0;19;105.7;Bordeaux;FRA
+LC;Stade Reims;2020/21;34;23.6;27;105.18;Stade de Reims;FRA
+LC;RC Lens;2020/21;36;25.3;19;104.3;Lens;FRA
+LC;FC Metz;2020/21;35;25.0;25;103.5;FC Metz;FRA
+LC;Stade Brestois 29;2020/21;32;25.7;10;103.23;Stade Brestois;FRA
+LC;FC Nantes;2020/21;32;25.9;17;94.75;Nantes;FRA
+LC;FC Lorient;2020/21;34;26.8;15;72.88;FC Lorient;FRA
+LC;Dijon FCO;2020/21;37;24.9;24;65.63;Dijon;FRA
+LC;Nîmes Olympique;2020/21;36;25.3;20;60.4;Nîmes Olympique;FRA
+LC;Paris Saint-Germain;2019/20;35;25.8;25;874.15;Paris Saint-Germain;FRA
+LC;Olympique Lyon;2019/20;33;24.5;22;384.55;Olympique Lyon;FRA
+LC;AS Monaco;2019/20;39;25.7;29;331.03;AS Monaco;FRA
+LC;LOSC Lille;2019/20;31;24.2;22;247.78;Lille;FRA
+LC;Olympique Marseille;2019/20;34;24.8;12;216.15;Marseille;FRA
+LC;OGC Nice;2019/20;37;23.5;19;173.45;Nice;FRA
+LC;Stade Rennais FC;2019/20;33;25.5;16;171.88;Stade Rennais FC;FRA
+LC;FC Girondins Bordeaux;2019/20;31;25.6;19;125.35;Bordeaux;FRA
+LC;FC Nantes;2019/20;35;25.5;21;106.15;Nantes;FRA
+LC;AS Saint-Étienne;2019/20;41;25.2;17;104.83;Saint-Étienne;FRA
+LC;RC Strasbourg Alsace;2019/20;31;26.1;15;91.13;RC Strasbourg Alsace;FRA
+LC;Angers SCO;2019/20;31;26.3;14;89.48;Angers;FRA
+LC;Montpellier HSC;2019/20;30;26.6;15;81.68;Montpellier;FRA
+LC;Stade Reims;2019/20;31;24.2;23;81.68;Stade de Reims;FRA
+LC;FC Toulouse;2019/20;35;24.0;16;71.88;Toulouse;FRA
+LC;Amiens SC;2019/20;37;25.8;20;61.93;Amiens SC;FRA
+LC;FC Metz;2019/20;32;24.8;21;54.1;FC Metz;FRA
+LC;Dijon FCO;2019/20;31;25.9;19;50.23;Dijon;FRA
+LC;Nîmes Olympique;2019/20;35;24.3;13;49.65;Nîmes Olympique;FRA
+LC;Stade Brestois 29;2019/20;28;26.5;9;47.78;Stade Brestois;FRA
+LC;Paris Saint-Germain;2018/19;39;25.4;22;1010.0;Paris Saint-Germain;FRA
+LC;Olympique Lyon;2018/19;34;24.2;19;467.95;Olympique Lyon;FRA
+LC;AS Monaco;2018/19;57;23.9;38;385.83;AS Monaco;FRA
+LC;LOSC Lille;2018/19;32;24.1;25;267.55;Lille;FRA
+LC;Olympique Marseille;2018/19;33;26.7;16;258.35;Marseille;FRA
+LC;OGC Nice;2018/19;38;23.2;17;183.2;Nice;FRA
+LC;FC Girondins Bordeaux;2018/19;43;24.4;23;179.0;Bordeaux;FRA
+LC;Stade Rennais FC;2018/19;41;24.2;18;168.45;Stade Rennais FC;FRA
+LC;AS Saint-Étienne;2018/19;42;24.8;17;131.25;Saint-Étienne;FRA
+LC;FC Nantes;2018/19;40;25.3;28;119.5;Nantes;FRA
+LC;FC Toulouse;2018/19;40;24.6;21;113.25;Toulouse;FRA
+LC;Montpellier HSC;2018/19;32;26.1;18;109.85;Montpellier;FRA
+LC;RC Strasbourg Alsace;2018/19;33;25.7;15;98.0;RC Strasbourg Alsace;FRA
+LC;Nîmes Olympique;2018/19;31;25.5;13;88.15;Nîmes Olympique;FRA
+LC;Stade Reims;2018/19;37;25.0;22;86.95;Stade de Reims;FRA
+LC;Angers SCO;2018/19;38;26.9;20;79.7;Angers;FRA
+LC;EA Guingamp;2018/19;37;25.7;19;70.65;Guingamp;FRA
+LC;Amiens SC;2018/19;36;25.9;19;70.5;Amiens SC;FRA
+LC;SM Caen;2018/19;39;25.3;19;67.55;Caen;FRA
+LC;Dijon FCO;2018/19;32;26.3;18;65.8;Dijon;FRA
+LC;Paris Saint-Germain;2017/18;35;25.5;19;900.1;Paris Saint-Germain;FRA
+LC;AS Monaco;2017/18;38;24.0;27;529.8;AS Monaco;FRA
+LC;Olympique Lyon;2017/18;34;23.6;21;363.8;Olympique Lyon;FRA
+LC;Olympique Marseille;2017/18;29;27.3;13;236.8;Marseille;FRA
+LC;OGC Nice;2017/18;39;24.1;15;204.1;Nice;FRA
+LC;FC Girondins Bordeaux;2017/18;37;24.6;22;155.45;Bordeaux;FRA
+LC;Stade Rennais FC;2017/18;35;24.8;18;131.25;Stade Rennais FC;FRA
+LC;FC Toulouse;2017/18;28;25.0;14;110.45;Toulouse;FRA
+LC;AS Saint-Étienne;2017/18;40;25.3;23;106.88;Saint-Étienne;FRA
+LC;FC Nantes;2017/18;36;25.2;22;105.7;Nantes;FRA
+LC;LOSC Lille;2017/18;32;22.5;20;96.75;Lille;FRA
+LC;Montpellier HSC;2017/18;30;25.8;17;71.85;Montpellier;FRA
+LC;Dijon FCO;2017/18;35;26.1;16;70.3;Dijon;FRA
+LC;Amiens SC;2017/18;34;27.8;19;69.85;Amiens SC;FRA
+LC;Angers SCO;2017/18;33;26.6;18;69.55;Angers;FRA
+LC;SM Caen;2017/18;33;26.3;17;60.1;Caen;FRA
+LC;EA Guingamp;2017/18;30;27.2;14;51.9;Guingamp;FRA
+LC;FC Metz;2017/18;44;25.2;26;51.2;FC Metz;FRA
+LC;RC Strasbourg Alsace;2017/18;31;26.8;15;45.6;RC Strasbourg Alsace;FRA
+LC;ESTAC Troyes;2017/18;30;26.5;17;45.05;Troyes;FRA
+LC;Paris Saint-Germain;2016/17;39;25.0;22;519.0;Paris Saint-Germain;FRA
+LC;AS Monaco;2016/17;47;23.7;31;309.55;AS Monaco;FRA
+LC;Olympique Lyon;2016/17;34;24.1;16;211.35;Olympique Lyon;FRA
+LC;OGC Nice;2016/17;39;24.0;16;132.8;Nice;FRA
+LC;Olympique Marseille;2016/17;33;26.2;13;119.65;Marseille;FRA
+LC;FC Girondins Bordeaux;2016/17;36;25.0;22;88.9;Bordeaux;FRA
+LC;AS Saint-Étienne;2016/17;42;24.5;21;85.03;Saint-Étienne;FRA
+LC;LOSC Lille;2016/17;46;25.1;25;83.9;Lille;FRA
+LC;Stade Rennais FC;2016/17;43;25.5;24;80.9;Stade Rennais FC;FRA
+LC;FC Toulouse;2016/17;38;24.3;20;77.3;Toulouse;FRA
+LC;FC Lorient;2016/17;41;25.5;19;61.1;FC Lorient;FRA
+LC;Montpellier HSC;2016/17;35;26.0;21;60.95;Montpellier;FRA
+LC;FC Nantes;2016/17;30;24.9;19;50.9;Nantes;FRA
+LC;Angers SCO;2016/17;36;26.7;21;46.08;Angers;FRA
+LC;EA Guingamp;2016/17;35;26.7;15;42.5;Guingamp;FRA
+LC;FC Metz;2016/17;39;25.0;24;37.55;FC Metz;FRA
+LC;SM Caen;2016/17;36;26.6;19;36.65;Caen;FRA
+LC;SC Bastia;2016/17;37;25.6;19;36.45;SC Bastia;FRA
+LC;AS Nancy-Lorraine;2016/17;30;26.7;15;33.1;Nancy;FRA
+LC;Dijon FCO;2016/17;33;26.8;12;31.2;Dijon;FRA
+LC;Paris Saint-Germain;2015/16;35;25.4;20;436.3;Paris Saint-Germain;FRA
+LC;AS Monaco;2015/16;39;23.8;26;227.4;AS Monaco;FRA
+LC;Olympique Lyon;2015/16;33;25.5;15;166.3;Olympique Lyon;FRA
+LC;Olympique Marseille;2015/16;38;24.4;23;129.5;Marseille;FRA
+LC;AS Saint-Étienne;2015/16;40;25.6;17;97.2;Saint-Étienne;FRA
+LC;Stade Rennais FC;2015/16;38;25.1;23;94.15;Stade Rennais FC;FRA
+LC;FC Girondins Bordeaux;2015/16;42;23.9;25;90.7;Bordeaux;FRA
+LC;OGC Nice;2015/16;35;23.9;13;70.95;Nice;FRA
+LC;LOSC Lille;2015/16;34;26.0;19;70.8;Lille;FRA
+LC;FC Lorient;2015/16;35;25.2;20;58.05;FC Lorient;FRA
+LC;Montpellier HSC;2015/16;32;26.3;18;44.4;Montpellier;FRA
+LC;Stade Reims;2015/16;35;26.2;19;42.95;Stade de Reims;FRA
+LC;FC Toulouse;2015/16;32;24.6;20;42.9;Toulouse;FRA
+LC;FC Nantes;2015/16;32;25.3;18;39.3;Nantes;FRA
+LC;SM Caen;2015/16;30;26.0;14;36.8;Caen;FRA
+LC;EA Guingamp;2015/16;31;27.4;11;33.5;Guingamp;FRA
+LC;Angers SCO;2015/16;34;27.8;19;32.35;Angers;FRA
+LC;ESTAC Troyes;2015/16;37;26.7;17;30.7;Troyes;FRA
+LC;SC Bastia;2015/16;31;26.3;15;24.25;SC Bastia;FRA
+LC;GFC Ajaccio;2015/16;30;26.2;12;18.4;Ajaccio;FRA
+LC;Paris Saint-Germain;2014/15;32;25.7;17;363.9;Paris Saint-Germain;FRA
+LC;AS Monaco;2014/15;34;24.6;26;187.7;AS Monaco;FRA
+LC;Olympique Lyon;2014/15;31;24.9;14;144.65;Olympique Lyon;FRA
+LC;Olympique Marseille;2014/15;34;23.7;17;139.7;Marseille;FRA
+LC;AS Saint-Étienne;2014/15;31;25.9;12;83.35;Saint-Étienne;FRA
+LC;LOSC Lille;2014/15;31;25.7;18;82.65;Lille;FRA
+LC;FC Girondins Bordeaux;2014/15;39;24.3;24;71.5;Bordeaux;FRA
+LC;Stade Rennais FC;2014/15;30;25.5;21;66.0;Stade Rennais FC;FRA
+LC;FC Lorient;2014/15;39;25.2;20;59.95;FC Lorient;FRA
+LC;OGC Nice;2014/15;37;23.9;14;56.25;Nice;FRA
+LC;Montpellier HSC;2014/15;36;25.6;20;51.95;Montpellier;FRA
+LC;FC Toulouse;2014/15;36;24.3;25;48.8;Toulouse;FRA
+LC;FC Nantes;2014/15;30;25.5;19;46.85;Nantes;FRA
+LC;Stade Reims;2014/15;32;26.2;19;39.25;Stade de Reims;FRA
+LC;EA Guingamp;2014/15;31;27.3;15;36.25;Guingamp;FRA
+LC;FC Évian Thonon Gaillard;2014/15;33;27.4;21;36.15;Evian Thonon Gaillard;FRA
+LC;SC Bastia;2014/15;41;25.1;21;34.25;SC Bastia;FRA
+LC;SM Caen;2014/15;27;27.6;11;32.4;Caen;FRA
+LC;FC Metz;2014/15;32;25.9;22;29.85;FC Metz;FRA
+LC;RC Lens;2014/15;29;24.8;15;27.2;Lens;FRA
+LC;Paris Saint-Germain;2013/14;33;25.4;18;402.3;Paris Saint-Germain;FRA
+LC;AS Monaco;2013/14;45;25.6;32;242.55;AS Monaco;FRA
+LC;Olympique Marseille;2013/14;36;25.4;21;141.3;Marseille;FRA
+LC;Olympique Lyon;2013/14;36;24.7;16;108.5;Olympique Lyon;FRA
+LC;AS Saint-Étienne;2013/14;34;25.8;12;105.4;Saint-Étienne;FRA
+LC;Stade Rennais FC;2013/14;39;24.8;28;92.6;Stade Rennais FC;FRA
+LC;LOSC Lille;2013/14;32;25.8;19;74.1;Lille;FRA
+LC;FC Toulouse;2013/14;40;24.3;24;67.4;Toulouse;FRA
+LC;FC Girondins Bordeaux;2013/14;38;25.9;23;62.7;Bordeaux;FRA
+LC;FC Lorient;2013/14;38;24.7;19;57.15;FC Lorient;FRA
+LC;OGC Nice;2013/14;42;23.5;17;56.1;Nice;FRA
+LC;Montpellier HSC;2013/14;31;25.6;18;52.35;Montpellier;FRA
+LC;FC Sochaux-Montbéliard;2013/14;44;24.8;29;47.45;Sochaux;FRA
+LC;FC Nantes;2013/14;34;25.5;23;39.55;Nantes;FRA
+LC;Stade Reims;2013/14;35;25.5;20;38.73;Stade de Reims;FRA
+LC;Valenciennes FC;2013/14;34;26.0;19;36.65;Valenciennes;FRA
+LC;SC Bastia;2013/14;35;27.0;13;35.6;SC Bastia;FRA
+LC;FC Évian Thonon Gaillard;2013/14;35;26.3;21;35.0;Evian Thonon Gaillard;FRA
+LC;AC Ajaccio;2013/14;38;26.0;21;28.3;Ajaccio;FRA
+LC;EA Guingamp;2013/14;30;27.0;14;21.43;Guingamp;FRA
+LC;Paris Saint-Germain;2012/13;36;27.4;18;313.6;Paris Saint-Germain;FRA
+LC;Olympique Lyon;2012/13;52;24.4;24;155.65;Olympique Lyon;FRA
+LC;Olympique Marseille;2012/13;43;24.5;27;150.65;Marseille;FRA
+LC;LOSC Lille;2012/13;28;26.8;12;114.6;Lille;FRA
+LC;Stade Rennais FC;2012/13;35;24.4;23;97.8;Stade Rennais FC;FRA
+LC;AS Saint-Étienne;2012/13;34;25.2;17;97.6;Saint-Étienne;FRA
+LC;FC Toulouse;2012/13;32;24.2;17;82.0;Toulouse;FRA
+LC;FC Girondins Bordeaux;2012/13;30;26.5;17;80.95;Bordeaux;FRA
+LC;Montpellier HSC;2012/13;36;25.7;17;78.7;Montpellier;FRA
+LC;FC Lorient;2012/13;35;26.2;18;63.75;FC Lorient;FRA
+LC;OGC Nice;2012/13;39;23.9;16;59.15;Nice;FRA
+LC;Valenciennes FC;2012/13;32;26.1;16;49.75;Valenciennes;FRA
+LC;FC Sochaux-Montbéliard;2012/13;34;25.2;24;46.85;Sochaux;FRA
+LC;AS Nancy-Lorraine;2012/13;37;23.6;20;36.85;Nancy;FRA
+LC;Stade Brestois 29;2012/13;37;25.9;20;36.1;Stade Brestois;FRA
+LC;SC Bastia;2012/13;38;26.1;13;36.05;SC Bastia;FRA
+LC;FC Évian Thonon Gaillard;2012/13;35;27.0;19;34.55;Evian Thonon Gaillard;FRA
+LC;AC Ajaccio;2012/13;32;27.8;17;34.1;Ajaccio;FRA
+LC;Stade Reims;2012/13;29;26.3;15;29.5;Stade de Reims;FRA
+LC;ESTAC Troyes;2012/13;31;26.7;13;21.8;Troyes;FRA
+LC;Paris Saint-Germain;2011/12;35;26.9;18;211.1;Paris Saint-Germain;FRA
+LC;Olympique Lyon;2011/12;42;23.8;21;163.85;Olympique Lyon;FRA
+LC;Olympique Marseille;2011/12;35;25.6;20;146.5;Marseille;FRA
+LC;LOSC Lille;2011/12;29;26.9;17;145.35;Lille;FRA
+LC;Stade Rennais FC;2011/12;32;24.2;25;101.8;Stade Rennais FC;FRA
+LC;Montpellier HSC;2011/12;31;26.4;16;86.2;Montpellier;FRA
+LC;AS Saint-Étienne;2011/12;36;25.8;16;85.6;Saint-Étienne;FRA
+LC;FC Toulouse;2011/12;33;23.5;15;83.05;Toulouse;FRA
+LC;FC Girondins Bordeaux;2011/12;30;25.7;17;82.05;Bordeaux;FRA
+LC;FC Sochaux-Montbéliard;2011/12;36;23.8;21;58.8;Sochaux;FRA
+LC;FC Lorient;2011/12;36;25.4;20;54.05;FC Lorient;FRA
+LC;AS Nancy-Lorraine;2011/12;37;25.8;22;53.9;Nancy;FRA
+LC;OGC Nice;2011/12;34;25.5;18;52.45;Nice;FRA
+LC;AJ Auxerre;2011/12;42;24.5;25;50.9;AJ Auxerre;FRA
+LC;Valenciennes FC;2011/12;36;25.0;16;44.5;Valenciennes;FRA
+LC;Stade Brestois 29;2011/12;37;26.6;23;43.2;Stade Brestois;FRA
+LC;Dijon FCO;2011/12;34;25.4;13;36.8;Dijon;FRA
+LC;FC Évian Thonon Gaillard;2011/12;33;27.5;16;32.9;Evian Thonon Gaillard;FRA
+LC;SM Caen;2011/12;28;25.9;10;31.8;Caen;FRA
+LC;AC Ajaccio;2011/12;33;26.7;14;26.55;Ajaccio;FRA
+LC;Olympique Lyon;2010/11;29;24.7;13;190.25;Olympique Lyon;FRA
+LC;Olympique Marseille;2010/11;35;26.4;21;167.9;Marseille;FRA
+LC;LOSC Lille;2010/11;28;25.6;16;127.4;Lille;FRA
+LC;FC Girondins Bordeaux;2010/11;35;25.3;17;123.65;Bordeaux;FRA
+LC;Stade Rennais FC;2010/11;33;24.1;19;108.95;Stade Rennais FC;FRA
+LC;Paris Saint-Germain;2010/11;29;26.9;13;100.2;Paris Saint-Germain;FRA
+LC;FC Toulouse;2010/11;32;24.4;16;80.63;Toulouse;FRA
+LC;AS Monaco;2010/11;38;25.1;24;75.4;AS Monaco;FRA
+LC;AS Saint-Étienne;2010/11;32;25.3;17;72.05;Saint-Étienne;FRA
+LC;AJ Auxerre;2010/11;40;24.7;22;66.15;AJ Auxerre;FRA
+LC;OGC Nice;2010/11;36;25.8;21;63.5;Nice;FRA
+LC;FC Lorient;2010/11;32;25.7;12;62.75;FC Lorient;FRA
+LC;FC Sochaux-Montbéliard;2010/11;30;24.6;15;60.1;Sochaux;FRA
+LC;Valenciennes FC;2010/11;37;25.6;19;57.45;Valenciennes;FRA
+LC;AS Nancy-Lorraine;2010/11;30;26.7;16;52.65;Nancy;FRA
+LC;Montpellier HSC;2010/11;32;25.7;13;51.35;Montpellier;FRA
+LC;RC Lens;2010/11;39;25.1;20;45.6;Lens;FRA
+LC;SM Caen;2010/11;30;25.3;10;36.1;Caen;FRA
+LC;Stade Brestois 29;2010/11;31;26.3;16;34.1;Stade Brestois;FRA
+LC;AC Arles-Avignon;2010/11;37;27.6;16;19.95;Arles-Avignon;FRA
+LC;Olympique Lyon;2009/10;37;24.2;19;208.3;Olympique Lyon;FRA
+LC;Olympique Marseille;2009/10;32;26.5;19;146.7;Marseille;FRA
+LC;FC Girondins Bordeaux;2009/10;29;26.0;13;143.7;Bordeaux;FRA
+LC;LOSC Lille;2009/10;33;24.8;17;104.6;Lille;FRA
+LC;Paris Saint-Germain;2009/10;27;27.1;11;93.6;Paris Saint-Germain;FRA
+LC;FC Toulouse;2009/10;35;24.4;14;89.35;Toulouse;FRA
+LC;Stade Rennais FC;2009/10;31;26.0;17;87.25;Stade Rennais FC;FRA
+LC;AS Monaco;2009/10;37;25.4;28;87.25;AS Monaco;FRA
+LC;AS Saint-Étienne;2009/10;32;25.0;17;76.15;Saint-Étienne;FRA
+LC;AJ Auxerre;2009/10;33;25.0;18;64.25;AJ Auxerre;FRA
+LC;OGC Nice;2009/10;31;25.7;17;60.55;Nice;FRA
+LC;AS Nancy-Lorraine;2009/10;31;26.2;17;59.6;Nancy;FRA
+LC;FC Lorient;2009/10;30;26.9;11;58.15;FC Lorient;FRA
+LC;Valenciennes FC;2009/10;33;26.6;17;54.2;Valenciennes;FRA
+LC;Montpellier HSC;2009/10;33;25.6;13;53.1;Montpellier;FRA
+LC;Le Mans Union Club 72;2009/10;39;24.5;26;48.15;Le Mans;FRA
+LC;FC Sochaux-Montbéliard;2009/10;31;23.9;16;47.45;Sochaux;FRA
+LC;RC Lens;2009/10;32;25.6;19;47.05;Lens;FRA
+LC;Grenoble Foot 38;2009/10;34;26.7;17;34.5;Grenoble;FRA
+LC;US Boulogne;2009/10;33;26.3;11;30.5;Boulogne;FRA
+LC;Olympique Lyon;2008/09;37;24.4;20;211.7;Olympique Lyon;FRA
+LC;Olympique Marseille;2008/09;32;26.2;17;146.9;Marseille;FRA
+LC;FC Girondins Bordeaux;2008/09;26;25.6;13;123.5;Bordeaux;FRA
+LC;Paris Saint-Germain;2008/09;31;25.1;13;93.35;Paris Saint-Germain;FRA
+LC;LOSC Lille;2008/09;33;24.5;14;83.45;Lille;FRA
+LC;AS Saint-Étienne;2008/09;34;24.6;13;80.15;Saint-Étienne;FRA
+LC;Stade Rennais FC;2008/09;38;25.0;17;79.4;Stade Rennais FC;FRA
+LC;AS Monaco;2008/09;38;24.4;27;77.65;AS Monaco;FRA
+LC;FC Toulouse;2008/09;29;24.9;9;70.65;Toulouse;FRA
+LC;AS Nancy-Lorraine;2008/09;28;26.2;15;56.7;Nancy;FRA
+LC;OGC Nice;2008/09;31;26.2;16;56.25;Nice;FRA
+LC;AJ Auxerre;2008/09;29;24.9;17;53.15;AJ Auxerre;FRA
+LC;Le Mans Union Club 72;2008/09;30;24.2;18;52.0;Le Mans;FRA
+LC;FC Sochaux-Montbéliard;2008/09;33;25.6;17;50.9;Sochaux;FRA
+LC;FC Lorient;2008/09;30;26.8;10;49.25;FC Lorient;FRA
+LC;Valenciennes FC;2008/09;26;28.1;14;41.75;Valenciennes;FRA
+LC;SM Caen;2008/09;30;26.7;11;39.75;Caen;FRA
+LC;FC Nantes;2008/09;35;26.1;20;38.1;Nantes;FRA
+LC;Grenoble Foot 38;2008/09;35;27.5;18;34.6;Grenoble;FRA
+LC;Le Havre AC;2008/09;43;24.2;18;31.65;Le Havre;FRA
+LC;Olympique Lyon;2007/08;32;26.2;15;213.35;Olympique Lyon;FRA
+LC;Olympique Marseille;2007/08;36;25.8;20;138.35;Marseille;FRA
+LC;FC Girondins Bordeaux;2007/08;31;24.9;16;100.75;Bordeaux;FRA
+LC;AS Monaco;2007/08;35;25.2;24;89.75;AS Monaco;FRA
+LC;RC Lens;2007/08;35;26.2;20;82.5;Lens;FRA
+LC;AS Saint-Étienne;2007/08;26;25.4;14;80.4;Saint-Étienne;FRA
+LC;LOSC Lille;2007/08;36;24.1;19;74.9;Lille;FRA
+LC;Paris Saint-Germain;2007/08;32;25.1;15;73.45;Paris Saint-Germain;FRA
+LC;Stade Rennais FC;2007/08;36;25.4;13;73.15;Stade Rennais FC;FRA
+LC;Le Mans Union Club 72;2007/08;32;23.9;20;69.85;Le Mans;FRA
+LC;FC Toulouse;2007/08;32;25.2;15;69.5;Toulouse;FRA
+LC;OGC Nice;2007/08;32;26.5;14;68.1;Nice;FRA
+LC;AS Nancy-Lorraine;2007/08;28;26.1;14;67.7;Nancy;FRA
+LC;FC Sochaux-Montbéliard;2007/08;32;25.4;15;56.3;Sochaux;FRA
+LC;AJ Auxerre;2007/08;33;24.7;18;55.0;AJ Auxerre;FRA
+LC;Valenciennes FC;2007/08;25;27.5;12;46.8;Valenciennes;FRA
+LC;RC Strasbourg Alsace;2007/08;36;25.1;16;41.4;RC Strasbourg Alsace;FRA
+LC;FC Lorient;2007/08;31;26.0;13;39.85;FC Lorient;FRA
+LC;SM Caen;2007/08;29;26.4;7;38.75;Caen;FRA
+LC;FC Metz;2007/08;44;24.5;25;30.95;FC Metz;FRA
+LC;Olympique Lyon;2006/07;35;25.7;14;236.45;Olympique Lyon;FRA
+LC;Olympique Marseille;2006/07;35;24.9;16;119.3;Marseille;FRA
+LC;LOSC Lille;2006/07;32;24.7;16;102.15;Lille;FRA
+LC;AS Monaco;2006/07;36;25.6;21;97.8;AS Monaco;FRA
+LC;Paris Saint-Germain;2006/07;33;25.6;15;85.9;Paris Saint-Germain;FRA
+LC;FC Girondins Bordeaux;2006/07;35;24.8;19;85.4;Bordeaux;FRA
+LC;RC Lens;2006/07;31;25.3;20;81.85;Lens;FRA
+LC;AS Saint-Étienne;2006/07;31;25.2;17;81.1;Saint-Étienne;FRA
+LC;Stade Rennais FC;2006/07;33;24.6;19;78.85;Stade Rennais FC;FRA
+LC;AJ Auxerre;2006/07;38;24.2;18;68.75;AJ Auxerre;FRA
+LC;FC Sochaux-Montbéliard;2006/07;32;25.9;17;56.63;Sochaux;FRA
+LC;AS Nancy-Lorraine;2006/07;33;25.9;16;47.35;Nancy;FRA
+LC;FC Toulouse;2006/07;33;24.4;15;46.4;Toulouse;FRA
+LC;Le Mans Union Club 72;2006/07;31;23.7;16;46.0;Le Mans;FRA
+LC;FC Nantes;2006/07;37;24.9;22;41.4;Nantes;FRA
+LC;OGC Nice;2006/07;29;25.9;13;41.0;Nice;FRA
+LC;ESTAC Troyes;2006/07;33;27.2;14;29.55;Troyes;FRA
+LC;CS Sedan-Ardennes;2006/07;31;26.5;12;25.85;Sedan;FRA
+LC;FC Lorient;2006/07;34;26.2;14;24.28;FC Lorient;FRA
+LC;Valenciennes FC;2006/07;27;27.9;9;23.68;Valenciennes;FRA
+LC;Olympique Lyon;2005/06;28;25.4;11;173.23;Olympique Lyon;FRA
+LC;AS Monaco;2005/06;35;25.8;16;114.0;AS Monaco;FRA
+LC;Olympique Marseille;2005/06;48;24.9;26;96.38;Marseille;FRA
+LC;Paris Saint-Germain;2005/06;31;26.0;17;84.98;Paris Saint-Germain;FRA
+LC;Stade Rennais FC;2005/06;34;23.5;21;77.55;Stade Rennais FC;FRA
+LC;LOSC Lille;2005/06;33;24.2;15;76.75;Lille;FRA
+LC;FC Girondins Bordeaux;2005/06;29;25.6;14;68.65;Bordeaux;FRA
+LC;RC Lens;2005/06;30;25.6;17;68.0;Lens;FRA
+LC;AJ Auxerre;2005/06;35;25.1;13;62.75;AJ Auxerre;FRA
+LC;AS Saint-Étienne;2005/06;29;24.3;15;62.3;Saint-Étienne;FRA
+LC;FC Nantes;2005/06;34;24.4;16;51.6;Nantes;FRA
+LC;FC Sochaux-Montbéliard;2005/06;35;24.6;21;51.0;Sochaux;FRA
+LC;FC Toulouse;2005/06;30;24.6;11;46.8;Toulouse;FRA
+LC;RC Strasbourg Alsace;2005/06;35;24.2;17;44.85;RC Strasbourg Alsace;FRA
+LC;OGC Nice;2005/06;29;26.0;13;39.5;Nice;FRA
+LC;Le Mans Union Club 72;2005/06;30;24.5;11;37.5;Le Mans;FRA
+LC;FC Metz;2005/06;42;24.1;27;37.0;FC Metz;FRA
+LC;AS Nancy-Lorraine;2005/06;31;24.5;14;28.4;Nancy;FRA
+LC;ESTAC Troyes;2005/06;33;27.0;12;28.13;Troyes;FRA
+LC;AC Ajaccio;2005/06;33;26.3;13;25.1;Ajaccio;FRA
+LC;Olympique Lyon;2004/05;29;24.5;11;133.9;Olympique Lyon;FRA
+LC;AS Monaco;2004/05;33;24.4;17;103.8;AS Monaco;FRA
+LC;Paris Saint-Germain;2004/05;35;25.5;22;81.75;Paris Saint-Germain;FRA
+LC;Olympique Marseille;2004/05;31;26.0;16;79.6;Marseille;FRA
+LC;Stade Rennais FC;2004/05;32;23.1;16;61.3;Stade Rennais FC;FRA
+LC;LOSC Lille;2004/05;30;24.4;14;56.25;Lille;FRA
+LC;FC Girondins Bordeaux;2004/05;29;24.8;14;52.85;Bordeaux;FRA
+LC;RC Lens;2004/05;31;24.9;17;52.65;Lens;FRA
+LC;FC Sochaux-Montbéliard;2004/05;32;24.9;16;49.65;Sochaux;FRA
+LC;AJ Auxerre;2004/05;37;24.9;12;47.85;AJ Auxerre;FRA
+LC;FC Nantes;2004/05;39;23.7;19;47.35;Nantes;FRA
+LC;AS Saint-Étienne;2004/05;29;24.6;12;37.5;Saint-Étienne;FRA
+LC;FC Toulouse;2004/05;31;24.1;11;37.1;Toulouse;FRA
+LC;FC Metz;2004/05;33;23.6;18;35.7;FC Metz;FRA
+LC;RC Strasbourg Alsace;2004/05;33;24.4;16;35.1;RC Strasbourg Alsace;FRA
+LC;OGC Nice;2004/05;32;26.5;12;34.45;Nice;FRA
+LC;SC Bastia;2004/05;34;24.9;16;31.85;SC Bastia;FRA
+LC;AC Ajaccio;2004/05;29;27.0;16;24.55;Ajaccio;FRA
+LC;SM Caen;2004/05;33;25.1;12;22.7;Caen;FRA
+LC;FC Istres Ouest Provence;2004/05;34;26.6;13;18.5;Istres;FRA
+LC;Olympique Lyon;2003/04;28;26.2;8;;Olympique Lyon;FRA
+LC;AS Monaco;2003/04;33;24.8;15;;AS Monaco;FRA
+LC;Olympique Marseille;2003/04;44;25.0;27;;Marseille;FRA
+LC;FC Girondins Bordeaux;2003/04;33;24.7;18;;Bordeaux;FRA
+LC;FC Sochaux-Montbéliard;2003/04;31;25.1;14;;Sochaux;FRA
+LC;AJ Auxerre;2003/04;35;25.1;10;;AJ Auxerre;FRA
+LC;EA Guingamp;2003/04;34;26.4;14;;Guingamp;FRA
+LC;RC Lens;2003/04;35;24.8;21;;Lens;FRA
+LC;FC Nantes;2003/04;35;23.9;13;;Nantes;FRA
+LC;OGC Nice;2003/04;35;26.1;15;;Nice;FRA
+LC;Paris Saint-Germain;2003/04;33;25.2;20;;Paris Saint-Germain;FRA
+LC;SC Bastia;2003/04;33;25.6;15;;SC Bastia;FRA
+LC;RC Strasbourg Alsace;2003/04;32;25.2;15;;RC Strasbourg Alsace;FRA
+LC;LOSC Lille;2003/04;31;24.8;11;;Lille;FRA
+LC;Stade Rennais FC;2003/04;32;23.7;12;;Stade Rennais FC;FRA
+LC;Montpellier HSC;2003/04;32;23.9;13;;Montpellier;FRA
+LC;AC Ajaccio;2003/04;33;27.8;13;;Ajaccio;FRA
+LC;FC Toulouse;2003/04;31;24.4;11;;Toulouse;FRA
+LC;Le Mans Union Club 72;2003/04;26;26.2;8;;Le Mans;FRA
+LC;FC Metz;2003/04;33;23.9;13;;FC Metz;FRA
