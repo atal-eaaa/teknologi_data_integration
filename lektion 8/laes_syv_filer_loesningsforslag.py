@@ -2,31 +2,31 @@ import pandas as pd
 
 df_list = []
 
-filename = r'C:\Users\akch\OneDrive - EFIF\ØKIT Undervisere - Blåt spor\ØKIT-E25AB\3SEM - Teknologi og dataintegration\E26TDIN-08 Bank rust af Pandas (I)\efl_league.csv'
+filename = r'<Sti til filen - der hvor du har lagt den>'
 df = pd.read_csv(filename, sep=',', encoding='utf-8-sig')
 df_list.append(df)
 
-filename = r'C:\Users\akch\OneDrive - EFIF\ØKIT Undervisere - Blåt spor\ØKIT-E25AB\3SEM - Teknologi og dataintegration\E26TDIN-08 Bank rust af Pandas (I)\la_liga.csv'
+filename = r'<Sti til filen - der hvor du har lagt den>'
 df = pd.read_csv(filename, sep=';', encoding='utf-8-sig')
 df_list.append(df)
 
-filename = r'C:\Users\akch\OneDrive - EFIF\ØKIT Undervisere - Blåt spor\ØKIT-E25AB\3SEM - Teknologi og dataintegration\E26TDIN-08 Bank rust af Pandas (I)\serie_a.csv'
+filename = r'<Sti til filen - der hvor du har lagt den>'
 df = pd.read_csv(filename, sep=',', encoding='utf-8-sig')
 df_list.append(df)
 
-filename = r'C:\Users\akch\OneDrive - EFIF\ØKIT Undervisere - Blåt spor\ØKIT-E25AB\3SEM - Teknologi og dataintegration\E26TDIN-08 Bank rust af Pandas (I)\league_championat.csv'
+filename = r'<Sti til filen - der hvor du har lagt den>'
 df = pd.read_csv(filename, sep=';', encoding='utf-8-sig')
 df_list.append(df)
 
-filename = r'C:\Users\akch\OneDrive - EFIF\ØKIT Undervisere - Blåt spor\ØKIT-E25AB\3SEM - Teknologi og dataintegration\E26TDIN-08 Bank rust af Pandas (I)\bundesliga.xlsx'
+filename = r'<Sti til filen - der hvor du har lagt den>'
 df = pd.read_excel(filename, sheet_name='BL1')
 df_list.append(df)
 
-filename = r'C:\Users\akch\OneDrive - EFIF\ØKIT Undervisere - Blåt spor\ØKIT-E25AB\3SEM - Teknologi og dataintegration\E26TDIN-08 Bank rust af Pandas (I)\bundesliga.xlsx'
+filename = r'<Sti til filen - der hvor du har lagt den>'
 df = pd.read_excel(filename, sheet_name='BL2')
 df_list.append(df)
 
-filename = r'C:\Users\akch\OneDrive - EFIF\ØKIT Undervisere - Blåt spor\ØKIT-E25AB\3SEM - Teknologi og dataintegration\E26TDIN-08 Bank rust af Pandas (I)\premier_league.xlsx'
+filename = r'<Sti til filen - der hvor du har lagt den>'
 df = pd.read_excel(filename, sheet_name='PL')
 df_list.append(df)
 
