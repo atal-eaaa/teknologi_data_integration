@@ -1,4 +1,4 @@
-,entity,code,week,year,acc_hectares_burned,weekly_hectares_burned,owid_region
+idx,entity,code,week,year,acc_hectares_burned,weekly_hectares_burned,owid_region
 0,Afghanistan,AFG,1,2024,539.0,539.0,Asia
 1,Afghanistan,AFG,2,2024,539.0,0.0,Asia
 2,Afghanistan,AFG,3,2024,539.0,0.0,Asia
