@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_excel(r'lektion_10/biografbilletter_2025.xlsx')
+df = pd.read_excel(r'biografbilletter_2025.xlsx')
 
 #%% 
 # inspicer data
