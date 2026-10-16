@@ -6,8 +6,10 @@ name = "pypi"
 [packages]
 requests = "*"
 pandas = "*"
+openpyxl = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.13"
