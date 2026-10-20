@@ -1,0 +1,26 @@
+{
+  "INV1001": {
+    "dato": "2026-01-01",
+    "produkt": "Møtrikker",
+    "antal": 426,
+    "beløb": 852
+  },
+  "INV1002": {
+    "dato": "2026-01-01",
+    "produkt": "Bolte",
+    "antal": 300,
+    "beløb": 1200
+  },
+  "INV1003": {
+    "dato": "2026-01-01",
+    "produkt": "Møtrikker",
+    "antal": 276,
+    "beløb": 552
+  },
+  "INV1004": {
+    "dato": "2026-01-01",
+    "produkt": "Skruer",
+    "antal": 187,
+    "beløb": 654.5
+  }
+}
