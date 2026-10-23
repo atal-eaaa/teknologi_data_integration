@@ -1,0 +1,106 @@
+{
+  "customers": {
+    "1001": {
+      "name": "Andersen Entreprise",
+      "address": "Industrivej 12, 8000 Aarhus C",
+      "email": "kontakt@andersen-entreprise.dk",
+      "phone": "86112233"
+    },
+    "1002": {
+      "name": "Byg & Fix ApS",
+      "address": "Værkstedsvej 7, 8700 Horsens",
+      "email": "info@bygfix.dk",
+      "phone": "75667788"
+    },
+    "1003": {
+      "name": "Hansen Tømrerfirma",
+      "address": "Skovvej 21, 8260 Viby J",
+      "email": "mail@hansentoemrer.dk",
+      "phone": "87445566"
+    },
+    "1004": {
+      "name": "Nordkysten Montage",
+      "address": "Havnevej 3, 9000 Aalborg",
+      "email": "ordre@nordkysten.dk",
+      "phone": "98112244"
+    },
+    "1005": {
+      "name": "Mikkelsen Byg",
+      "address": "Bakkevej 18, 5000 Odense C",
+      "email": "kontakt@mikkelsenbyg.dk",
+      "phone": "66113355"
+    }
+  },
+
+  "orders": {
+    "5001": {
+      "customer_id": "1001",
+      "order_lines": [
+        {
+          "product": "Skruer",
+          "quantity": 200,
+          "amount": 340
+        },
+        {
+          "product": "Møtrikker",
+          "quantity": 150,
+          "amount": 180
+        }
+      ]
+    },
+
+    "5002": {
+      "customer_id": "1003",
+      "order_lines": [
+        {
+          "product": "Bolte",
+          "quantity": 75,
+          "amount": 525
+        },
+        {
+          "product": "Møtrikker",
+          "quantity": 75,
+          "amount": 90
+        }
+      ]
+    },
+
+    "5003": {
+      "customer_id": "1002",
+      "order_lines": [
+        {
+          "product": "Søm",
+          "quantity": 1000,
+          "amount": 650
+        }
+      ]
+    },
+
+    "5004": {
+      "customer_id": "1005",
+      "order_lines": [
+        {
+          "product": "Skruer",
+          "quantity": 500,
+          "amount": 850
+        },
+        {
+          "product": "Bolte",
+          "quantity": 120,
+          "amount": 780
+        }
+      ]
+    },
+
+    "5005": {
+      "customer_id": "1001",
+      "order_lines": [
+        {
+          "product": "Søm",
+          "quantity": 2000,
+          "amount": 1200
+        }
+      ]
+    }
+  }
+}
