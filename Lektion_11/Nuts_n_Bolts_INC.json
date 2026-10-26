@@ -1,0 +1,2216 @@
+{
+  "INV1001": {
+    "dato": "2026-01-01",
+    "produkt": "Møtrikker",
+    "antal": 426,
+    "beløb": 852
+  },
+  "INV1002": {
+    "dato": "2026-01-01",
+    "produkt": "Bolte",
+    "antal": 300,
+    "beløb": 1200
+  },
+  "INV1003": {
+    "dato": "2026-01-01",
+    "produkt": "Møtrikker",
+    "antal": 276,
+    "beløb": 552
+  },
+  "INV1004": {
+    "dato": "2026-01-01",
+    "produkt": "Skruer",
+    "antal": 187,
+    "beløb": 654.5
+  },
+  "INV1005": {
+    "dato": "2026-01-01",
+    "produkt": "Møtrikker",
+    "antal": 320,
+    "beløb": 640
+  },
+  "INV1006": {
+    "dato": "2026-01-02",
+    "produkt": "Møtrikker",
+    "antal": 285,
+    "beløb": 570
+  },
+  "INV1007": {
+    "dato": "2026-01-02",
+    "produkt": "Møtrikker",
+    "antal": 475,
+    "beløb": 950
+  },
+  "INV1008": {
+    "dato": "2026-01-02",
+    "produkt": "Møtrikker",
+    "antal": 544,
+    "beløb": 1088
+  },
+  "INV1009": {
+    "dato": "2026-01-02",
+    "produkt": "Skruer",
+    "antal": 244,
+    "beløb": 854.0
+  },
+  "INV1010": {
+    "dato": "2026-01-03",
+    "produkt": "Bolte",
+    "antal": 689,
+    "beløb": 2756
+  },
+  "INV1011": {
+    "dato": "2026-01-03",
+    "produkt": "Bolte",
+    "antal": 464,
+    "beløb": 1856
+  },
+  "INV1012": {
+    "dato": "2026-01-03",
+    "produkt": "Bolte",
+    "antal": 539,
+    "beløb": 2156
+  },
+  "INV1013": {
+    "dato": "2026-01-03",
+    "produkt": "Søm",
+    "antal": 521,
+    "beløb": 1042
+  },
+  "INV1014": {
+    "dato": "2026-01-03",
+    "produkt": "Møtrikker",
+    "antal": 482,
+    "beløb": 964
+  },
+  "INV1015": {
+    "dato": "2026-01-03",
+    "produkt": "Skruer",
+    "antal": 564,
+    "beløb": 1974.0
+  },
+  "INV1016": {
+    "dato": "2026-01-03",
+    "produkt": "Bolte",
+    "antal": 450,
+    "beløb": 1800
+  },
+  "INV1017": {
+    "dato": "2026-01-03",
+    "produkt": "Søm",
+    "antal": 315,
+    "beløb": 630
+  },
+  "INV1018": {
+    "dato": "2026-01-04",
+    "produkt": "Skruer",
+    "antal": 541,
+    "beløb": 1893.5
+  },
+  "INV1019": {
+    "dato": "2026-01-04",
+    "produkt": "Møtrikker",
+    "antal": 291,
+    "beløb": 582
+  },
+  "INV1020": {
+    "dato": "2026-01-04",
+    "produkt": "Skruer",
+    "antal": 429,
+    "beløb": 1501.5
+  },
+  "INV1021": {
+    "dato": "2026-01-04",
+    "produkt": "Møtrikker",
+    "antal": 375,
+    "beløb": 750
+  },
+  "INV1022": {
+    "dato": "2026-01-04",
+    "produkt": "Møtrikker",
+    "antal": 542,
+    "beløb": 1084
+  },
+  "INV1023": {
+    "dato": "2026-01-06",
+    "produkt": "Møtrikker",
+    "antal": 342,
+    "beløb": 684
+  },
+  "INV1024": {
+    "dato": "2026-01-06",
+    "produkt": "Møtrikker",
+    "antal": 186,
+    "beløb": 372
+  },
+  "INV1025": {
+    "dato": "2026-01-06",
+    "produkt": "Søm",
+    "antal": 574,
+    "beløb": 1148
+  },
+  "INV1026": {
+    "dato": "2026-01-07",
+    "produkt": "Skruer",
+    "antal": 324,
+    "beløb": 1134.0
+  },
+  "INV1027": {
+    "dato": "2026-01-07",
+    "produkt": "Bolte",
+    "antal": 264,
+    "beløb": 1056
+  },
+  "INV1028": {
+    "dato": "2026-01-07",
+    "produkt": "Søm",
+    "antal": 448,
+    "beløb": 896
+  },
+  "INV1029": {
+    "dato": "2026-01-07",
+    "produkt": "Møtrikker",
+    "antal": 355,
+    "beløb": 710
+  },
+  "INV1030": {
+    "dato": "2026-01-07",
+    "produkt": "Møtrikker",
+    "antal": 149,
+    "beløb": 298
+  },
+  "INV1031": {
+    "dato": "2026-01-07",
+    "produkt": "Skruer",
+    "antal": 253,
+    "beløb": 885.5
+  },
+  "INV1032": {
+    "dato": "2026-01-07",
+    "produkt": "Søm",
+    "antal": 146,
+    "beløb": 292
+  },
+  "INV1033": {
+    "dato": "2026-01-08",
+    "produkt": "Møtrikker",
+    "antal": 303,
+    "beløb": 606
+  },
+  "INV1034": {
+    "dato": "2026-01-08",
+    "produkt": "Skruer",
+    "antal": 386,
+    "beløb": 1351.0
+  },
+  "INV1035": {
+    "dato": "2026-01-08",
+    "produkt": "Skruer",
+    "antal": 530,
+    "beløb": 1855.0
+  },
+  "INV1036": {
+    "dato": "2026-01-08",
+    "produkt": "Møtrikker",
+    "antal": 166,
+    "beløb": 332
+  },
+  "INV1037": {
+    "dato": "2026-01-08",
+    "produkt": "Skruer",
+    "antal": 401,
+    "beløb": 1403.5
+  },
+  "INV1038": {
+    "dato": "2026-01-08",
+    "produkt": "Søm",
+    "antal": 126,
+    "beløb": 252
+  },
+  "INV1039": {
+    "dato": "2026-01-08",
+    "produkt": "Skruer",
+    "antal": 441,
+    "beløb": 1543.5
+  },
+  "INV1040": {
+    "dato": "2026-01-08",
+    "produkt": "Skruer",
+    "antal": 405,
+    "beløb": 1417.5
+  },
+  "INV1041": {
+    "dato": "2026-01-08",
+    "produkt": "Søm",
+    "antal": 500,
+    "beløb": 1000
+  },
+  "INV1042": {
+    "dato": "2026-01-08",
+    "produkt": "Bolte",
+    "antal": 449,
+    "beløb": 1796
+  },
+  "INV1043": {
+    "dato": "2026-01-08",
+    "produkt": "Skruer",
+    "antal": 280,
+    "beløb": 980.0
+  },
+  "INV1044": {
+    "dato": "2026-01-09",
+    "produkt": "Møtrikker",
+    "antal": 550,
+    "beløb": 1100
+  },
+  "INV1045": {
+    "dato": "2026-01-09",
+    "produkt": "Søm",
+    "antal": 667,
+    "beløb": 1334
+  },
+  "INV1046": {
+    "dato": "2026-01-09",
+    "produkt": "Bolte",
+    "antal": 525,
+    "beløb": 2100
+  },
+  "INV1047": {
+    "dato": "2026-01-09",
+    "produkt": "Skruer",
+    "antal": 652,
+    "beløb": 2282.0
+  },
+  "INV1048": {
+    "dato": "2026-01-09",
+    "produkt": "Skruer",
+    "antal": 183,
+    "beløb": 640.5
+  },
+  "INV1049": {
+    "dato": "2026-01-09",
+    "produkt": "Skruer",
+    "antal": 395,
+    "beløb": 1382.5
+  },
+  "INV1050": {
+    "dato": "2026-01-09",
+    "produkt": "Skruer",
+    "antal": 474,
+    "beløb": 1659.0
+  },
+  "INV1051": {
+    "dato": "2026-01-09",
+    "produkt": "Bolte",
+    "antal": 268,
+    "beløb": 1072
+  },
+  "INV1052": {
+    "dato": "2026-01-10",
+    "produkt": "Skruer",
+    "antal": 435,
+    "beløb": 1522.5
+  },
+  "INV1053": {
+    "dato": "2026-01-10",
+    "produkt": "Skruer",
+    "antal": 490,
+    "beløb": 1715.0
+  },
+  "INV1054": {
+    "dato": "2026-01-10",
+    "produkt": "Skruer",
+    "antal": 320,
+    "beløb": 1120.0
+  },
+  "INV1055": {
+    "dato": "2026-01-10",
+    "produkt": "Skruer",
+    "antal": 189,
+    "beløb": 661.5
+  },
+  "INV1056": {
+    "dato": "2026-01-10",
+    "produkt": "Skruer",
+    "antal": 694,
+    "beløb": 2429.0
+  },
+  "INV1057": {
+    "dato": "2026-01-10",
+    "produkt": "Møtrikker",
+    "antal": 603,
+    "beløb": 1206
+  },
+  "INV1058": {
+    "dato": "2026-01-10",
+    "produkt": "Bolte",
+    "antal": 460,
+    "beløb": 1840
+  },
+  "INV1059": {
+    "dato": "2026-01-10",
+    "produkt": "Søm",
+    "antal": 217,
+    "beløb": 434
+  },
+  "INV1060": {
+    "dato": "2026-01-10",
+    "produkt": "Skruer",
+    "antal": 413,
+    "beløb": 1445.5
+  },
+  "INV1061": {
+    "dato": "2026-01-11",
+    "produkt": "Møtrikker",
+    "antal": 615,
+    "beløb": 1230
+  },
+  "INV1062": {
+    "dato": "2026-01-11",
+    "produkt": "Møtrikker",
+    "antal": 538,
+    "beløb": 1076
+  },
+  "INV1063": {
+    "dato": "2026-01-11",
+    "produkt": "Skruer",
+    "antal": 257,
+    "beløb": 899.5
+  },
+  "INV1064": {
+    "dato": "2026-01-11",
+    "produkt": "Søm",
+    "antal": 184,
+    "beløb": 368
+  },
+  "INV1065": {
+    "dato": "2026-01-11",
+    "produkt": "Bolte",
+    "antal": 481,
+    "beløb": 1924
+  },
+  "INV1066": {
+    "dato": "2026-01-11",
+    "produkt": "Møtrikker",
+    "antal": 643,
+    "beløb": 1286
+  },
+  "INV1067": {
+    "dato": "2026-01-11",
+    "produkt": "Bolte",
+    "antal": 325,
+    "beløb": 1300
+  },
+  "INV1068": {
+    "dato": "2026-01-13",
+    "produkt": "Skruer",
+    "antal": 152,
+    "beløb": 532.0
+  },
+  "INV1069": {
+    "dato": "2026-01-13",
+    "produkt": "Møtrikker",
+    "antal": 244,
+    "beløb": 488
+  },
+  "INV1070": {
+    "dato": "2026-01-13",
+    "produkt": "Bolte",
+    "antal": 431,
+    "beløb": 1724
+  },
+  "INV1071": {
+    "dato": "2026-01-14",
+    "produkt": "Møtrikker",
+    "antal": 685,
+    "beløb": 1370
+  },
+  "INV1072": {
+    "dato": "2026-01-14",
+    "produkt": "Møtrikker",
+    "antal": 503,
+    "beløb": 1006
+  },
+  "INV1073": {
+    "dato": "2026-01-14",
+    "produkt": "Bolte",
+    "antal": 354,
+    "beløb": 1416
+  },
+  "INV1074": {
+    "dato": "2026-01-14",
+    "produkt": "Bolte",
+    "antal": 638,
+    "beløb": 2552
+  },
+  "INV1075": {
+    "dato": "2026-01-14",
+    "produkt": "Møtrikker",
+    "antal": 309,
+    "beløb": 618
+  },
+  "INV1076": {
+    "dato": "2026-01-14",
+    "produkt": "Søm",
+    "antal": 506,
+    "beløb": 1012
+  },
+  "INV1077": {
+    "dato": "2026-01-14",
+    "produkt": "Skruer",
+    "antal": 430,
+    "beløb": 1505.0
+  },
+  "INV1078": {
+    "dato": "2026-01-15",
+    "produkt": "Skruer",
+    "antal": 402,
+    "beløb": 1407.0
+  },
+  "INV1079": {
+    "dato": "2026-01-15",
+    "produkt": "Bolte",
+    "antal": 366,
+    "beløb": 1464
+  },
+  "INV1080": {
+    "dato": "2026-01-15",
+    "produkt": "Møtrikker",
+    "antal": 557,
+    "beløb": 1114
+  },
+  "INV1081": {
+    "dato": "2026-01-15",
+    "produkt": "Bolte",
+    "antal": 365,
+    "beløb": 1460
+  },
+  "INV1082": {
+    "dato": "2026-01-15",
+    "produkt": "Bolte",
+    "antal": 261,
+    "beløb": 1044
+  },
+  "INV1083": {
+    "dato": "2026-01-15",
+    "produkt": "Bolte",
+    "antal": 543,
+    "beløb": 2172
+  },
+  "INV1084": {
+    "dato": "2026-01-15",
+    "produkt": "Møtrikker",
+    "antal": 561,
+    "beløb": 1122
+  },
+  "INV1085": {
+    "dato": "2026-01-15",
+    "produkt": "Møtrikker",
+    "antal": 225,
+    "beløb": 450
+  },
+  "INV1086": {
+    "dato": "2026-01-15",
+    "produkt": "Søm",
+    "antal": 327,
+    "beløb": 654
+  },
+  "INV1087": {
+    "dato": "2026-01-16",
+    "produkt": "Møtrikker",
+    "antal": 237,
+    "beløb": 474
+  },
+  "INV1088": {
+    "dato": "2026-01-16",
+    "produkt": "Skruer",
+    "antal": 499,
+    "beløb": 1746.5
+  },
+  "INV1089": {
+    "dato": "2026-01-16",
+    "produkt": "Søm",
+    "antal": 517,
+    "beløb": 1034
+  },
+  "INV1090": {
+    "dato": "2026-01-16",
+    "produkt": "Søm",
+    "antal": 288,
+    "beløb": 576
+  },
+  "INV1091": {
+    "dato": "2026-01-16",
+    "produkt": "Skruer",
+    "antal": 447,
+    "beløb": 1564.5
+  },
+  "INV1092": {
+    "dato": "2026-01-16",
+    "produkt": "Skruer",
+    "antal": 436,
+    "beløb": 1526.0
+  },
+  "INV1093": {
+    "dato": "2026-01-16",
+    "produkt": "Bolte",
+    "antal": 165,
+    "beløb": 660
+  },
+  "INV1094": {
+    "dato": "2026-01-16",
+    "produkt": "Søm",
+    "antal": 654,
+    "beløb": 1308
+  },
+  "INV1095": {
+    "dato": "2026-01-16",
+    "produkt": "Skruer",
+    "antal": 498,
+    "beløb": 1743.0
+  },
+  "INV1096": {
+    "dato": "2026-01-16",
+    "produkt": "Bolte",
+    "antal": 654,
+    "beløb": 2616
+  },
+  "INV1097": {
+    "dato": "2026-01-17",
+    "produkt": "Skruer",
+    "antal": 252,
+    "beløb": 882.0
+  },
+  "INV1098": {
+    "dato": "2026-01-17",
+    "produkt": "Skruer",
+    "antal": 396,
+    "beløb": 1386.0
+  },
+  "INV1099": {
+    "dato": "2026-01-17",
+    "produkt": "Møtrikker",
+    "antal": 263,
+    "beløb": 526
+  },
+  "INV1100": {
+    "dato": "2026-01-17",
+    "produkt": "Skruer",
+    "antal": 354,
+    "beløb": 1239.0
+  },
+  "INV1101": {
+    "dato": "2026-01-17",
+    "produkt": "Møtrikker",
+    "antal": 635,
+    "beløb": 1270
+  },
+  "INV1102": {
+    "dato": "2026-01-18",
+    "produkt": "Søm",
+    "antal": 223,
+    "beløb": 446
+  },
+  "INV1103": {
+    "dato": "2026-01-18",
+    "produkt": "Bolte",
+    "antal": 129,
+    "beløb": 516
+  },
+  "INV1104": {
+    "dato": "2026-01-18",
+    "produkt": "Søm",
+    "antal": 652,
+    "beløb": 1304
+  },
+  "INV1105": {
+    "dato": "2026-01-18",
+    "produkt": "Søm",
+    "antal": 336,
+    "beløb": 672
+  },
+  "INV1106": {
+    "dato": "2026-01-18",
+    "produkt": "Bolte",
+    "antal": 437,
+    "beløb": 1748
+  },
+  "INV1107": {
+    "dato": "2026-01-18",
+    "produkt": "Møtrikker",
+    "antal": 148,
+    "beløb": 296
+  },
+  "INV1108": {
+    "dato": "2026-01-20",
+    "produkt": "Søm",
+    "antal": 601,
+    "beløb": 1202
+  },
+  "INV1109": {
+    "dato": "2026-01-20",
+    "produkt": "Søm",
+    "antal": 643,
+    "beløb": 1286
+  },
+  "INV1110": {
+    "dato": "2026-01-20",
+    "produkt": "Møtrikker",
+    "antal": 573,
+    "beløb": 1146
+  },
+  "INV1111": {
+    "dato": "2026-01-20",
+    "produkt": "Møtrikker",
+    "antal": 651,
+    "beløb": 1302
+  },
+  "INV1112": {
+    "dato": "2026-01-20",
+    "produkt": "Skruer",
+    "antal": 190,
+    "beløb": 665.0
+  },
+  "INV1113": {
+    "dato": "2026-01-20",
+    "produkt": "Møtrikker",
+    "antal": 487,
+    "beløb": 974
+  },
+  "INV1114": {
+    "dato": "2026-01-20",
+    "produkt": "Møtrikker",
+    "antal": 355,
+    "beløb": 710
+  },
+  "INV1115": {
+    "dato": "2026-01-20",
+    "produkt": "Møtrikker",
+    "antal": 621,
+    "beløb": 1242
+  },
+  "INV1116": {
+    "dato": "2026-01-20",
+    "produkt": "Møtrikker",
+    "antal": 452,
+    "beløb": 904
+  },
+  "INV1117": {
+    "dato": "2026-01-21",
+    "produkt": "Bolte",
+    "antal": 247,
+    "beløb": 988
+  },
+  "INV1118": {
+    "dato": "2026-01-21",
+    "produkt": "Skruer",
+    "antal": 156,
+    "beløb": 546.0
+  },
+  "INV1119": {
+    "dato": "2026-01-21",
+    "produkt": "Skruer",
+    "antal": 182,
+    "beløb": 637.0
+  },
+  "INV1120": {
+    "dato": "2026-01-21",
+    "produkt": "Søm",
+    "antal": 525,
+    "beløb": 1050
+  },
+  "INV1121": {
+    "dato": "2026-01-21",
+    "produkt": "Bolte",
+    "antal": 326,
+    "beløb": 1304
+  },
+  "INV1122": {
+    "dato": "2026-01-21",
+    "produkt": "Søm",
+    "antal": 259,
+    "beløb": 518
+  },
+  "INV1123": {
+    "dato": "2026-01-21",
+    "produkt": "Møtrikker",
+    "antal": 532,
+    "beløb": 1064
+  },
+  "INV1124": {
+    "dato": "2026-01-21",
+    "produkt": "Bolte",
+    "antal": 606,
+    "beløb": 2424
+  },
+  "INV1125": {
+    "dato": "2026-01-21",
+    "produkt": "Skruer",
+    "antal": 498,
+    "beløb": 1743.0
+  },
+  "INV1126": {
+    "dato": "2026-01-21",
+    "produkt": "Søm",
+    "antal": 330,
+    "beløb": 660
+  },
+  "INV1127": {
+    "dato": "2026-01-21",
+    "produkt": "Skruer",
+    "antal": 567,
+    "beløb": 1984.5
+  },
+  "INV1128": {
+    "dato": "2026-01-21",
+    "produkt": "Bolte",
+    "antal": 596,
+    "beløb": 2384
+  },
+  "INV1129": {
+    "dato": "2026-01-22",
+    "produkt": "Søm",
+    "antal": 696,
+    "beløb": 1392
+  },
+  "INV1130": {
+    "dato": "2026-01-22",
+    "produkt": "Skruer",
+    "antal": 585,
+    "beløb": 2047.5
+  },
+  "INV1131": {
+    "dato": "2026-01-22",
+    "produkt": "Møtrikker",
+    "antal": 345,
+    "beløb": 690
+  },
+  "INV1132": {
+    "dato": "2026-01-22",
+    "produkt": "Skruer",
+    "antal": 112,
+    "beløb": 392.0
+  },
+  "INV1133": {
+    "dato": "2026-01-22",
+    "produkt": "Møtrikker",
+    "antal": 599,
+    "beløb": 1198
+  },
+  "INV1134": {
+    "dato": "2026-01-22",
+    "produkt": "Møtrikker",
+    "antal": 142,
+    "beløb": 284
+  },
+  "INV1135": {
+    "dato": "2026-01-22",
+    "produkt": "Søm",
+    "antal": 324,
+    "beløb": 648
+  },
+  "INV1136": {
+    "dato": "2026-01-22",
+    "produkt": "Bolte",
+    "antal": 572,
+    "beløb": 2288
+  },
+  "INV1137": {
+    "dato": "2026-01-22",
+    "produkt": "Bolte",
+    "antal": 670,
+    "beløb": 2680
+  },
+  "INV1138": {
+    "dato": "2026-01-22",
+    "produkt": "Møtrikker",
+    "antal": 546,
+    "beløb": 1092
+  },
+  "INV1139": {
+    "dato": "2026-01-23",
+    "produkt": "Møtrikker",
+    "antal": 347,
+    "beløb": 694
+  },
+  "INV1140": {
+    "dato": "2026-01-23",
+    "produkt": "Søm",
+    "antal": 470,
+    "beløb": 940
+  },
+  "INV1141": {
+    "dato": "2026-01-23",
+    "produkt": "Møtrikker",
+    "antal": 610,
+    "beløb": 1220
+  },
+  "INV1142": {
+    "dato": "2026-01-23",
+    "produkt": "Søm",
+    "antal": 101,
+    "beløb": 202
+  },
+  "INV1143": {
+    "dato": "2026-01-23",
+    "produkt": "Bolte",
+    "antal": 278,
+    "beløb": 1112
+  },
+  "INV1144": {
+    "dato": "2026-01-23",
+    "produkt": "Skruer",
+    "antal": 424,
+    "beløb": 1484.0
+  },
+  "INV1145": {
+    "dato": "2026-01-24",
+    "produkt": "Bolte",
+    "antal": 689,
+    "beløb": 2756
+  },
+  "INV1146": {
+    "dato": "2026-01-24",
+    "produkt": "Møtrikker",
+    "antal": 247,
+    "beløb": 494
+  },
+  "INV1147": {
+    "dato": "2026-01-24",
+    "produkt": "Møtrikker",
+    "antal": 623,
+    "beløb": 1246
+  },
+  "INV1148": {
+    "dato": "2026-01-25",
+    "produkt": "Skruer",
+    "antal": 443,
+    "beløb": 1550.5
+  },
+  "INV1149": {
+    "dato": "2026-01-25",
+    "produkt": "Søm",
+    "antal": 596,
+    "beløb": 1192
+  },
+  "INV1150": {
+    "dato": "2026-01-25",
+    "produkt": "Skruer",
+    "antal": 149,
+    "beløb": 521.5
+  },
+  "INV1151": {
+    "dato": "2026-01-25",
+    "produkt": "Bolte",
+    "antal": 685,
+    "beløb": 2740
+  },
+  "INV1152": {
+    "dato": "2026-01-25",
+    "produkt": "Møtrikker",
+    "antal": 121,
+    "beløb": 242
+  },
+  "INV1153": {
+    "dato": "2026-01-25",
+    "produkt": "Søm",
+    "antal": 311,
+    "beløb": 622
+  },
+  "INV1154": {
+    "dato": "2026-01-25",
+    "produkt": "Skruer",
+    "antal": 554,
+    "beløb": 1939.0
+  },
+  "INV1155": {
+    "dato": "2026-01-27",
+    "produkt": "Søm",
+    "antal": 577,
+    "beløb": 1154
+  },
+  "INV1156": {
+    "dato": "2026-01-27",
+    "produkt": "Møtrikker",
+    "antal": 665,
+    "beløb": 1330
+  },
+  "INV1157": {
+    "dato": "2026-01-27",
+    "produkt": "Møtrikker",
+    "antal": 343,
+    "beløb": 686
+  },
+  "INV1158": {
+    "dato": "2026-01-27",
+    "produkt": "Møtrikker",
+    "antal": 363,
+    "beløb": 726
+  },
+  "INV1159": {
+    "dato": "2026-01-27",
+    "produkt": "Skruer",
+    "antal": 433,
+    "beløb": 1515.5
+  },
+  "INV1160": {
+    "dato": "2026-01-27",
+    "produkt": "Skruer",
+    "antal": 591,
+    "beløb": 2068.5
+  },
+  "INV1161": {
+    "dato": "2026-01-28",
+    "produkt": "Møtrikker",
+    "antal": 295,
+    "beløb": 590
+  },
+  "INV1162": {
+    "dato": "2026-01-28",
+    "produkt": "Møtrikker",
+    "antal": 441,
+    "beløb": 882
+  },
+  "INV1163": {
+    "dato": "2026-01-28",
+    "produkt": "Søm",
+    "antal": 155,
+    "beløb": 310
+  },
+  "INV1164": {
+    "dato": "2026-01-28",
+    "produkt": "Møtrikker",
+    "antal": 240,
+    "beløb": 480
+  },
+  "INV1165": {
+    "dato": "2026-01-28",
+    "produkt": "Bolte",
+    "antal": 495,
+    "beløb": 1980
+  },
+  "INV1166": {
+    "dato": "2026-01-28",
+    "produkt": "Skruer",
+    "antal": 472,
+    "beløb": 1652.0
+  },
+  "INV1167": {
+    "dato": "2026-01-28",
+    "produkt": "Søm",
+    "antal": 583,
+    "beløb": 1166
+  },
+  "INV1168": {
+    "dato": "2026-01-28",
+    "produkt": "Bolte",
+    "antal": 353,
+    "beløb": 1412
+  },
+  "INV1169": {
+    "dato": "2026-01-29",
+    "produkt": "Søm",
+    "antal": 435,
+    "beløb": 870
+  },
+  "INV1170": {
+    "dato": "2026-01-29",
+    "produkt": "Skruer",
+    "antal": 293,
+    "beløb": 1025.5
+  },
+  "INV1171": {
+    "dato": "2026-01-29",
+    "produkt": "Bolte",
+    "antal": 542,
+    "beløb": 2168
+  },
+  "INV1172": {
+    "dato": "2026-01-30",
+    "produkt": "Møtrikker",
+    "antal": 605,
+    "beløb": 1210
+  },
+  "INV1173": {
+    "dato": "2026-01-30",
+    "produkt": "Skruer",
+    "antal": 174,
+    "beløb": 609.0
+  },
+  "INV1174": {
+    "dato": "2026-01-30",
+    "produkt": "Møtrikker",
+    "antal": 398,
+    "beløb": 796
+  },
+  "INV1175": {
+    "dato": "2026-01-30",
+    "produkt": "Søm",
+    "antal": 199,
+    "beløb": 398
+  },
+  "INV1176": {
+    "dato": "2026-01-30",
+    "produkt": "Møtrikker",
+    "antal": 395,
+    "beløb": 790
+  },
+  "INV1177": {
+    "dato": "2026-01-31",
+    "produkt": "Skruer",
+    "antal": 204,
+    "beløb": 714.0
+  },
+  "INV1178": {
+    "dato": "2026-01-31",
+    "produkt": "Møtrikker",
+    "antal": 107,
+    "beløb": 214
+  },
+  "INV1179": {
+    "dato": "2026-01-31",
+    "produkt": "Skruer",
+    "antal": 405,
+    "beløb": 1417.5
+  },
+  "INV1180": {
+    "dato": "2026-01-31",
+    "produkt": "Møtrikker",
+    "antal": 513,
+    "beløb": 1026
+  },
+  "INV1181": {
+    "dato": "2026-01-31",
+    "produkt": "Bolte",
+    "antal": 408,
+    "beløb": 1632
+  },
+  "INV1182": {
+    "dato": "2026-01-31",
+    "produkt": "Skruer",
+    "antal": 549,
+    "beløb": 1921.5
+  },
+  "INV1183": {
+    "dato": "2026-01-31",
+    "produkt": "Bolte",
+    "antal": 172,
+    "beløb": 688
+  },
+  "INV1184": {
+    "dato": "2026-01-31",
+    "produkt": "Bolte",
+    "antal": 116,
+    "beløb": 464
+  },
+  "INV1185": {
+    "dato": "2026-01-31",
+    "produkt": "Skruer",
+    "antal": 114,
+    "beløb": 399.0
+  },
+  "INV1186": {
+    "dato": "2026-01-31",
+    "produkt": "Skruer",
+    "antal": 474,
+    "beløb": 1659.0
+  },
+  "INV1187": {
+    "dato": "2026-01-31",
+    "produkt": "Skruer",
+    "antal": 477,
+    "beløb": 1669.5
+  },
+  "INV1188": {
+    "dato": "2026-02-01",
+    "produkt": "Bolte",
+    "antal": 652,
+    "beløb": 2608
+  },
+  "INV1189": {
+    "dato": "2026-02-01",
+    "produkt": "Skruer",
+    "antal": 500,
+    "beløb": 1750.0
+  },
+  "INV1190": {
+    "dato": "2026-02-01",
+    "produkt": "Søm",
+    "antal": 682,
+    "beløb": 1364
+  },
+  "INV1191": {
+    "dato": "2026-02-01",
+    "produkt": "Bolte",
+    "antal": 437,
+    "beløb": 1748
+  },
+  "INV1192": {
+    "dato": "2026-02-01",
+    "produkt": "Søm",
+    "antal": 308,
+    "beløb": 616
+  },
+  "INV1193": {
+    "dato": "2026-02-01",
+    "produkt": "Skruer",
+    "antal": 695,
+    "beløb": 2432.5
+  },
+  "INV1194": {
+    "dato": "2026-02-01",
+    "produkt": "Søm",
+    "antal": 274,
+    "beløb": 548
+  },
+  "INV1195": {
+    "dato": "2026-02-01",
+    "produkt": "Skruer",
+    "antal": 239,
+    "beløb": 836.5
+  },
+  "INV1196": {
+    "dato": "2026-02-01",
+    "produkt": "Møtrikker",
+    "antal": 522,
+    "beløb": 1044
+  },
+  "INV1197": {
+    "dato": "2026-02-01",
+    "produkt": "Skruer",
+    "antal": 209,
+    "beløb": 731.5
+  },
+  "INV1198": {
+    "dato": "2026-02-01",
+    "produkt": "Møtrikker",
+    "antal": 183,
+    "beløb": 366
+  },
+  "INV1199": {
+    "dato": "2026-02-01",
+    "produkt": "Søm",
+    "antal": 296,
+    "beløb": 592
+  },
+  "INV1200": {
+    "dato": "2026-02-03",
+    "produkt": "Bolte",
+    "antal": 331,
+    "beløb": 1324
+  },
+  "INV1201": {
+    "dato": "2026-02-03",
+    "produkt": "Bolte",
+    "antal": 404,
+    "beløb": 1616
+  },
+  "INV1202": {
+    "dato": "2026-02-03",
+    "produkt": "Skruer",
+    "antal": 540,
+    "beløb": 1890.0
+  },
+  "INV1203": {
+    "dato": "2026-02-03",
+    "produkt": "Skruer",
+    "antal": 255,
+    "beløb": 892.5
+  },
+  "INV1204": {
+    "dato": "2026-02-04",
+    "produkt": "Møtrikker",
+    "antal": 658,
+    "beløb": 1316
+  },
+  "INV1205": {
+    "dato": "2026-02-04",
+    "produkt": "Søm",
+    "antal": 367,
+    "beløb": 734
+  },
+  "INV1206": {
+    "dato": "2026-02-04",
+    "produkt": "Bolte",
+    "antal": 330,
+    "beløb": 1320
+  },
+  "INV1207": {
+    "dato": "2026-02-04",
+    "produkt": "Bolte",
+    "antal": 552,
+    "beløb": 2208
+  },
+  "INV1208": {
+    "dato": "2026-02-04",
+    "produkt": "Søm",
+    "antal": 366,
+    "beløb": 732
+  },
+  "INV1209": {
+    "dato": "2026-02-04",
+    "produkt": "Møtrikker",
+    "antal": 369,
+    "beløb": 738
+  },
+  "INV1210": {
+    "dato": "2026-02-04",
+    "produkt": "Søm",
+    "antal": 154,
+    "beløb": 308
+  },
+  "INV1211": {
+    "dato": "2026-02-04",
+    "produkt": "Skruer",
+    "antal": 517,
+    "beløb": 1809.5
+  },
+  "INV1212": {
+    "dato": "2026-02-04",
+    "produkt": "Skruer",
+    "antal": 665,
+    "beløb": 2327.5
+  },
+  "INV1213": {
+    "dato": "2026-02-05",
+    "produkt": "Bolte",
+    "antal": 526,
+    "beløb": 2104
+  },
+  "INV1214": {
+    "dato": "2026-02-05",
+    "produkt": "Søm",
+    "antal": 525,
+    "beløb": 1050
+  },
+  "INV1215": {
+    "dato": "2026-02-05",
+    "produkt": "Skruer",
+    "antal": 457,
+    "beløb": 1599.5
+  },
+  "INV1216": {
+    "dato": "2026-02-05",
+    "produkt": "Søm",
+    "antal": 552,
+    "beløb": 1104
+  },
+  "INV1217": {
+    "dato": "2026-02-05",
+    "produkt": "Skruer",
+    "antal": 624,
+    "beløb": 2184.0
+  },
+  "INV1218": {
+    "dato": "2026-02-05",
+    "produkt": "Søm",
+    "antal": 297,
+    "beløb": 594
+  },
+  "INV1219": {
+    "dato": "2026-02-06",
+    "produkt": "Bolte",
+    "antal": 410,
+    "beløb": 1640
+  },
+  "INV1220": {
+    "dato": "2026-02-06",
+    "produkt": "Skruer",
+    "antal": 224,
+    "beløb": 784.0
+  },
+  "INV1221": {
+    "dato": "2026-02-06",
+    "produkt": "Møtrikker",
+    "antal": 239,
+    "beløb": 478
+  },
+  "INV1222": {
+    "dato": "2026-02-07",
+    "produkt": "Søm",
+    "antal": 347,
+    "beløb": 694
+  },
+  "INV1223": {
+    "dato": "2026-02-07",
+    "produkt": "Møtrikker",
+    "antal": 106,
+    "beløb": 212
+  },
+  "INV1224": {
+    "dato": "2026-02-07",
+    "produkt": "Søm",
+    "antal": 348,
+    "beløb": 696
+  },
+  "INV1225": {
+    "dato": "2026-02-07",
+    "produkt": "Søm",
+    "antal": 275,
+    "beløb": 550
+  },
+  "INV1226": {
+    "dato": "2026-02-07",
+    "produkt": "Møtrikker",
+    "antal": 423,
+    "beløb": 846
+  },
+  "INV1227": {
+    "dato": "2026-02-07",
+    "produkt": "Skruer",
+    "antal": 268,
+    "beløb": 938.0
+  },
+  "INV1228": {
+    "dato": "2026-02-07",
+    "produkt": "Møtrikker",
+    "antal": 358,
+    "beløb": 716
+  },
+  "INV1229": {
+    "dato": "2026-02-07",
+    "produkt": "Søm",
+    "antal": 471,
+    "beløb": 942
+  },
+  "INV1230": {
+    "dato": "2026-02-07",
+    "produkt": "Møtrikker",
+    "antal": 577,
+    "beløb": 1154
+  },
+  "INV1231": {
+    "dato": "2026-02-07",
+    "produkt": "Søm",
+    "antal": 239,
+    "beløb": 478
+  },
+  "INV1232": {
+    "dato": "2026-02-07",
+    "produkt": "Møtrikker",
+    "antal": 244,
+    "beløb": 488
+  },
+  "INV1233": {
+    "dato": "2026-02-07",
+    "produkt": "Søm",
+    "antal": 267,
+    "beløb": 534
+  },
+  "INV1234": {
+    "dato": "2026-02-08",
+    "produkt": "Skruer",
+    "antal": 657,
+    "beløb": 2299.5
+  },
+  "INV1235": {
+    "dato": "2026-02-08",
+    "produkt": "Møtrikker",
+    "antal": 568,
+    "beløb": 1136
+  },
+  "INV1236": {
+    "dato": "2026-02-08",
+    "produkt": "Skruer",
+    "antal": 598,
+    "beløb": 2093.0
+  },
+  "INV1237": {
+    "dato": "2026-02-08",
+    "produkt": "Søm",
+    "antal": 606,
+    "beløb": 1212
+  },
+  "INV1238": {
+    "dato": "2026-02-08",
+    "produkt": "Bolte",
+    "antal": 118,
+    "beløb": 472
+  },
+  "INV1239": {
+    "dato": "2026-02-08",
+    "produkt": "Skruer",
+    "antal": 502,
+    "beløb": 1757.0
+  },
+  "INV1240": {
+    "dato": "2026-02-08",
+    "produkt": "Skruer",
+    "antal": 414,
+    "beløb": 1449.0
+  },
+  "INV1241": {
+    "dato": "2026-02-08",
+    "produkt": "Bolte",
+    "antal": 433,
+    "beløb": 1732
+  },
+  "INV1242": {
+    "dato": "2026-02-08",
+    "produkt": "Møtrikker",
+    "antal": 265,
+    "beløb": 530
+  },
+  "INV1243": {
+    "dato": "2026-02-10",
+    "produkt": "Bolte",
+    "antal": 336,
+    "beløb": 1344
+  },
+  "INV1244": {
+    "dato": "2026-02-10",
+    "produkt": "Søm",
+    "antal": 113,
+    "beløb": 226
+  },
+  "INV1245": {
+    "dato": "2026-02-10",
+    "produkt": "Møtrikker",
+    "antal": 561,
+    "beløb": 1122
+  },
+  "INV1246": {
+    "dato": "2026-02-11",
+    "produkt": "Skruer",
+    "antal": 389,
+    "beløb": 1361.5
+  },
+  "INV1247": {
+    "dato": "2026-02-11",
+    "produkt": "Bolte",
+    "antal": 237,
+    "beløb": 948
+  },
+  "INV1248": {
+    "dato": "2026-02-11",
+    "produkt": "Møtrikker",
+    "antal": 597,
+    "beløb": 1194
+  },
+  "INV1249": {
+    "dato": "2026-02-11",
+    "produkt": "Bolte",
+    "antal": 309,
+    "beløb": 1236
+  },
+  "INV1250": {
+    "dato": "2026-02-11",
+    "produkt": "Møtrikker",
+    "antal": 540,
+    "beløb": 1080
+  },
+  "INV1251": {
+    "dato": "2026-02-11",
+    "produkt": "Møtrikker",
+    "antal": 434,
+    "beløb": 868
+  },
+  "INV1252": {
+    "dato": "2026-02-11",
+    "produkt": "Møtrikker",
+    "antal": 454,
+    "beløb": 908
+  },
+  "INV1253": {
+    "dato": "2026-02-11",
+    "produkt": "Skruer",
+    "antal": 368,
+    "beløb": 1288.0
+  },
+  "INV1254": {
+    "dato": "2026-02-12",
+    "produkt": "Bolte",
+    "antal": 662,
+    "beløb": 2648
+  },
+  "INV1255": {
+    "dato": "2026-02-12",
+    "produkt": "Søm",
+    "antal": 601,
+    "beløb": 1202
+  },
+  "INV1256": {
+    "dato": "2026-02-12",
+    "produkt": "Bolte",
+    "antal": 416,
+    "beløb": 1664
+  },
+  "INV1257": {
+    "dato": "2026-02-12",
+    "produkt": "Søm",
+    "antal": 161,
+    "beløb": 322
+  },
+  "INV1258": {
+    "dato": "2026-02-12",
+    "produkt": "Skruer",
+    "antal": 201,
+    "beløb": 703.5
+  },
+  "INV1259": {
+    "dato": "2026-02-12",
+    "produkt": "Søm",
+    "antal": 406,
+    "beløb": 812
+  },
+  "INV1260": {
+    "dato": "2026-02-12",
+    "produkt": "Søm",
+    "antal": 464,
+    "beløb": 928
+  },
+  "INV1261": {
+    "dato": "2026-02-12",
+    "produkt": "Møtrikker",
+    "antal": 462,
+    "beløb": 924
+  },
+  "INV1262": {
+    "dato": "2026-02-12",
+    "produkt": "Møtrikker",
+    "antal": 149,
+    "beløb": 298
+  },
+  "INV1263": {
+    "dato": "2026-02-12",
+    "produkt": "Skruer",
+    "antal": 200,
+    "beløb": 700.0
+  },
+  "INV1264": {
+    "dato": "2026-02-12",
+    "produkt": "Møtrikker",
+    "antal": 383,
+    "beløb": 766
+  },
+  "INV1265": {
+    "dato": "2026-02-13",
+    "produkt": "Søm",
+    "antal": 198,
+    "beløb": 396
+  },
+  "INV1266": {
+    "dato": "2026-02-13",
+    "produkt": "Skruer",
+    "antal": 113,
+    "beløb": 395.5
+  },
+  "INV1267": {
+    "dato": "2026-02-13",
+    "produkt": "Skruer",
+    "antal": 245,
+    "beløb": 857.5
+  },
+  "INV1268": {
+    "dato": "2026-02-13",
+    "produkt": "Søm",
+    "antal": 237,
+    "beløb": 474
+  },
+  "INV1269": {
+    "dato": "2026-02-13",
+    "produkt": "Bolte",
+    "antal": 434,
+    "beløb": 1736
+  },
+  "INV1270": {
+    "dato": "2026-02-13",
+    "produkt": "Møtrikker",
+    "antal": 613,
+    "beløb": 1226
+  },
+  "INV1271": {
+    "dato": "2026-02-13",
+    "produkt": "Søm",
+    "antal": 667,
+    "beløb": 1334
+  },
+  "INV1272": {
+    "dato": "2026-02-13",
+    "produkt": "Møtrikker",
+    "antal": 352,
+    "beløb": 704
+  },
+  "INV1273": {
+    "dato": "2026-02-13",
+    "produkt": "Søm",
+    "antal": 199,
+    "beløb": 398
+  },
+  "INV1274": {
+    "dato": "2026-02-13",
+    "produkt": "Møtrikker",
+    "antal": 465,
+    "beløb": 930
+  },
+  "INV1275": {
+    "dato": "2026-02-14",
+    "produkt": "Møtrikker",
+    "antal": 382,
+    "beløb": 764
+  },
+  "INV1276": {
+    "dato": "2026-02-14",
+    "produkt": "Bolte",
+    "antal": 340,
+    "beløb": 1360
+  },
+  "INV1277": {
+    "dato": "2026-02-14",
+    "produkt": "Skruer",
+    "antal": 353,
+    "beløb": 1235.5
+  },
+  "INV1278": {
+    "dato": "2026-02-15",
+    "produkt": "Skruer",
+    "antal": 395,
+    "beløb": 1382.5
+  },
+  "INV1279": {
+    "dato": "2026-02-15",
+    "produkt": "Møtrikker",
+    "antal": 601,
+    "beløb": 1202
+  },
+  "INV1280": {
+    "dato": "2026-02-15",
+    "produkt": "Skruer",
+    "antal": 698,
+    "beløb": 2443.0
+  },
+  "INV1281": {
+    "dato": "2026-02-15",
+    "produkt": "Møtrikker",
+    "antal": 671,
+    "beløb": 1342
+  },
+  "INV1282": {
+    "dato": "2026-02-15",
+    "produkt": "Møtrikker",
+    "antal": 393,
+    "beløb": 786
+  },
+  "INV1283": {
+    "dato": "2026-02-15",
+    "produkt": "Søm",
+    "antal": 691,
+    "beløb": 1382
+  },
+  "INV1284": {
+    "dato": "2026-02-15",
+    "produkt": "Skruer",
+    "antal": 426,
+    "beløb": 1491.0
+  },
+  "INV1285": {
+    "dato": "2026-02-15",
+    "produkt": "Møtrikker",
+    "antal": 292,
+    "beløb": 584
+  },
+  "INV1286": {
+    "dato": "2026-02-15",
+    "produkt": "Bolte",
+    "antal": 207,
+    "beløb": 828
+  },
+  "INV1287": {
+    "dato": "2026-02-15",
+    "produkt": "Søm",
+    "antal": 632,
+    "beløb": 1264
+  },
+  "INV1288": {
+    "dato": "2026-02-17",
+    "produkt": "Møtrikker",
+    "antal": 425,
+    "beløb": 850
+  },
+  "INV1289": {
+    "dato": "2026-02-17",
+    "produkt": "Møtrikker",
+    "antal": 531,
+    "beløb": 1062
+  },
+  "INV1290": {
+    "dato": "2026-02-17",
+    "produkt": "Bolte",
+    "antal": 352,
+    "beløb": 1408
+  },
+  "INV1291": {
+    "dato": "2026-02-17",
+    "produkt": "Søm",
+    "antal": 521,
+    "beløb": 1042
+  },
+  "INV1292": {
+    "dato": "2026-02-17",
+    "produkt": "Skruer",
+    "antal": 113,
+    "beløb": 395.5
+  },
+  "INV1293": {
+    "dato": "2026-02-17",
+    "produkt": "Søm",
+    "antal": 198,
+    "beløb": 396
+  },
+  "INV1294": {
+    "dato": "2026-02-17",
+    "produkt": "Bolte",
+    "antal": 277,
+    "beløb": 1108
+  },
+  "INV1295": {
+    "dato": "2026-02-17",
+    "produkt": "Bolte",
+    "antal": 359,
+    "beløb": 1436
+  },
+  "INV1296": {
+    "dato": "2026-02-17",
+    "produkt": "Møtrikker",
+    "antal": 343,
+    "beløb": 686
+  },
+  "INV1297": {
+    "dato": "2026-02-17",
+    "produkt": "Møtrikker",
+    "antal": 363,
+    "beløb": 726
+  },
+  "INV1298": {
+    "dato": "2026-02-17",
+    "produkt": "Møtrikker",
+    "antal": 254,
+    "beløb": 508
+  },
+  "INV1299": {
+    "dato": "2026-02-18",
+    "produkt": "Søm",
+    "antal": 371,
+    "beløb": 742
+  },
+  "INV1300": {
+    "dato": "2026-02-18",
+    "produkt": "Møtrikker",
+    "antal": 600,
+    "beløb": 1200
+  },
+  "INV1301": {
+    "dato": "2026-02-18",
+    "produkt": "Møtrikker",
+    "antal": 114,
+    "beløb": 228
+  },
+  "INV1302": {
+    "dato": "2026-02-18",
+    "produkt": "Skruer",
+    "antal": 140,
+    "beløb": 490.0
+  },
+  "INV1303": {
+    "dato": "2026-02-18",
+    "produkt": "Skruer",
+    "antal": 411,
+    "beløb": 1438.5
+  },
+  "INV1304": {
+    "dato": "2026-02-18",
+    "produkt": "Bolte",
+    "antal": 154,
+    "beløb": 616
+  },
+  "INV1305": {
+    "dato": "2026-02-19",
+    "produkt": "Søm",
+    "antal": 171,
+    "beløb": 342
+  },
+  "INV1306": {
+    "dato": "2026-02-19",
+    "produkt": "Skruer",
+    "antal": 650,
+    "beløb": 2275.0
+  },
+  "INV1307": {
+    "dato": "2026-02-19",
+    "produkt": "Møtrikker",
+    "antal": 354,
+    "beløb": 708
+  },
+  "INV1308": {
+    "dato": "2026-02-19",
+    "produkt": "Skruer",
+    "antal": 622,
+    "beløb": 2177.0
+  },
+  "INV1309": {
+    "dato": "2026-02-19",
+    "produkt": "Bolte",
+    "antal": 374,
+    "beløb": 1496
+  },
+  "INV1310": {
+    "dato": "2026-02-19",
+    "produkt": "Skruer",
+    "antal": 433,
+    "beløb": 1515.5
+  },
+  "INV1311": {
+    "dato": "2026-02-20",
+    "produkt": "Møtrikker",
+    "antal": 552,
+    "beløb": 1104
+  },
+  "INV1312": {
+    "dato": "2026-02-20",
+    "produkt": "Skruer",
+    "antal": 533,
+    "beløb": 1865.5
+  },
+  "INV1313": {
+    "dato": "2026-02-20",
+    "produkt": "Søm",
+    "antal": 141,
+    "beløb": 282
+  },
+  "INV1314": {
+    "dato": "2026-02-20",
+    "produkt": "Bolte",
+    "antal": 148,
+    "beløb": 592
+  },
+  "INV1315": {
+    "dato": "2026-02-20",
+    "produkt": "Bolte",
+    "antal": 298,
+    "beløb": 1192
+  },
+  "INV1316": {
+    "dato": "2026-02-20",
+    "produkt": "Søm",
+    "antal": 262,
+    "beløb": 524
+  },
+  "INV1317": {
+    "dato": "2026-02-20",
+    "produkt": "Skruer",
+    "antal": 529,
+    "beløb": 1851.5
+  },
+  "INV1318": {
+    "dato": "2026-02-20",
+    "produkt": "Søm",
+    "antal": 265,
+    "beløb": 530
+  },
+  "INV1319": {
+    "dato": "2026-02-21",
+    "produkt": "Møtrikker",
+    "antal": 449,
+    "beløb": 898
+  },
+  "INV1320": {
+    "dato": "2026-02-21",
+    "produkt": "Møtrikker",
+    "antal": 342,
+    "beløb": 684
+  },
+  "INV1321": {
+    "dato": "2026-02-21",
+    "produkt": "Søm",
+    "antal": 151,
+    "beløb": 302
+  },
+  "INV1322": {
+    "dato": "2026-02-21",
+    "produkt": "Søm",
+    "antal": 529,
+    "beløb": 1058
+  },
+  "INV1323": {
+    "dato": "2026-02-21",
+    "produkt": "Søm",
+    "antal": 499,
+    "beløb": 998
+  },
+  "INV1324": {
+    "dato": "2026-02-21",
+    "produkt": "Møtrikker",
+    "antal": 571,
+    "beløb": 1142
+  },
+  "INV1325": {
+    "dato": "2026-02-21",
+    "produkt": "Søm",
+    "antal": 490,
+    "beløb": 980
+  },
+  "INV1326": {
+    "dato": "2026-02-21",
+    "produkt": "Møtrikker",
+    "antal": 444,
+    "beløb": 888
+  },
+  "INV1327": {
+    "dato": "2026-02-21",
+    "produkt": "Møtrikker",
+    "antal": 626,
+    "beløb": 1252
+  },
+  "INV1328": {
+    "dato": "2026-02-21",
+    "produkt": "Møtrikker",
+    "antal": 673,
+    "beløb": 1346
+  },
+  "INV1329": {
+    "dato": "2026-02-21",
+    "produkt": "Skruer",
+    "antal": 339,
+    "beløb": 1186.5
+  },
+  "INV1330": {
+    "dato": "2026-02-21",
+    "produkt": "Møtrikker",
+    "antal": 643,
+    "beløb": 1286
+  },
+  "INV1331": {
+    "dato": "2026-02-22",
+    "produkt": "Søm",
+    "antal": 122,
+    "beløb": 244
+  },
+  "INV1332": {
+    "dato": "2026-02-22",
+    "produkt": "Bolte",
+    "antal": 482,
+    "beløb": 1928
+  },
+  "INV1333": {
+    "dato": "2026-02-22",
+    "produkt": "Søm",
+    "antal": 194,
+    "beløb": 388
+  },
+  "INV1334": {
+    "dato": "2026-02-24",
+    "produkt": "Bolte",
+    "antal": 127,
+    "beløb": 508
+  },
+  "INV1335": {
+    "dato": "2026-02-24",
+    "produkt": "Skruer",
+    "antal": 696,
+    "beløb": 2436.0
+  },
+  "INV1336": {
+    "dato": "2026-02-24",
+    "produkt": "Søm",
+    "antal": 135,
+    "beløb": 270
+  },
+  "INV1337": {
+    "dato": "2026-02-24",
+    "produkt": "Skruer",
+    "antal": 263,
+    "beløb": 920.5
+  },
+  "INV1338": {
+    "dato": "2026-02-24",
+    "produkt": "Bolte",
+    "antal": 445,
+    "beløb": 1780
+  },
+  "INV1339": {
+    "dato": "2026-02-24",
+    "produkt": "Bolte",
+    "antal": 176,
+    "beløb": 704
+  },
+  "INV1340": {
+    "dato": "2026-02-24",
+    "produkt": "Skruer",
+    "antal": 241,
+    "beløb": 843.5
+  },
+  "INV1341": {
+    "dato": "2026-02-24",
+    "produkt": "Bolte",
+    "antal": 241,
+    "beløb": 964
+  },
+  "INV1342": {
+    "dato": "2026-02-24",
+    "produkt": "Bolte",
+    "antal": 310,
+    "beløb": 1240
+  },
+  "INV1343": {
+    "dato": "2026-02-24",
+    "produkt": "Bolte",
+    "antal": 320,
+    "beløb": 1280
+  },
+  "INV1344": {
+    "dato": "2026-02-25",
+    "produkt": "Møtrikker",
+    "antal": 465,
+    "beløb": 930
+  },
+  "INV1345": {
+    "dato": "2026-02-25",
+    "produkt": "Møtrikker",
+    "antal": 461,
+    "beløb": 922
+  },
+  "INV1346": {
+    "dato": "2026-02-25",
+    "produkt": "Bolte",
+    "antal": 554,
+    "beløb": 2216
+  },
+  "INV1347": {
+    "dato": "2026-02-26",
+    "produkt": "Bolte",
+    "antal": 392,
+    "beløb": 1568
+  },
+  "INV1348": {
+    "dato": "2026-02-26",
+    "produkt": "Skruer",
+    "antal": 141,
+    "beløb": 493.5
+  },
+  "INV1349": {
+    "dato": "2026-02-26",
+    "produkt": "Møtrikker",
+    "antal": 408,
+    "beløb": 816
+  },
+  "INV1350": {
+    "dato": "2026-02-26",
+    "produkt": "Bolte",
+    "antal": 593,
+    "beløb": 2372
+  },
+  "INV1351": {
+    "dato": "2026-02-26",
+    "produkt": "Møtrikker",
+    "antal": 367,
+    "beløb": 734
+  },
+  "INV1352": {
+    "dato": "2026-02-26",
+    "produkt": "Søm",
+    "antal": 206,
+    "beløb": 412
+  },
+  "INV1353": {
+    "dato": "2026-02-26",
+    "produkt": "Søm",
+    "antal": 159,
+    "beløb": 318
+  },
+  "INV1354": {
+    "dato": "2026-02-26",
+    "produkt": "Søm",
+    "antal": 336,
+    "beløb": 672
+  },
+  "INV1355": {
+    "dato": "2026-02-26",
+    "produkt": "Søm",
+    "antal": 162,
+    "beløb": 324
+  },
+  "INV1356": {
+    "dato": "2026-02-26",
+    "produkt": "Møtrikker",
+    "antal": 293,
+    "beløb": 586
+  },
+  "INV1357": {
+    "dato": "2026-02-26",
+    "produkt": "Søm",
+    "antal": 344,
+    "beløb": 688
+  },
+  "INV1358": {
+    "dato": "2026-02-26",
+    "produkt": "Skruer",
+    "antal": 105,
+    "beløb": 367.5
+  },
+  "INV1359": {
+    "dato": "2026-02-27",
+    "produkt": "Bolte",
+    "antal": 330,
+    "beløb": 1320
+  },
+  "INV1360": {
+    "dato": "2026-02-27",
+    "produkt": "Skruer",
+    "antal": 381,
+    "beløb": 1333.5
+  },
+  "INV1361": {
+    "dato": "2026-02-27",
+    "produkt": "Søm",
+    "antal": 302,
+    "beløb": 604
+  },
+  "INV1362": {
+    "dato": "2026-02-27",
+    "produkt": "Skruer",
+    "antal": 453,
+    "beløb": 1585.5
+  },
+  "INV1363": {
+    "dato": "2026-02-27",
+    "produkt": "Møtrikker",
+    "antal": 124,
+    "beløb": 248
+  },
+  "INV1364": {
+    "dato": "2026-02-27",
+    "produkt": "Møtrikker",
+    "antal": 341,
+    "beløb": 682
+  },
+  "INV1365": {
+    "dato": "2026-02-27",
+    "produkt": "Skruer",
+    "antal": 153,
+    "beløb": 535.5
+  },
+  "INV1366": {
+    "dato": "2026-02-28",
+    "produkt": "Skruer",
+    "antal": 110,
+    "beløb": 385.0
+  },
+  "INV1367": {
+    "dato": "2026-02-28",
+    "produkt": "Søm",
+    "antal": 501,
+    "beløb": 1002
+  },
+  "INV1368": {
+    "dato": "2026-02-28",
+    "produkt": "Skruer",
+    "antal": 626,
+    "beløb": 2191.0
+  },
+  "INV1369": {
+    "dato": "2026-02-28",
+    "produkt": "Søm",
+    "antal": 380,
+    "beløb": 760
+  }
+}

@@ -1,0 +1,12 @@
+cl_winners = [
+    'Paris Saint-Germain',
+    'Bayern München',
+    'Inter Milan',
+    'Manchester City',
+    'Chelsea',
+    'FC Barcelona',
+    'Liverpool',
+    'Borussia Dortmund',
+    'Juventus',
+    'Ajax'
+]
