@@ -3,6 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 url = "https://api.frankfurter.dev/v2/rates"
+#
 
 params = {
     "from": "2025-01-01",
