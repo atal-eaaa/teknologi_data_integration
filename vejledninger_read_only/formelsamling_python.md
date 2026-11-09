@@ -47,6 +47,7 @@ En liste skrives med `[ ]` og indeholder elementer adskilt af komma. Det **førs
 | `liste[-1]` | Det sidste element i listen |
 | `liste.append(x)` | Tilføjer `x` sidst i listen |
 | `for x in liste:` | Looper igennem hvert element i listen, ét ad gangen |
+| `for i, x in enumerate(liste):` | Looper igennem listen og giver både indeks `i` og element `x` |
 | `while i < len(liste):` | Looper med et tælleindeks `i` – bruges ofte sammen med `liste[i]` |
 
 
@@ -159,6 +160,19 @@ Tæller fra `start` op til (men **ikke med**) `stop`, i spring på `step` ad gan
 | `for t in range(5):` | `0` `1` `2` `3` `4` |
 | `for t in range(1, 5):` | `1` `2` `3` `4` |
 | `for t in range(2, 11, 2):` | `2` `4` `6` `8` `10` |
+
+### for-loop med `enumerate(liste)`
+
+Giver **både indeks og element** i hver omgang, så du slipper for selv at tælle med. Indekset starter ved `0`. `enumerate(liste, 1)` starter i stedet ved `1`.
+
+```python
+1  farver = ["rød", "grøn", "blå"]
+2  for i, farve in enumerate(farver):
+3      print(i, farve)
+4  # 0 rød
+5  # 1 grøn
+6  # 2 blå
+```
 
 ### while-loop
 
