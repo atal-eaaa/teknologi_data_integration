@@ -1,0 +1,121 @@
+[
+  {
+    "trin": 1,
+    "fra": "Kunde",
+    "til": "API Gateway",
+    "venter_afsenderen": true,
+    "request": {
+      "customer_id": "C-208",
+      "items": [{"sku": "SKU-7731", "qty": 2}]
+    },
+    "response": {
+      "order_id": "ORD-1042",
+      "status": "confirmed"
+    }
+  },
+  {
+    "trin": 2,
+    "fra": "API Gateway",
+    "til": "Ordre Service",
+    "venter_afsenderen": true,
+    "request": {
+      "customer_id": "C-208",
+      "items": [{"sku": "SKU-7731", "qty": 2}]
+    },
+    "response": {
+      "order_id": "ORD-1042",
+      "status": "confirmed"
+    }
+  },
+  {
+    "trin": 3,
+    "fra": "Ordre Service",
+    "til": "Ordre DB",
+    "venter_afsenderen": true,
+    "request": {
+      "handling": "opret",
+      "tabel": "ordrer",
+      "data": {
+        "customer_id": "C-208",
+        "items": [{"sku": "SKU-7731", "qty": 2}],
+        "status": "pending"
+      }
+    },
+    "response": {
+      "order_id": "ORD-1042",
+      "customer_email": "kunde@example.com"
+    }
+  },
+  {
+    "trin": 4,
+    "fra": "Ordre Service",
+    "til": "Lager Service",
+    "venter_afsenderen": null,
+    "request": {},
+    "response": {}
+  },
+  {
+    "trin": 5,
+    "fra": "Lager Service",
+    "til": "Lager DB",
+    "venter_afsenderen": null,
+    "request": {},
+    "response": {}
+  },
+  {
+    "trin": 6,
+    "fra": "Ordre Service",
+    "til": "Betaling Service",
+    "venter_afsenderen": null,
+    "request": {},
+    "response": {}
+  },
+  {
+    "trin": 7,
+    "fra": "Betaling Service",
+    "til": "Betalingsudbyder",
+    "venter_afsenderen": null,
+    "request": {},
+    "response": {}
+  },
+  {
+    "trin": 8,
+    "fra": "Betaling Service",
+    "til": "Betaling DB",
+    "venter_afsenderen": null,
+    "request": {},
+    "response": {}
+  },
+  {
+    "trin": 9,
+    "fra": "Ordre Service",
+    "til": "Ordre DB",
+    "venter_afsenderen": null,
+    "request": {},
+    "response": {}
+  },
+  {
+    "trin": 10,
+    "fra": "Ordre Service",
+    "til": "Message Queue",
+    "venter_afsenderen": null,
+    "request": {},
+    "response": {}
+  },
+  {
+    "trin": 11,
+    "fra": "Message Queue",
+    "til": "Notifikation Service",
+    "venter_afsenderen": null,
+    "request": {},
+    "response": {}
+  },
+  {
+    "trin": 12,
+    "fra": "Notifikation Service",
+    "til": "E-mailudbyder",
+    "venter_afsenderen": null,
+    "request": {},
+    "response": {}
+  }
+]
