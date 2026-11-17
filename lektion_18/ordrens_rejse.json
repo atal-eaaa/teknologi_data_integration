@@ -1,11 +1,15 @@
 [
   {
     "trin": 1,
-    "fra": "Kunde",
+    "fra": "Klient",
     "til": "API Gateway",
     "venter_afsenderen": true,
     "request": {
-      "customer_id": "C-208",
+      "customer": {
+        "name": "Mette Hansen",
+        "email": "mette@example.com",
+        "address": {"street": "Sønderhøj 30", "zip": "8260", "city": "Viby J"}
+      },
       "items": [{"sku": "SKU-7731", "qty": 2}]
     },
     "response": {
@@ -19,7 +23,11 @@
     "til": "Ordre Service",
     "venter_afsenderen": true,
     "request": {
-      "customer_id": "C-208",
+      "customer": {
+        "name": "Mette Hansen",
+        "email": "mette@example.com",
+        "address": {"street": "Sønderhøj 30", "zip": "8260", "city": "Viby J"}
+      },
       "items": [{"sku": "SKU-7731", "qty": 2}]
     },
     "response": {
@@ -36,14 +44,17 @@
       "handling": "opret",
       "tabel": "ordrer",
       "data": {
-        "customer_id": "C-208",
+        "customer": {
+          "name": "Mette Hansen",
+          "email": "mette@example.com",
+          "address": {"street": "Sønderhøj 30", "zip": "8260", "city": "Viby J"}
+        },
         "items": [{"sku": "SKU-7731", "qty": 2}],
         "status": "pending"
       }
     },
     "response": {
-      "order_id": "ORD-1042",
-      "customer_email": "kunde@example.com"
+      "order_id": "ORD-1042"
     }
   },
   {
